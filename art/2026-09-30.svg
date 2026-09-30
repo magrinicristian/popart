@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="14" cy="14" r="7" fill="{{DOT}}"/>
+    </pattern>
+  </defs>
+  <rect width="1080" height="1080" fill="{{BG}}"/>
+  <rect width="1080" height="1080" fill="url(#dots)"/>
+  <!-- raggi pop -->
+  <g fill="{{C3}}" stroke="{{INK}}" stroke-width="10" stroke-linejoin="round">
+    <polygon points="540,540 1080,300 1080,420"/>
+    <polygon points="540,540 780,1080 660,1080"/>
+    <polygon points="540,540 0,760 0,640"/>
+    <polygon points="540,540 300,0 420,0"/>
+  </g>
+  <!-- limone intero in alto a sinistra -->
+  <g stroke="{{INK}}" stroke-width="16" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M300 250 C 320 180, 400 150, 440 190 C 470 170, 520 180, 530 230" fill="{{C2}}"/>
+    <ellipse cx="300" cy="360" rx="190" ry="140" fill="{{C1}}" transform="rotate(-25 300 360)"/>
+    <path d="M140 430 L110 460" fill="none"/>
+    <path d="M455 280 L485 250" fill="none"/>
+  </g>
+  <path d="M200 300 C 230 260, 280 245, 320 250" fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round"/>
+  <!-- mezzo limone grande -->
+  <g stroke="{{INK}}" stroke-width="18" stroke-linejoin="round">
+    <circle cx="640" cy="660" r="300" fill="{{C1}}"/>
+    <circle cx="640" cy="660" r="255" fill="#FFFFFF"/>
+    <circle cx="640" cy="660" r="225" fill="{{C1}}" stroke-width="8"/>
+  </g>
+  <g fill="#FFFFFF" stroke="{{INK}}" stroke-width="8" stroke-linejoin="round">
+    <polygon points="640,660 640,450 715,470"/>
+    <polygon points="640,660 790,510 830,580"/>
+    <polygon points="640,660 850,660 830,740"/>
+    <polygon points="640,660 790,810 715,850"/>
+    <polygon points="640,660 640,870 565,850"/>
+    <polygon points="640,660 490,810 450,740"/>
+    <polygon points="640,660 430,660 450,580"/>
+    <polygon points="640,660 490,510 565,470"/>
+  </g>
+  <circle cx="640" cy="660" r="26" fill="#FFFFFF" stroke="{{INK}}" stroke-width="8"/>
+  <!-- foglie -->
+  <g stroke="{{INK}}" stroke-width="14" stroke-linejoin="round">
+    <path d="M880 250 C 960 200, 1030 230, 1040 300 C 960 330, 900 310, 880 250 Z" fill="{{C2}}"/>
+    <path d="M880 250 C 870 170, 900 110, 960 90 C 990 160, 950 220, 880 250 Z" fill="{{C2}}"/>
+  </g>
+  <path d="M885 250 L1020 295 M885 245 L950 110" stroke="{{INK}}" stroke-width="6" fill="none"/>
+  <!-- goccia e stelle -->
+  <path d="M190 780 C 190 740, 230 700, 250 670 C 270 700, 310 740, 310 780 C 310 815, 285 840, 250 840 C 215 840, 190 815, 190 780 Z" fill="{{C3}}" stroke="{{INK}}" stroke-width="12"/>
+  <g fill="#FFFFFF" stroke="{{INK}}" stroke-width="8" stroke-linejoin="round">
+    <polygon points="960,860 975,900 1015,905 985,930 995,970 960,948 925,970 935,930 905,905 945,900"/>
+    <polygon points="110,110 120,138 148,141 127,158 134,186 110,171 86,186 93,158 72,141 100,138"/>
+  </g>
+</svg>

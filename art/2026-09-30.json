@@ -1,0 +1,6 @@
+{"subject": "limoni", "technique": "retino Ben-Day con raggi pop",
+ "palettes": [
+  {"BG": "#00A6E0", "DOT": "#4FC4EE", "C1": "#FFE500", "C2": "#00B050", "C3": "#E4007C", "INK": "#111111"},
+  {"BG": "#E4007C", "DOT": "#F25AAE", "C1": "#FFE500", "C2": "#00A6E0", "C3": "#FF6B00", "INK": "#111111"},
+  {"BG": "#FFE500", "DOT": "#FFB300", "C1": "#FF6B00", "C2": "#6A2CFF", "C3": "#00A6E0", "INK": "#111111"}
+ ]}
