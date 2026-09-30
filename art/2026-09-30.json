@@ -1,6 +1,35 @@
-{"subject": "limoni", "technique": "retino Ben-Day con raggi pop",
+{
+ "subject": "limoni",
+ "technique": "retino Ben-Day con raggi pop",
  "palettes": [
-  {"BG": "#00A6E0", "DOT": "#4FC4EE", "C1": "#FFE500", "C2": "#00B050", "C3": "#E4007C", "INK": "#111111"},
-  {"BG": "#E4007C", "DOT": "#F25AAE", "C1": "#FFE500", "C2": "#00A6E0", "C3": "#FF6B00", "INK": "#111111"},
-  {"BG": "#FFE500", "DOT": "#FFB300", "C1": "#FF6B00", "C2": "#6A2CFF", "C3": "#00A6E0", "INK": "#111111"}
- ]}
+  {
+   "BG": "#00A6E0",
+   "DOT": "#4FC4EE",
+   "C1": "#FFE500",
+   "C2": "#00B050",
+   "C3": "#E4007C",
+   "INK": "#111111"
+  },
+  {
+   "BG": "#E4007C",
+   "DOT": "#F25AAE",
+   "C1": "#FFE500",
+   "C2": "#00A6E0",
+   "C3": "#FF6B00",
+   "INK": "#111111"
+  },
+  {
+   "BG": "#FFE500",
+   "DOT": "#FFB300",
+   "C1": "#FF6B00",
+   "C2": "#6A2CFF",
+   "C3": "#00A6E0",
+   "INK": "#111111"
+  }
+ ],
+ "caption": "Limoni sotto il sole di mezzogiorno. Un limone intero, lucido e ancora col suo ciuffo di foglie, rotola accanto a una fetta gigante tagliata di netto: gli spicchi bianchi girano come i raggi di una ruota. Dietro, fasci di colore esplodono dal centro come un flash, su un cielo di retino Ben-Day. Cade una goccia di succo, brillano due stelle.\n\nTre visioni della stessa scena: cielo azzurro, magenta acceso, giallo solare.",
+ "published": {
+  "at": "2026-09-30T15:03+02:00",
+  "make_execution": "102d8d68ed414a0980c5559b5a77fd4d"
+ }
+}

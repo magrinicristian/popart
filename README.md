@@ -6,3 +6,5 @@ Ogni giorno una nuova pop art originale, senza testi, in tre varianti di colore 
 - `art/AAAA-MM-GG.json` — soggetto, tecnica e le 3 palette
 - `images/AAAA-MM-GG/1.jpg … 3.jpg` — JPEG 1080×1080 pubblicati
 - `tools/render.py` — `python3 tools/render.py art/X.svg art/X.json images/X`
+- `PROCEDURA.md` — come viene creato e pubblicato il post di ogni giorno
+- Pubblicazione: scenario Make "Pop art quotidiana → Instagram @magrinicristian" (carosello da `images/AAAA-MM-GG/`, input `date` e `caption`)
