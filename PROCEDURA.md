@@ -3,7 +3,8 @@
 Ogni giorno Claude inventa una nuova pop art, la rende in 3 varianti e la pubblica come carosello su Instagram tramite Make.
 
 ## Regole dell'immagine
-- Originale, disegnata da Claude come SVG 1080×1080 (nessuna foto, nessun asset esterno).
+- Originale, disegnata da Claude come SVG **1080×1350 verticale 4:5** (`width="1080" height="1350" viewBox="0 0 1080 1350"`), nessuna foto, nessun asset esterno. È il formato più grande che Instagram accetta via API (il 3:4 viene rifiutato).
+- Soggetto centrato: la griglia del profilo ritaglia in 3:4, quindi le fasce alte e basse (~45 px ciascuna) devono contenere solo sfondo, retino o raggi.
 - **Nessun testo**: niente `<text>`, lettere, numeri, loghi, balloon con parole, marchi o personaggi protetti.
 - Stile pop art: contorni neri spessi, colori piatti saturi, retino Ben-Day, raggi, stelle, gocce.
 - Soggetto diverso da tutti quelli già in `art/*.json` (campo `subject`).
