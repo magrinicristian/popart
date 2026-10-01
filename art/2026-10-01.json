@@ -1,0 +1,31 @@
+{
+ "subject": "cono gelato a tre gusti con ciliegia",
+ "technique": "split diagonale con campiture piatte e ombre grafiche",
+ "palettes": [
+  {
+   "BG": "#7FD8F5",
+   "DOT": "#FFFFFF",
+   "C1": "#FFD23F",
+   "C2": "#E8A35A",
+   "C3": "#FF4F8B",
+   "INK": "#141414"
+  },
+  {
+   "BG": "#1A0B3D",
+   "DOT": "#3A1D8C",
+   "C1": "#39FF88",
+   "C2": "#FF9E00",
+   "C3": "#FF2BD6",
+   "INK": "#050505"
+  },
+  {
+   "BG": "#FF7A3D",
+   "DOT": "#FFC15E",
+   "C1": "#B8F23A",
+   "C2": "#C9733A",
+   "C3": "#D7193F",
+   "INK": "#2A0E12"
+  }
+ ],
+ "caption": "Un cono di cialda croccante regge una torre di tre palline di gusti diversi, con quella bianca di fior di latte nel mezzo e una ciliegia lucida in equilibrio sulla vetta. Fa caldo, e lente gocce colano lungo i bordi smerlati. Dietro, un sole a doppia corona si apre come un timbro di festa, mentre una linea netta taglia in diagonale il cielo a pois. Zuccherini colorati cadono sulla pallina più alta, scintille bianche brillano tutto intorno.\n\nTre visioni della stessa scena: mattina d'estate al mare, notte neon sul lungomare, tramonto di agosto."
+}

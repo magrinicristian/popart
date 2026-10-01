@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<defs>
+<pattern id="d1" width="30" height="30" patternUnits="userSpaceOnUse"><rect width="30" height="30" fill="{{BG}}"/><circle cx="7.5" cy="7.5" r="6" fill="{{DOT}}"/><circle cx="22.5" cy="22.5" r="6" fill="{{DOT}}"/></pattern>
+<pattern id="d2" width="30" height="30" patternUnits="userSpaceOnUse"><rect width="30" height="30" fill="{{DOT}}"/><circle cx="7.5" cy="7.5" r="4" fill="{{BG}}"/><circle cx="22.5" cy="22.5" r="4" fill="{{BG}}"/></pattern>
+<pattern id="d3" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="9" cy="9" r="3.2" fill="{{INK}}" fill-opacity="0.28"/></pattern>
+<clipPath id="cone"><polygon points="380,770 700,770 540,1240"/></clipPath>
+</defs>
+<rect width="1080" height="1350" fill="url(#d1)"/>
+<polygon points="1080,0 1080,1350 0,1350 0,1180" fill="url(#d2)"/>
+<polygon points="1080,0 0,1180 0,1205 1080,25" fill="{{INK}}"/>
+<polygon points="1030.0,640.0 932.3,718.0 992.7,827.5 872.6,862.2 886.5,986.5 762.2,972.6 727.5,1092.7 618.0,1032.3 540.0,1130.0 462.0,1032.3 352.5,1092.7 317.8,972.6 193.5,986.5 207.4,862.2 87.3,827.5 147.7,718.0 50.0,640.0 147.7,562.0 87.3,452.5 207.4,417.8 193.5,293.5 317.8,307.4 352.5,187.3 462.0,247.7 540.0,150.0 618.0,247.7 727.5,187.3 762.2,307.4 886.5,293.5 872.6,417.8 992.7,452.5 932.3,562.0" fill="{{C3}}" stroke="{{INK}}" stroke-width="8" stroke-linejoin="round"/>
+<polygon points="956.8,722.9 858.7,772.0 893.4,876.1 784.0,884.0 776.1,993.4 672.0,958.7 622.9,1056.8 540.0,985.0 457.1,1056.8 408.0,958.7 303.9,993.4 296.0,884.0 186.6,876.1 221.3,772.0 123.2,722.9 195.0,640.0 123.2,557.1 221.3,508.0 186.6,403.9 296.0,396.0 303.9,286.6 408.0,321.3 457.1,223.2 540.0,295.0 622.9,223.2 672.0,321.3 776.1,286.6 784.0,396.0 893.4,403.9 858.7,508.0 956.8,557.1 885.0,640.0" fill="{{C1}}" stroke="{{INK}}" stroke-width="8" stroke-linejoin="round"/>
+<circle cx="540" cy="640" r="330" fill="{{BG}}" stroke="{{INK}}" stroke-width="10"/>
+<circle cx="540" cy="640" r="330" fill="url(#d3)"/>
+<polygon points="402,792 722,792 562,1262" fill="{{INK}}"/>
+<polygon points="380,770 700,770 540,1240" fill="{{C2}}"/>
+<g clip-path="url(#cone)" stroke="{{INK}}" stroke-width="7">
+<line x1="12" y1="770" x2="312" y2="1250"/>
+<line x1="12" y1="770" x2="-288" y2="1250"/>
+<line x1="56" y1="770" x2="356" y2="1250"/>
+<line x1="56" y1="770" x2="-244" y2="1250"/>
+<line x1="100" y1="770" x2="400" y2="1250"/>
+<line x1="100" y1="770" x2="-200" y2="1250"/>
+<line x1="144" y1="770" x2="444" y2="1250"/>
+<line x1="144" y1="770" x2="-156" y2="1250"/>
+<line x1="188" y1="770" x2="488" y2="1250"/>
+<line x1="188" y1="770" x2="-112" y2="1250"/>
+<line x1="232" y1="770" x2="532" y2="1250"/>
+<line x1="232" y1="770" x2="-68" y2="1250"/>
+<line x1="276" y1="770" x2="576" y2="1250"/>
+<line x1="276" y1="770" x2="-24" y2="1250"/>
+<line x1="320" y1="770" x2="620" y2="1250"/>
+<line x1="320" y1="770" x2="20" y2="1250"/>
+<line x1="364" y1="770" x2="664" y2="1250"/>
+<line x1="364" y1="770" x2="64" y2="1250"/>
+<line x1="408" y1="770" x2="708" y2="1250"/>
+<line x1="408" y1="770" x2="108" y2="1250"/>
+<line x1="452" y1="770" x2="752" y2="1250"/>
+<line x1="452" y1="770" x2="152" y2="1250"/>
+<line x1="496" y1="770" x2="796" y2="1250"/>
+<line x1="496" y1="770" x2="196" y2="1250"/>
+<line x1="540" y1="770" x2="840" y2="1250"/>
+<line x1="540" y1="770" x2="240" y2="1250"/>
+<line x1="584" y1="770" x2="884" y2="1250"/>
+<line x1="584" y1="770" x2="284" y2="1250"/>
+<line x1="628" y1="770" x2="928" y2="1250"/>
+<line x1="628" y1="770" x2="328" y2="1250"/>
+<line x1="672" y1="770" x2="972" y2="1250"/>
+<line x1="672" y1="770" x2="372" y2="1250"/>
+<line x1="716" y1="770" x2="1016" y2="1250"/>
+<line x1="716" y1="770" x2="416" y2="1250"/>
+<line x1="760" y1="770" x2="1060" y2="1250"/>
+<line x1="760" y1="770" x2="460" y2="1250"/>
+<line x1="804" y1="770" x2="1104" y2="1250"/>
+<line x1="804" y1="770" x2="504" y2="1250"/>
+<line x1="848" y1="770" x2="1148" y2="1250"/>
+<line x1="848" y1="770" x2="548" y2="1250"/>
+<line x1="892" y1="770" x2="1192" y2="1250"/>
+<line x1="892" y1="770" x2="592" y2="1250"/>
+<line x1="936" y1="770" x2="1236" y2="1250"/>
+<line x1="936" y1="770" x2="636" y2="1250"/>
+<line x1="980" y1="770" x2="1280" y2="1250"/>
+<line x1="980" y1="770" x2="680" y2="1250"/>
+<line x1="1024" y1="770" x2="1324" y2="1250"/>
+<line x1="1024" y1="770" x2="724" y2="1250"/>
+<line x1="1068" y1="770" x2="1368" y2="1250"/>
+<line x1="1068" y1="770" x2="768" y2="1250"/>
+<line x1="1112" y1="770" x2="1412" y2="1250"/>
+<line x1="1112" y1="770" x2="812" y2="1250"/>
+</g>
+<polygon points="540,1240 380,770 430,770 548,1150" fill="{{INK}}" fill-opacity="0.25"/>
+<polygon points="380,770 700,770 540,1240" fill="none" stroke="{{INK}}" stroke-width="12" stroke-linejoin="round"/>
+<path d="M 369.6,796.5 A 170 170 0 1 1 750.4,796.5 A 27.2 24.5 0 0 1 696.0,796.5 A 27.2 24.5 0 0 1 641.6,796.5 A 27.2 24.5 0 0 1 587.2,796.5 A 27.2 24.5 0 0 1 532.8,796.5 A 27.2 24.5 0 0 1 478.4,796.5 A 27.2 24.5 0 0 1 424.0,796.5 A 27.2 24.5 0 0 1 369.6,796.5 Z" fill="{{INK}}"/>
+<rect x="449" y="771.0" width="32" height="150" rx="16" fill="{{INK}}"/>
+<rect x="654" y="771.0" width="32" height="120" rx="16" fill="{{INK}}"/>
+<rect x="429" y="751.0" width="32" height="150" rx="16" fill="{{C3}}" stroke="{{INK}}" stroke-width="9"/>
+<rect x="634" y="751.0" width="32" height="120" rx="16" fill="{{C3}}" stroke="{{INK}}" stroke-width="9"/>
+<path d="M 349.6,776.5 A 170 170 0 1 1 730.4,776.5 A 27.2 24.5 0 0 1 676.0,776.5 A 27.2 24.5 0 0 1 621.6,776.5 A 27.2 24.5 0 0 1 567.2,776.5 A 27.2 24.5 0 0 1 512.8,776.5 A 27.2 24.5 0 0 1 458.4,776.5 A 27.2 24.5 0 0 1 404.0,776.5 A 27.2 24.5 0 0 1 349.6,776.5 Z" fill="{{C3}}" stroke="{{INK}}" stroke-width="11" stroke-linejoin="round"/>
+<ellipse cx="475.4" cy="628.6" rx="37.4" ry="22.1" fill="#FFFFFF" transform="rotate(-30 475.4 628.6)"/>
+<circle cx="434.6" cy="679.6" r="10.2" fill="#FFFFFF"/>
+<path d="M 392.0,622.5 A 150 150 0 1 1 728.0,622.5 A 24.0 21.6 0 0 1 680.0,622.5 A 24.0 21.6 0 0 1 632.0,622.5 A 24.0 21.6 0 0 1 584.0,622.5 A 24.0 21.6 0 0 1 536.0,622.5 A 24.0 21.6 0 0 1 488.0,622.5 A 24.0 21.6 0 0 1 440.0,622.5 A 24.0 21.6 0 0 1 392.0,622.5 Z" fill="{{INK}}"/>
+<rect x="614" y="600.0" width="32" height="120" rx="16" fill="{{INK}}"/>
+<rect x="594" y="580.0" width="32" height="120" rx="16" fill="#FFFFFF" stroke="{{INK}}" stroke-width="9"/>
+<path d="M 372.0,602.5 A 150 150 0 1 1 708.0,602.5 A 24.0 21.6 0 0 1 660.0,602.5 A 24.0 21.6 0 0 1 612.0,602.5 A 24.0 21.6 0 0 1 564.0,602.5 A 24.0 21.6 0 0 1 516.0,602.5 A 24.0 21.6 0 0 1 468.0,602.5 A 24.0 21.6 0 0 1 420.0,602.5 A 24.0 21.6 0 0 1 372.0,602.5 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="11" stroke-linejoin="round"/>
+<ellipse cx="483.0" cy="472.0" rx="33.0" ry="19.5" fill="#FFFFFF" transform="rotate(-30 483.0 472.0)"/>
+<circle cx="447.0" cy="517.0" r="9.0" fill="#FFFFFF"/>
+<path d="M 414.4,463.5 A 130 130 0 1 1 705.6,463.5 A 20.8 18.7 0 0 1 664.0,463.5 A 20.8 18.7 0 0 1 622.4,463.5 A 20.8 18.7 0 0 1 580.8,463.5 A 20.8 18.7 0 0 1 539.2,463.5 A 20.8 18.7 0 0 1 497.6,463.5 A 20.8 18.7 0 0 1 456.0,463.5 A 20.8 18.7 0 0 1 414.4,463.5 Z" fill="{{INK}}"/>
+<rect x="484" y="444.0" width="32" height="100" rx="16" fill="{{INK}}"/>
+<rect x="464" y="424.0" width="32" height="100" rx="16" fill="{{C1}}" stroke="{{INK}}" stroke-width="9"/>
+<path d="M 394.4,443.5 A 130 130 0 1 1 685.6,443.5 A 20.8 18.7 0 0 1 644.0,443.5 A 20.8 18.7 0 0 1 602.4,443.5 A 20.8 18.7 0 0 1 560.8,443.5 A 20.8 18.7 0 0 1 519.2,443.5 A 20.8 18.7 0 0 1 477.6,443.5 A 20.8 18.7 0 0 1 436.0,443.5 A 20.8 18.7 0 0 1 394.4,443.5 Z" fill="{{C1}}" stroke="{{INK}}" stroke-width="11" stroke-linejoin="round"/>
+<ellipse cx="490.6" cy="330.4" rx="28.6" ry="16.9" fill="#FFFFFF" transform="rotate(-30 490.6 330.4)"/>
+<circle cx="459.4" cy="369.4" r="7.8" fill="#FFFFFF"/>
+<rect x="486" y="325" width="28" height="10" rx="5" fill="{{C3}}" stroke="{{INK}}" stroke-width="3" transform="rotate(30 500 330)"/>
+<rect x="546" y="305" width="28" height="10" rx="5" fill="{{C2}}" stroke="{{INK}}" stroke-width="3" transform="rotate(-40 560 310)"/>
+<rect x="586" y="355" width="28" height="10" rx="5" fill="#FFFFFF" stroke="{{INK}}" stroke-width="3" transform="rotate(70 600 360)"/>
+<rect x="456" y="375" width="28" height="10" rx="5" fill="{{INK}}" stroke="{{INK}}" stroke-width="3" transform="rotate(-20 470 380)"/>
+<rect x="516" y="395" width="28" height="10" rx="5" fill="{{C3}}" stroke="{{INK}}" stroke-width="3" transform="rotate(50 530 400)"/>
+<rect x="576" y="405" width="28" height="10" rx="5" fill="{{C2}}" stroke="{{INK}}" stroke-width="3" transform="rotate(-60 590 410)"/>
+<rect x="506" y="345" width="28" height="10" rx="5" fill="#FFFFFF" stroke="{{INK}}" stroke-width="3" transform="rotate(90 520 350)"/>
+<rect x="606" y="315" width="28" height="10" rx="5" fill="{{INK}}" stroke="{{INK}}" stroke-width="3" transform="rotate(15 620 320)"/>
+<path d="M 548,225 C 560,170 600,140 640,130" fill="none" stroke="{{INK}}" stroke-width="10" stroke-linecap="round"/>
+<circle cx="556" cy="246" r="44" fill="{{INK}}"/>
+<circle cx="540" cy="232" r="44" fill="{{C3}}" stroke="{{INK}}" stroke-width="10"/>
+<ellipse cx="526" cy="216" rx="12" ry="8" fill="#FFFFFF" transform="rotate(-35 526 216)"/>
+<polygon points="230,205 242.1,247.9 285,260 242.1,272.1 230,315 217.9,272.1 175,260 217.9,247.9" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="860,290 868.8,321.2 900,330 868.8,338.8 860,370 851.2,338.8 820,330 851.2,321.2" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="850,940 863.2,986.8 910,1000 863.2,1013.2 850,1060 836.8,1013.2 790,1000 836.8,986.8" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="240,942 248.36,971.64 278,980 248.36,988.36 240,1018 231.64,988.36 202,980 231.64,971.64" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="800,154 805.72,174.28 826,180 805.72,185.72 800,206 794.28,185.72 774,180 794.28,174.28" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6" stroke-linejoin="round"/>
+</svg>
