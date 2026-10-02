@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<defs>
+<pattern id="d1" width="28" height="28" patternUnits="userSpaceOnUse"><rect width="28" height="28" fill="{{BG}}"/><circle cx="7" cy="7" r="5" fill="{{DOT}}"/><circle cx="21" cy="21" r="5" fill="{{DOT}}"/></pattern>
+<pattern id="d3" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="8" cy="8" r="3.4" fill="{{INK}}" fill-opacity="0.32"/></pattern>
+<pattern id="d4" width="22" height="22" patternUnits="userSpaceOnUse"><rect width="22" height="22" fill="{{C3}}"/><circle cx="5.5" cy="5.5" r="4" fill="{{C1}}" fill-opacity="0.55"/><circle cx="16.5" cy="16.5" r="4" fill="{{C1}}" fill-opacity="0.55"/></pattern>
+<clipPath id="cup"><path d="M300,640 L780,640 C780,820 720,960 640,990 L440,990 C360,960 300,820 300,640 Z"/></clipPath>
+</defs>
+<rect width="1080" height="1350" fill="url(#d1)"/>
+<circle cx="552" cy="572" r="392" fill="{{INK}}"/>
+<circle cx="540" cy="560" r="390" fill="url(#d4)" stroke="{{INK}}" stroke-width="10"/>
+<rect x="0" y="1230" width="1080" height="120" fill="{{C2}}"/>
+<rect x="-20" y="1150" width="96" height="140" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6"/>
+<polygon points="-28,1150 28.0,1104 84,1150" fill="{{C3}}" stroke="{{INK}}" stroke-width="6" stroke-linejoin="round"/>
+<rect x="-2" y="1172" width="18" height="24" fill="{{INK}}"/>
+<rect x="40" y="1172" width="18" height="24" fill="{{INK}}"/>
+<rect x="-2" y="1218" width="18" height="24" fill="{{INK}}"/>
+<rect x="40" y="1218" width="18" height="24" fill="{{INK}}"/>
+<rect x="82" y="1180" width="70" height="110" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6"/>
+<polygon points="74,1180 117.0,1134 160,1180" fill="{{C3}}" stroke="{{INK}}" stroke-width="6" stroke-linejoin="round"/>
+<rect x="93" y="1202" width="18" height="24" fill="{{INK}}"/>
+<rect x="123" y="1202" width="18" height="24" fill="{{INK}}"/>
+<rect x="93" y="1248" width="18" height="24" fill="{{INK}}"/>
+<rect x="123" y="1248" width="18" height="24" fill="{{INK}}"/>
+<ellipse cx="217.0" cy="1185.0" rx="17.5" ry="105.0" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<rect x="282" y="1150" width="70" height="140" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6"/>
+<polygon points="274,1150 317.0,1104 360,1150" fill="{{C3}}" stroke="{{INK}}" stroke-width="6" stroke-linejoin="round"/>
+<rect x="293" y="1172" width="18" height="24" fill="{{INK}}"/>
+<rect x="323" y="1172" width="18" height="24" fill="{{INK}}"/>
+<rect x="293" y="1218" width="18" height="24" fill="{{INK}}"/>
+<rect x="323" y="1218" width="18" height="24" fill="{{INK}}"/>
+<rect x="352" y="1090" width="70" height="200" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6"/>
+<polygon points="344,1090 387.0,1044 430,1090" fill="{{C3}}" stroke="{{INK}}" stroke-width="6" stroke-linejoin="round"/>
+<rect x="363" y="1112" width="18" height="24" fill="{{INK}}"/>
+<rect x="393" y="1112" width="18" height="24" fill="{{INK}}"/>
+<rect x="363" y="1158" width="18" height="24" fill="{{INK}}"/>
+<rect x="393" y="1158" width="18" height="24" fill="{{INK}}"/>
+<rect x="363" y="1204" width="18" height="24" fill="{{INK}}"/>
+<rect x="393" y="1204" width="18" height="24" fill="{{INK}}"/>
+<ellipse cx="463.0" cy="1200.0" rx="17.5" ry="90.0" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<rect x="498" y="1180" width="110" height="110" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6"/>
+<polygon points="490,1180 553.0,1134 616,1180" fill="{{C3}}" stroke="{{INK}}" stroke-width="6" stroke-linejoin="round"/>
+<rect x="520" y="1202" width="18" height="24" fill="{{INK}}"/>
+<rect x="568" y="1202" width="18" height="24" fill="{{INK}}"/>
+<rect x="520" y="1248" width="18" height="24" fill="{{INK}}"/>
+<rect x="568" y="1248" width="18" height="24" fill="{{INK}}"/>
+<rect x="638" y="1150" width="70" height="140" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6"/>
+<polygon points="630,1150 673.0,1104 716,1150" fill="{{C3}}" stroke="{{INK}}" stroke-width="6" stroke-linejoin="round"/>
+<rect x="649" y="1172" width="18" height="24" fill="{{INK}}"/>
+<rect x="679" y="1172" width="18" height="24" fill="{{INK}}"/>
+<rect x="649" y="1218" width="18" height="24" fill="{{INK}}"/>
+<rect x="679" y="1218" width="18" height="24" fill="{{INK}}"/>
+<ellipse cx="773.0" cy="1170.0" rx="17.5" ry="120.0" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<rect x="808" y="1180" width="84" height="110" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6"/>
+<polygon points="800,1180 850.0,1134 900,1180" fill="{{C3}}" stroke="{{INK}}" stroke-width="6" stroke-linejoin="round"/>
+<rect x="823" y="1202" width="18" height="24" fill="{{INK}}"/>
+<rect x="859" y="1202" width="18" height="24" fill="{{INK}}"/>
+<rect x="823" y="1248" width="18" height="24" fill="{{INK}}"/>
+<rect x="859" y="1248" width="18" height="24" fill="{{INK}}"/>
+<rect x="922" y="1120" width="84" height="170" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6"/>
+<polygon points="914,1120 964.0,1074 1014,1120" fill="{{C3}}" stroke="{{INK}}" stroke-width="6" stroke-linejoin="round"/>
+<rect x="937" y="1142" width="18" height="24" fill="{{INK}}"/>
+<rect x="973" y="1142" width="18" height="24" fill="{{INK}}"/>
+<rect x="937" y="1188" width="18" height="24" fill="{{INK}}"/>
+<rect x="973" y="1188" width="18" height="24" fill="{{INK}}"/>
+<rect x="937" y="1234" width="18" height="24" fill="{{INK}}"/>
+<rect x="973" y="1234" width="18" height="24" fill="{{INK}}"/>
+<ellipse cx="1054.0" cy="1215.0" rx="21.0" ry="75.0" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<rect x="0" y="1286" width="1080" height="8" fill="{{INK}}"/>
+<ellipse cx="552" cy="1052" rx="392" ry="74" fill="{{INK}}"/>
+<ellipse cx="540" cy="1040" rx="390" ry="74" fill="{{C1}}" stroke="{{INK}}" stroke-width="10"/>
+<ellipse cx="540" cy="1022" rx="250" ry="40" fill="{{C1}}" stroke="{{INK}}" stroke-width="7"/>
+<ellipse cx="540" cy="1040" rx="390" ry="74" fill="url(#d3)"/>
+<polygon points="208,1010 262,994 300,1016 246,1034" fill="#FFFFFF" stroke="{{INK}}" stroke-width="7" stroke-linejoin="round"/>
+<polygon points="208,1010 246,1034 246,1072 208,1048" fill="#FFFFFF" stroke="{{INK}}" stroke-width="7" stroke-linejoin="round"/>
+<polygon points="246,1034 300,1016 300,1054 246,1072" fill="{{DOT}}" stroke="{{INK}}" stroke-width="7" stroke-linejoin="round"/>
+<path d="M760,1060 L905,1008" stroke="{{INK}}" stroke-width="26" stroke-linecap="round"/>
+<path d="M760,1060 L905,1008" stroke="{{C3}}" stroke-width="12" stroke-linecap="round"/>
+<ellipse cx="728" cy="1072" rx="44" ry="22" transform="rotate(-20 728 1072)" fill="{{C3}}" stroke="{{INK}}" stroke-width="8"/>
+<path d="M770,700 C880,690 900,860 740,880" fill="none" stroke="{{INK}}" stroke-width="70" stroke-linecap="round"/>
+<path d="M770,700 C880,690 900,860 740,880" fill="none" stroke="{{C1}}" stroke-width="44" stroke-linecap="round"/>
+<path transform="translate(0,16)" d="M300,640 L780,640 C780,820 720,960 640,990 L440,990 C360,960 300,820 300,640 Z" fill="{{INK}}"/>
+<path d="M300,640 L780,640 C780,820 720,960 640,990 L440,990 C360,960 300,820 300,640 Z" fill="{{C1}}"/>
+<g clip-path="url(#cup)"><path d="M610,600 C700,700 680,900 600,1010 L820,1010 L820,600 Z" fill="url(#d3)"/>
+<path d="M352,690 C350,800 380,890 420,940" fill="none" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round"/></g>
+<path d="M300,640 L780,640 C780,820 720,960 640,990 L440,990 C360,960 300,820 300,640 Z" fill="none" stroke="{{INK}}" stroke-width="12" stroke-linejoin="round"/>
+<ellipse cx="540" cy="640" rx="240" ry="52" fill="{{C1}}" stroke="{{INK}}" stroke-width="12"/>
+<ellipse cx="540" cy="646" rx="208" ry="38" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M380,646 C440,628 520,664 590,640 C630,628 670,640 690,648" fill="none" stroke="{{C3}}" stroke-width="9" stroke-linecap="round"/>
+<path d="M450,610 C390,520 520,470 460,380 C410,300 500,250 470,170" fill="none" stroke="{{INK}}" stroke-width="44" stroke-linecap="round"/>
+<path d="M545,600 C600,500 480,450 550,350 C600,280 520,220 560,130" fill="none" stroke="{{INK}}" stroke-width="44" stroke-linecap="round"/>
+<path d="M640,610 C700,520 590,470 650,390 C700,320 620,270 660,200" fill="none" stroke="{{INK}}" stroke-width="44" stroke-linecap="round"/>
+<path d="M450,610 C390,520 520,470 460,380 C410,300 500,250 470,170" fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round"/>
+<path d="M545,600 C600,500 480,450 550,350 C600,280 520,220 560,130" fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round"/>
+<path d="M640,610 C700,520 590,470 650,390 C700,320 620,270 660,200" fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round"/>
+<polygon points="190,266 199.52,290.48 224,300 199.52,309.52 190,334 180.48,309.52 156,300 180.48,290.48" fill="#FFFFFF" stroke="{INK}" stroke-width="5" stroke-linejoin="round"/>
+<polygon points="900,232 907.84,252.16 928,260 907.84,267.84 900,288 892.16,267.84 872,260 892.16,252.16" fill="#FFFFFF" stroke="{INK}" stroke-width="5" stroke-linejoin="round"/>
+<polygon points="150,696 156.72,713.28 174,720 156.72,726.72 150,744 143.28,726.72 126,720 143.28,713.28" fill="#FFFFFF" stroke="{INK}" stroke-width="5" stroke-linejoin="round"/>
+<polygon points="930,590 938.4,611.6 960,620 938.4,628.4 930,650 921.6,628.4 900,620 921.6,611.6" fill="#FFFFFF" stroke="{INK}" stroke-width="5" stroke-linejoin="round"/>
+</svg>
