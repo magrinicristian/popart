@@ -2,9 +2,34 @@
   "subject": "tazzina di espresso gigante con zolletta e cucchiaino, posata sui tetti di un borgo in miniatura",
   "technique": "collage in scala sproporzionata con disco a retino Ben-Day e vapore a contorno spesso",
   "palettes": [
-    {"BG": "#FFF2C2", "DOT": "#FFD98A", "C1": "#2F6BFF", "C2": "#6B3A1E", "C3": "#FF3B30", "INK": "#121212"},
-    {"BG": "#0B1A2E", "DOT": "#1E3A66", "C1": "#FF2E93", "C2": "#00E0C6", "C3": "#FFE14D", "INK": "#04060A"},
-    {"BG": "#C9F2D9", "DOT": "#8FDDB0", "C1": "#FF8A1F", "C2": "#4A2C6E", "C3": "#E0115F", "INK": "#1A1026"}
+    {
+      "BG": "#FFF2C2",
+      "DOT": "#FFD98A",
+      "C1": "#2F6BFF",
+      "C2": "#6B3A1E",
+      "C3": "#FF3B30",
+      "INK": "#121212"
+    },
+    {
+      "BG": "#0B1A2E",
+      "DOT": "#1E3A66",
+      "C1": "#FF2E93",
+      "C2": "#00E0C6",
+      "C3": "#FFE14D",
+      "INK": "#04060A"
+    },
+    {
+      "BG": "#C9F2D9",
+      "DOT": "#8FDDB0",
+      "C1": "#FF8A1F",
+      "C2": "#4A2C6E",
+      "C3": "#E0115F",
+      "INK": "#1A1026"
+    }
   ],
-  "caption": "Una tazzina di espresso, enorme come una cupola, si è posata sui tetti di un piccolo borgo e lo sovrasta con il suo piattino da gigante. Il vapore sale in tre riccioli bianchi che si arrotolano verso il cielo a pois, mentre un grande disco retinato le fa da aureola. Sul piattino aspettano una zolletta di zucchero e un cucchiaino, pronti per il primo giro. Sotto, case con le finestrelle accese e cipressi in fila respirano il profumo del caffè appena fatto.\n\nTre visioni della stessa scena: colazione di mattina presto, caffè di mezzanotte al neon, pausa di primavera in giardino."
+  "caption": "Una tazzina di espresso, enorme come una cupola, si è posata sui tetti di un piccolo borgo e lo sovrasta con il suo piattino da gigante. Il vapore sale in tre riccioli bianchi che si arrotolano verso il cielo a pois, mentre un grande disco retinato le fa da aureola. Sul piattino aspettano una zolletta di zucchero e un cucchiaino, pronti per il primo giro. Sotto, case con le finestrelle accese e cipressi in fila respirano il profumo del caffè appena fatto.\n\nTre visioni della stessa scena: colazione di mattina presto, caffè di mezzanotte al neon, pausa di primavera in giardino.",
+  "published": {
+    "at": "2026-10-02T08:59+02:00",
+    "make_execution": "9525e34244c04bd4bf87e915e25547be"
+  }
 }
