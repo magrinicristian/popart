@@ -2,9 +2,34 @@
   "subject": "pesce rosso nella boccia di vetro, ripetuto in sei riquadri che nuotano in direzioni alterne",
   "technique": "griglia serigrafica ripetuta 2×3 con colori permutati, ombra fuori registro e retino Ben-Day",
   "palettes": [
-    {"BG": "#FFF4D2", "DOT": "#FFC93C", "C1": "#E8283C", "C2": "#1E88E5", "C3": "#2DBE6C", "INK": "#111111"},
-    {"BG": "#120A2E", "DOT": "#FF2BD6", "C1": "#00F0FF", "C2": "#B6FF00", "C3": "#FF7A00", "INK": "#05030F"},
-    {"BG": "#FF8A5B", "DOT": "#FFE08A", "C1": "#7B2D8E", "C2": "#FF3D6E", "C3": "#2A9D8F", "INK": "#2B0F1E"}
+    {
+      "BG": "#FFF4D2",
+      "DOT": "#FFC93C",
+      "C1": "#E8283C",
+      "C2": "#1E88E5",
+      "C3": "#2DBE6C",
+      "INK": "#111111"
+    },
+    {
+      "BG": "#120A2E",
+      "DOT": "#FF2BD6",
+      "C1": "#00F0FF",
+      "C2": "#B6FF00",
+      "C3": "#FF7A00",
+      "INK": "#05030F"
+    },
+    {
+      "BG": "#FF8A5B",
+      "DOT": "#FFE08A",
+      "C1": "#7B2D8E",
+      "C2": "#FF3D6E",
+      "C3": "#2A9D8F",
+      "INK": "#2B0F1E"
+    }
   ],
-  "caption": "Sei bocce di vetro in fila, come stampe uscite dallo stesso telaio, e in ognuna un pesciolino che fa il giro del suo piccolo mondo. Uno va a destra, l'altro a sinistra, e ogni volta l'acqua, le pinne e i sassolini si scambiano i colori come in un gioco di specchi. L'inchiostro scivola un po' fuori registro e lascia a ogni pesce un'ombra scura che lo segue. Salgono le bollicine, ondeggia l'alga, e dietro ogni boccia un ventaglio di raggi la fa brillare come una vetrina di fiera.\n\nTre visioni della stessa scena: mattina luminosa di fiera, acquario di mezzanotte al neon, tramonto d'estate sul davanzale."
+  "caption": "Sei bocce di vetro in fila, come stampe uscite dallo stesso telaio, e in ognuna un pesciolino che fa il giro del suo piccolo mondo. Uno va a destra, l'altro a sinistra, e ogni volta l'acqua, le pinne e i sassolini si scambiano i colori come in un gioco di specchi. L'inchiostro scivola un po' fuori registro e lascia a ogni pesce un'ombra scura che lo segue. Salgono le bollicine, ondeggia l'alga, e dietro ogni boccia un ventaglio di raggi la fa brillare come una vetrina di fiera.\n\nTre visioni della stessa scena: mattina luminosa di fiera, acquario di mezzanotte al neon, tramonto d'estate sul davanzale.",
+  "published": {
+    "at": "2026-10-03T08:59:15+02:00",
+    "make_execution": "59547b70135841e68ce91c9277d314c0"
+  }
 }
