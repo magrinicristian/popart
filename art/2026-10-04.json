@@ -1,0 +1,10 @@
+{
+  "subject": "fetta d'anguria con un morso sulla punta, posata su un piattino tra gocce di succo e scintille",
+  "technique": "campiture piatte con ombra proiettata netta fuori asse e sfondo a cerchi concentrici alternati a retino Ben-Day",
+  "palettes": [
+    {"BG": "#FFE45C", "DOT": "#FFB627", "C1": "#FF2D55", "C2": "#1FA34A", "C3": "#2E7BFF", "INK": "#111111"},
+    {"BG": "#0D0630", "DOT": "#2A1B6E", "C1": "#FF3CAC", "C2": "#3DFFB0", "C3": "#FFD300", "INK": "#000000"},
+    {"BG": "#00C2C7", "DOT": "#7BE3E0", "C1": "#FF6A3D", "C2": "#0B5D3B", "C3": "#FFF04D", "INK": "#1B1035"}
+  ],
+  "caption": "Una fetta d'anguria si alza dritta come una vela sul piattino, con il morso ancora fresco sulla punta. Il succo scappa via in gocce lucide che non toccheranno mai terra. Dietro, cerchi concentrici a retino battono come il caldo che sale dall'asfalto, e la sua ombra nera cade di lato, netta come un pomeriggio senza nuvole. I semi la guardano tutti verso l'alto, in fila, aspettando il prossimo morso.\n\nTre visioni della stessa fetta: mezzogiorno d'agosto, notte al neon sul lungomare e pomeriggio turchese in riva al mare."
+}
