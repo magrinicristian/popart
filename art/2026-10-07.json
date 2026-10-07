@@ -2,9 +2,34 @@
   "subject": "cactus a candelabro con un fiore bianco in cima, piantato in un vaso di terracotta davanti a un sole enorme",
   "technique": "contorni neri spessi con ombre a retino di linee diagonali, sole pieno con ombra fuori registro e raggi pop a strisce oblique",
   "palettes": [
-    {"BG": "#FFE14D", "DOT": "#FFA62B", "C1": "#2BB673", "C2": "#E2583E", "C3": "#FF3FA4", "INK": "#111111"},
-    {"BG": "#12072E", "DOT": "#3B1F7A", "C1": "#39FF88", "C2": "#FF6B3D", "C3": "#00D9FF", "INK": "#000000"},
-    {"BG": "#FF7E5F", "DOT": "#FFB37B", "C1": "#1E6F5C", "C2": "#F2C14E", "C3": "#7B2CBF", "INK": "#2B0F2E"}
+    {
+      "BG": "#FFE14D",
+      "DOT": "#FFA62B",
+      "C1": "#2BB673",
+      "C2": "#E2583E",
+      "C3": "#FF3FA4",
+      "INK": "#111111"
+    },
+    {
+      "BG": "#12072E",
+      "DOT": "#3B1F7A",
+      "C1": "#39FF88",
+      "C2": "#FF6B3D",
+      "C3": "#00D9FF",
+      "INK": "#000000"
+    },
+    {
+      "BG": "#FF7E5F",
+      "DOT": "#FFB37B",
+      "C1": "#1E6F5C",
+      "C2": "#F2C14E",
+      "C3": "#7B2CBF",
+      "INK": "#2B0F2E"
+    }
   ],
-  "caption": "Un cactus alza le braccia come per salutare il sole, piantato fiero nel suo vaso di terracotta. Dietro di lui il sole è un disco enorme e pieno, e i raggi a strisce si aprono come un ventaglio fino ai bordi del mondo. In cima, un unico fiore bianco si è aperto proprio oggi, e due boccioli sui bracci aspettano il loro turno. Le spine luccicano come piccole stelle, e l'ombra nera scivola di lato, netta come il silenzio del deserto a mezzogiorno.\n\nTre visioni dello stesso cactus: mezzogiorno nel deserto, notte al neon sotto una luna elettrica e tramonto viola sulle dune."
+  "caption": "Un cactus alza le braccia come per salutare il sole, piantato fiero nel suo vaso di terracotta. Dietro di lui il sole è un disco enorme e pieno, e i raggi a strisce si aprono come un ventaglio fino ai bordi del mondo. In cima, un unico fiore bianco si è aperto proprio oggi, e due boccioli sui bracci aspettano il loro turno. Le spine luccicano come piccole stelle, e l'ombra nera scivola di lato, netta come il silenzio del deserto a mezzogiorno.\n\nTre visioni dello stesso cactus: mezzogiorno nel deserto, notte al neon sotto una luna elettrica e tramonto viola sulle dune.",
+  "published": {
+    "at": "2026-10-07T09:00:47+02:00",
+    "make_execution": "77be9231a7f84ed1989ef15de2aee8ad"
+  }
 }
