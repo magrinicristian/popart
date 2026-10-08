@@ -2,9 +2,34 @@
   "subject": "forchettata di spaghetti al pomodoro sollevata sopra il piatto, con foglie di basilico e gocce di sugo che cadono",
   "technique": "retino Ben-Day a punti degradanti che crescono verso il basso, alone circolare pieno con ombra fuori registro, contorni neri spessi e tratteggio diagonale sulle parti metalliche",
   "palettes": [
-    {"BG": "#A8E063", "DOT": "#FFF36B", "C1": "#E3122C", "C2": "#FFEFB0", "C3": "#0E7A3E", "INK": "#141414"},
-    {"BG": "#1B0F45", "DOT": "#FF2BD6", "C1": "#FF3B3B", "C2": "#FFF35C", "C3": "#00F5A0", "INK": "#070312"},
-    {"BG": "#FF9F68", "DOT": "#C2185B", "C1": "#B5121B", "C2": "#FFE29A", "C3": "#2F6B4F", "INK": "#2B0B1A"}
+    {
+      "BG": "#A8E063",
+      "DOT": "#FFF36B",
+      "C1": "#E3122C",
+      "C2": "#FFEFB0",
+      "C3": "#0E7A3E",
+      "INK": "#141414"
+    },
+    {
+      "BG": "#1B0F45",
+      "DOT": "#FF2BD6",
+      "C1": "#FF3B3B",
+      "C2": "#FFF35C",
+      "C3": "#00F5A0",
+      "INK": "#070312"
+    },
+    {
+      "BG": "#FF9F68",
+      "DOT": "#C2185B",
+      "C1": "#B5121B",
+      "C2": "#FFE29A",
+      "C3": "#2F6B4F",
+      "INK": "#2B0B1A"
+    }
   ],
-  "caption": "Una forchetta si alza dal piatto con il suo bottino: un nido di spaghetti arrotolati stretti, lucidi di pomodoro. Il sugo cola dai bordi e cade in gocce grosse e tonde, mentre due foglie di basilico si aggrappano in cima come una bandiera. Sotto, il piatto aspetta con la sua pozza rossa e qualche spaghetto ribelle rimasto indietro. Tutto intorno i puntini del retino crescono verso il basso, come se la fame salisse a ondate.\n\nTre visioni dello stesso primo boccone: pranzo in terrazza, cena di mezzanotte al neon e spaghettata al tramonto."
+  "caption": "Una forchetta si alza dal piatto con il suo bottino: un nido di spaghetti arrotolati stretti, lucidi di pomodoro. Il sugo cola dai bordi e cade in gocce grosse e tonde, mentre due foglie di basilico si aggrappano in cima come una bandiera. Sotto, il piatto aspetta con la sua pozza rossa e qualche spaghetto ribelle rimasto indietro. Tutto intorno i puntini del retino crescono verso il basso, come se la fame salisse a ondate.\n\nTre visioni dello stesso primo boccone: pranzo in terrazza, cena di mezzanotte al neon e spaghettata al tramonto.",
+  "published": {
+    "at": "2026-10-08T08:59:45+02:00",
+    "make_execution": "f97f199f778a4ce3922e50851908cd4e"
+  }
 }
