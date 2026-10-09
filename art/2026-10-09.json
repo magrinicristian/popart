@@ -2,9 +2,34 @@
   "subject": "mongolfiera a spicchi con cesta di vimini che sale sopra le colline tra nuvole tonde e stelline",
   "technique": "eco sfalsata della sagoma in tre strati fuori registro, cielo a strisce orizzontali che si assottigliano verso l'alto, spicchi alterni a retino Ben-Day inclinato e ombra grafica a tratteggio, contorni neri spessi",
   "palettes": [
-    {"BG": "#5BC8F5", "DOT": "#A9E4FF", "C1": "#FF3D2E", "C2": "#FFD23F", "C3": "#2BB673", "INK": "#111111"},
-    {"BG": "#0F0A3C", "DOT": "#3A23A8", "C1": "#FF2E9A", "C2": "#FFF04D", "C3": "#22F2C8", "INK": "#05030F"},
-    {"BG": "#FF8A73", "DOT": "#FFC29A", "C1": "#6A1B9A", "C2": "#FFB000", "C3": "#C2185B", "INK": "#2A0A1F"}
+    {
+      "BG": "#5BC8F5",
+      "DOT": "#A9E4FF",
+      "C1": "#FF3D2E",
+      "C2": "#FFD23F",
+      "C3": "#2BB673",
+      "INK": "#111111"
+    },
+    {
+      "BG": "#0F0A3C",
+      "DOT": "#3A23A8",
+      "C1": "#FF2E9A",
+      "C2": "#FFF04D",
+      "C3": "#22F2C8",
+      "INK": "#05030F"
+    },
+    {
+      "BG": "#FF8A73",
+      "DOT": "#FFC29A",
+      "C1": "#6A1B9A",
+      "C2": "#FFB000",
+      "C3": "#C2185B",
+      "INK": "#2A0A1F"
+    }
   ],
-  "caption": "Una mongolfiera a spicchi si stacca dalle colline e sale piano, gonfia di aria calda e di colore. Dietro di lei la sua sagoma si ripete due volte, sfalsata, come un'eco che non riesce a starle dietro. Il cielo è fatto di strisce che si assottigliano salendo, le nuvole sono tonde come batuffoli e qualche stellina scintilla ai lati. Sotto, la cesta di vimini dondola appesa alle sue corde, con una piccola fiamma accesa al centro.\n\nTre visioni dello stesso volo: mattina d'estate, notte al neon e decollo al tramonto."
+  "caption": "Una mongolfiera a spicchi si stacca dalle colline e sale piano, gonfia di aria calda e di colore. Dietro di lei la sua sagoma si ripete due volte, sfalsata, come un'eco che non riesce a starle dietro. Il cielo è fatto di strisce che si assottigliano salendo, le nuvole sono tonde come batuffoli e qualche stellina scintilla ai lati. Sotto, la cesta di vimini dondola appesa alle sue corde, con una piccola fiamma accesa al centro.\n\nTre visioni dello stesso volo: mattina d'estate, notte al neon e decollo al tramonto.",
+  "published": {
+    "at": "2026-10-09T08:59:30+02:00",
+    "make_execution": "22d8b28262114cc9a7f463fe1ac5e469"
+  }
 }
