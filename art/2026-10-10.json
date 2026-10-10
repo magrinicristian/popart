@@ -2,9 +2,34 @@
   "subject": "lumaca con il guscio a spirale che attraversa una grande foglia di lattuga dopo la pioggia, tra gocce lucide e scintille",
   "technique": "raggi pop curvi a vortice che riprendono la spirale del guscio, disco a retino Ben-Day dietro il soggetto, ombra piena fuori registro, mezzitoni a punti nelle zone d'ombra e contorni neri spessi",
   "palettes": [
-    {"BG": "#8FE3D0", "DOT": "#FFF27A", "C1": "#FF8C1A", "C2": "#3DBB4E", "C3": "#FFD1C2", "INK": "#141414"},
-    {"BG": "#0C0524", "DOT": "#7A2BFF", "C1": "#00E5FF", "C2": "#C6FF1A", "C3": "#FF4FD8", "INK": "#05010F"},
-    {"BG": "#F25C54", "DOT": "#FFC94A", "C1": "#5B2A86", "C2": "#8DA33B", "C3": "#FFE3B8", "INK": "#2A0F12"}
+    {
+      "BG": "#8FE3D0",
+      "DOT": "#FFF27A",
+      "C1": "#FF8C1A",
+      "C2": "#3DBB4E",
+      "C3": "#FFD1C2",
+      "INK": "#141414"
+    },
+    {
+      "BG": "#0C0524",
+      "DOT": "#7A2BFF",
+      "C1": "#00E5FF",
+      "C2": "#C6FF1A",
+      "C3": "#FF4FD8",
+      "INK": "#05010F"
+    },
+    {
+      "BG": "#F25C54",
+      "DOT": "#FFC94A",
+      "C1": "#5B2A86",
+      "C2": "#8DA33B",
+      "C3": "#FFE3B8",
+      "INK": "#2A0F12"
+    }
   ],
-  "caption": "Ha appena smesso di piovere e il mondo intero gira attorno a una lumaca. Il suo guscio è un vortice che trascina con sé il cielo, i raggi e perfino le gocce rimaste sospese nell'aria. Sotto di lei una foglia di lattuga enorme fa da strada maestra, lucida e croccante. Lei non ha fretta: allunga gli occhi verso le scintille e si prende tutto il tempo del mondo.\n\nTre visioni della stessa passeggiata: mattino di menta dopo l'acquazzone, notte elettrica al neon, tramonto di corallo e prugna."
+  "caption": "Ha appena smesso di piovere e il mondo intero gira attorno a una lumaca. Il suo guscio è un vortice che trascina con sé il cielo, i raggi e perfino le gocce rimaste sospese nell'aria. Sotto di lei una foglia di lattuga enorme fa da strada maestra, lucida e croccante. Lei non ha fretta: allunga gli occhi verso le scintille e si prende tutto il tempo del mondo.\n\nTre visioni della stessa passeggiata: mattino di menta dopo l'acquazzone, notte elettrica al neon, tramonto di corallo e prugna.",
+  "published": {
+    "at": "2026-10-10T08:59:34+02:00",
+    "make_execution": "e324502f776e4b91b2f92c8938efabbb"
+  }
 }
