@@ -2,9 +2,34 @@
   "subject": "sveglia a due campane che trilla all'alba, con il martelletto in movimento, linee di vibrazione e scintille",
   "technique": "campo di punti Ben-Day a diametro crescente in diagonale, disco pieno con ombra fuori registro, fasce di raggi chiari a blocchi, tratteggio obliquo nelle zone d'ombra e contorni neri spessi",
   "palettes": [
-    {"BG": "#FFD84D", "DOT": "#FF6FA8", "C1": "#E8322B", "C2": "#1FA4E0", "C3": "#FFF3D6", "INK": "#161616"},
-    {"BG": "#0A0A2A", "DOT": "#2E5BFF", "C1": "#FF2BD6", "C2": "#3DFFB0", "C3": "#FFE24A", "INK": "#04020F"},
-    {"BG": "#FF8A3D", "DOT": "#B8233A", "C1": "#2B6B5E", "C2": "#F2C14E", "C3": "#FFE0C2", "INK": "#2A1208"}
+    {
+      "BG": "#FFD84D",
+      "DOT": "#FF6FA8",
+      "C1": "#E8322B",
+      "C2": "#1FA4E0",
+      "C3": "#FFF3D6",
+      "INK": "#161616"
+    },
+    {
+      "BG": "#0A0A2A",
+      "DOT": "#2E5BFF",
+      "C1": "#FF2BD6",
+      "C2": "#3DFFB0",
+      "C3": "#FFE24A",
+      "INK": "#04020F"
+    },
+    {
+      "BG": "#FF8A3D",
+      "DOT": "#B8233A",
+      "C1": "#2B6B5E",
+      "C2": "#F2C14E",
+      "C3": "#FFE0C2",
+      "INK": "#2A1208"
+    }
   ],
-  "caption": "È domenica, ma la sveglia non lo sa. Il martelletto batte sulle due campane come un batterista impazzito e tutta la stanza vibra a cerchi concentrici. Le lancette segnano l'alba, i piedini saltellano sul tavolo e le scintille schizzano via come briciole di sonno. Basta un attimo e il mondo è sveglio, tutto a pois.\n\nTre visioni dello stesso trillo: mattino giallo limone, notte al neon prima dell'alba, tramonto arancio di chi ha dormito fino a sera."
+  "caption": "È domenica, ma la sveglia non lo sa. Il martelletto batte sulle due campane come un batterista impazzito e tutta la stanza vibra a cerchi concentrici. Le lancette segnano l'alba, i piedini saltellano sul tavolo e le scintille schizzano via come briciole di sonno. Basta un attimo e il mondo è sveglio, tutto a pois.\n\nTre visioni dello stesso trillo: mattino giallo limone, notte al neon prima dell'alba, tramonto arancio di chi ha dormito fino a sera.",
+  "published": {
+    "at": "2026-10-11T09:00:01+02:00",
+    "make_execution": "34e429687ab74b3aa0015d9e836b4597"
+  }
 }
