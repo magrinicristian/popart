@@ -7,6 +7,7 @@ Ogni giorno Claude inventa una nuova pop art, la rende in 3 varianti e la pubbli
 - Soggetto centrato: la griglia del profilo ritaglia in 3:4, che su un 4:5 taglia i lati: le fasce laterali (~35 px a sinistra e a destra) devono contenere solo sfondo, retino o raggi.
 - **Nessun testo**: niente `<text>`, lettere, numeri, loghi, balloon con parole, marchi o personaggi protetti.
 - Stile pop art: contorni neri spessi, colori piatti saturi, retino Ben-Day, raggi, stelle, gocce.
+- **Approccio creativo (dal 2026-10-15): ispirato a Yayoi Kusama.** Pois ossessivi e ripetuti che ricoprono soggetto e sfondo; reti infinite (maglie di piccoli archi o anelli che si ripetono); pattern che continuano oltre i bordi come se la scena non finisse mai; punti di diametro variabile, fitti e ipnotici; poche tinte sature in forte contrasto (es. pois scuri su giallo, pois chiari su rosso); forme organiche che si moltiplicano. I contorni neri spessi restano. Solo lo stile: niente zucche a pois, niente stanze a specchi o riproduzioni di opere esistenti, niente ritratti né nome dell'artista in immagine o didascalia.
 - Soggetto diverso da tutti quelli già in `art/*.json` (campo `subject`).
 - Colori solo tramite i segnaposto `{{BG}} {{DOT}} {{C1}} {{C2}} {{C3}} {{INK}}` (bianco `#FFFFFF` ammesso per i riflessi).
 
