@@ -2,9 +2,34 @@
   "subject": "fetta di pizza margherita sollevata a punta in giù, con la mozzarella filante che gocciola su un piattino, tra foglie di basilico e scintille",
   "technique": "raggi pop a ventaglio alternati pieni e a retino Ben-Day, disco a pois inclinati con anello tratteggiato e ombra piena fuori registro, cornicione a tratteggio obliquo, mezzitoni a punti sulla metà in ombra, colature a contorno spesso, stelle a quattro punte e contorni neri spessi",
   "palettes": [
-    {"BG": "#FFF0C4", "DOT": "#F2A23A", "C1": "#FFD23F", "C2": "#E8352B", "C3": "#2FA84F", "INK": "#1A1414"},
-    {"BG": "#170B3B", "DOT": "#7A2BFF", "C1": "#3DF2FF", "C2": "#FF2E9A", "C3": "#B8FF3C", "INK": "#05010F"},
-    {"BG": "#FF7A59", "DOT": "#FFC83D", "C1": "#FFE9A8", "C2": "#A3173F", "C3": "#3F7D3A", "INK": "#2A0A1C"}
+    {
+      "BG": "#FFF0C4",
+      "DOT": "#F2A23A",
+      "C1": "#FFD23F",
+      "C2": "#E8352B",
+      "C3": "#2FA84F",
+      "INK": "#1A1414"
+    },
+    {
+      "BG": "#170B3B",
+      "DOT": "#7A2BFF",
+      "C1": "#3DF2FF",
+      "C2": "#FF2E9A",
+      "C3": "#B8FF3C",
+      "INK": "#05010F"
+    },
+    {
+      "BG": "#FF7A59",
+      "DOT": "#FFC83D",
+      "C1": "#FFE9A8",
+      "C2": "#A3173F",
+      "C3": "#3F7D3A",
+      "INK": "#2A0A1C"
+    }
   ],
-  "caption": "È mezzogiorno di un mercoledì qualunque e una fetta di pizza margherita si stacca dal resto del mondo. La mozzarella non vuole lasciarla andare: si allunga, si assottiglia e alla fine cade in una goccia lenta sul piattino. Il pomodoro brilla rosso sotto il bianco filante, tre foglie di basilico fanno da bandiera e il cornicione dorato si gonfia di bolle. Dietro, i raggi esplodono come un applauso di forno a legna.\n\nTre visioni della stessa fetta: pranzo assolato in trattoria, notte al neon da friggitoria, tramonto color brace."
+  "caption": "È mezzogiorno di un mercoledì qualunque e una fetta di pizza margherita si stacca dal resto del mondo. La mozzarella non vuole lasciarla andare: si allunga, si assottiglia e alla fine cade in una goccia lenta sul piattino. Il pomodoro brilla rosso sotto il bianco filante, tre foglie di basilico fanno da bandiera e il cornicione dorato si gonfia di bolle. Dietro, i raggi esplodono come un applauso di forno a legna.\n\nTre visioni della stessa fetta: pranzo assolato in trattoria, notte al neon da friggitoria, tramonto color brace.",
+  "published": {
+    "at": "2026-10-14T09:01:01+02:00",
+    "make_execution": "4aa16ddb268844c1808cae4b795cb8d4"
+  }
 }
