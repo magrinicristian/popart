@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<defs>
+<pattern id="bd" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="12" cy="12" r="6" fill="{{DOT}}"/></pattern>
+<pattern id="bd2" width="26" height="26" patternUnits="userSpaceOnUse" patternTransform="rotate(30)"><circle cx="13" cy="13" r="7.5" fill="{{C2}}"/></pattern>
+<pattern id="hl" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)"><rect width="5" height="14" fill="{{INK}}" fill-opacity="0.4"/></pattern>
+<pattern id="sd" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="8" cy="8" r="3.6" fill="{{INK}}" fill-opacity="0.38"/></pattern>
+<clipPath id="slc"><path d="M300,400 Q540,318 780,400 L552,1040 Q540,1068 528,1040 Z"/></clipPath>
+<clipPath id="rhalf"><rect x="560" y="0" width="520" height="1350"/></clipPath>
+</defs>
+<rect width="1080" height="1350" fill="{{BG}}"/>
+<path d="M540,640 L1940,640 L1905,952 Z" fill="url(#bd)"/>
+<path d="M540,640 L1801,1247 L1635,1513 Z" fill="url(#bd)"/>
+<path d="M540,640 L1413,1735 L1147,1901 Z" fill="url(#bd)"/>
+<path d="M540,640 L852,2005 L540,2040 Z" fill="url(#bd)"/>
+<path d="M540,640 L228,2005 L-67,1901 Z" fill="url(#bd)"/>
+<path d="M540,640 L-333,1735 L-555,1513 Z" fill="url(#bd)"/>
+<path d="M540,640 L-721,1247 L-825,952 Z" fill="url(#bd)"/>
+<path d="M540,640 L-860,640 L-825,328 Z" fill="url(#bd)"/>
+<path d="M540,640 L-721,33 L-555,-233 Z" fill="url(#bd)"/>
+<path d="M540,640 L-333,-455 L-67,-621 Z" fill="url(#bd)"/>
+<path d="M540,640 L228,-725 L540,-760 Z" fill="url(#bd)"/>
+<path d="M540,640 L852,-725 L1147,-621 Z" fill="url(#bd)"/>
+<path d="M540,640 L1413,-455 L1635,-233 Z" fill="url(#bd)"/>
+<path d="M540,640 L1801,33 L1905,328 Z" fill="url(#bd)"/>
+<circle cx="560" cy="664" r="410" fill="{{INK}}"/>
+<circle cx="540" cy="640" r="410" fill="{{BG}}" stroke="{{INK}}" stroke-width="14"/>
+<circle cx="540" cy="640" r="350" fill="url(#bd2)" stroke="{{INK}}" stroke-width="8" stroke-dasharray="26 18"/>
+<ellipse cx="540" cy="1215" rx="330" ry="52" fill="{{C3}}" stroke="{{INK}}" stroke-width="12"/>
+<ellipse cx="540" cy="1206" rx="250" ry="30" fill="#FFFFFF" stroke="{{INK}}" stroke-width="7"/>
+<path d="M500,1205 Q540,1180 585,1205 Q560,1222 520,1218 Z" fill="{{C1}}" stroke="{{INK}}" stroke-width="7"/>
+<g transform="translate(26,26)"><path d="M300,400 Q540,318 780,400 L552,1040 Q540,1068 528,1040 Z" fill="{{INK}}"/><path d="M262,372 Q540,230 818,372 L800,430 Q540,330 280,430 Z" fill="{{INK}}"/></g>
+<path d="M300,400 Q540,318 780,400 L552,1040 Q540,1068 528,1040 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="14" stroke-linejoin="round"/>
+<path d="M318,420 Q540,350 762,420 Q748,470 760,500 Q730,540 742,600 Q712,640 720,700 Q690,760 694,820 Q660,880 640,930 Q600,990 552,1035 Q540,1060 528,1035 Q470,980 440,930 Q414,870 386,820 Q392,760 360,700 Q366,640 338,600 Q350,540 320,500 Q332,460 318,420 Z" fill="{{C1}}" stroke="{{INK}}" stroke-width="9" stroke-linejoin="round"/>
+<g clip-path="url(#slc)"><g clip-path="url(#rhalf)"><path d="M318,420 Q540,350 762,420 Q748,470 760,500 Q730,540 742,600 Q712,640 720,700 Q690,760 694,820 Q660,880 640,930 Q600,990 552,1035 Q540,1060 528,1035 Q470,980 440,930 Q414,870 386,820 Q392,760 360,700 Q366,640 338,600 Q350,540 320,500 Q332,460 318,420 Z" fill="url(#sd)"/></g></g>
+<path d="M540,1050 Q548,1100 536,1140 Q530,1172 546,1178 Q562,1176 556,1140 Q552,1100 540,1050 Z" fill="{{C1}}" stroke="{{INK}}" stroke-width="8" stroke-linejoin="round"/>
+<path d="M686,860 Q700,900 694,930 Q690,956 704,958 Q718,954 712,926 Q708,890 700,840 Z" fill="{{C1}}" stroke="{{INK}}" stroke-width="7" stroke-linejoin="round"/>
+<path d="M392,830 Q382,870 388,896 Q392,918 378,920 Q364,916 368,892 Q374,860 384,812 Z" fill="{{C1}}" stroke="{{INK}}" stroke-width="7" stroke-linejoin="round"/>
+<path d="M262,372 Q540,230 818,372 L800,430 Q540,330 280,430 Z" fill="{{C1}}" stroke="{{INK}}" stroke-width="14" stroke-linejoin="round"/>
+<path d="M262,372 Q540,230 818,372 L800,430 Q540,330 280,430 Z" fill="url(#hl)"/>
+<ellipse cx="380" cy="352" rx="22" ry="12" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6" transform="rotate(-22 380 352)"/>
+<ellipse cx="520" cy="300" rx="30" ry="13" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6"/>
+<ellipse cx="680" cy="330" rx="24" ry="12" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6" transform="rotate(20 680 330)"/>
+<ellipse cx="455" cy="520" rx="58" ry="40" fill="{{C2}}" stroke="{{INK}}" stroke-width="8"/>
+<ellipse cx="440" cy="508" rx="14" ry="8" fill="#FFFFFF"/>
+<ellipse cx="640" cy="610" rx="52" ry="36" fill="{{C2}}" stroke="{{INK}}" stroke-width="8"/>
+<ellipse cx="626" cy="598" rx="12" ry="7" fill="#FFFFFF"/>
+<ellipse cx="520" cy="790" rx="44" ry="30" fill="{{C2}}" stroke="{{INK}}" stroke-width="8"/>
+<ellipse cx="508" cy="780" rx="10" ry="6" fill="#FFFFFF"/>
+<g transform="rotate(-30 600 470)"><ellipse cx="600" cy="470" rx="70" ry="34" fill="{{C3}}" stroke="{{INK}}" stroke-width="9"/><path d="M536,470 L664,470" stroke="{{INK}}" stroke-width="6" stroke-linecap="round"/></g>
+<g transform="rotate(40 460 680)"><ellipse cx="460" cy="680" rx="60" ry="29" fill="{{C3}}" stroke="{{INK}}" stroke-width="9"/><path d="M406,680 L514,680" stroke="{{INK}}" stroke-width="6" stroke-linecap="round"/></g>
+<g transform="rotate(-60 580 900)"><ellipse cx="580" cy="900" rx="44" ry="22" fill="{{C3}}" stroke="{{INK}}" stroke-width="8"/><path d="M542,900 L618,900" stroke="{{INK}}" stroke-width="5" stroke-linecap="round"/></g>
+<ellipse cx="400" cy="460" rx="26" ry="10" fill="#FFFFFF" transform="rotate(-20 400 460)"/>
+<ellipse cx="560" cy="700" rx="18" ry="8" fill="#FFFFFF"/>
+<path d="M860,194 L872.88,227.12 L906,240 L872.88,252.88 L860,286 L847.12,252.88 L814,240 L847.12,227.12 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="7" stroke-linejoin="round"/>
+<path d="M200,286 L209.52,310.48 L234,320 L209.52,329.52 L200,354 L190.48,329.52 L166,320 L190.48,310.48 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="7" stroke-linejoin="round"/>
+<path d="M900,942 L910.64,969.36 L938,980 L910.64,990.64 L900,1018 L889.36,990.64 L862,980 L889.36,969.36 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="7" stroke-linejoin="round"/>
+<path d="M180,872 L187.84,892.16 L208,900 L187.84,907.84 L180,928 L172.16,907.84 L152,900 L172.16,892.16 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="7" stroke-linejoin="round"/>
+<path d="M820,1088 L826.16,1103.84 L842,1110 L826.16,1116.16 L820,1132 L813.84,1116.16 L798,1110 L813.84,1103.84 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="7" stroke-linejoin="round"/>
+<circle cx="250" cy="1040" r="14" fill="{{C1}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="850" cy="560" r="12" fill="{{C1}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="230" cy="560" r="10" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+</svg>
