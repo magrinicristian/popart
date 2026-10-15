@@ -1,0 +1,10 @@
+{
+  "subject": "coccinella gigante che cammina su una grande foglia verso la punta, mentre piccole coccinelle sciamano in fila in alto e in basso",
+  "technique": "rete infinita di anelli sfalsati che copre tutto lo sfondo, campo di pois grandi a diametro variabile che invade la scena oltre i bordi, gradiente di pois che crescono dal picciolo alla punta della foglia, guscio coperto di pois ossessivi che rimpiccioliscono verso il bordo, accumulo di coccinelle ripetute, ombra piena fuori registro e contorni neri spessi",
+  "palettes": [
+    {"BG": "#FFE14A", "DOT": "#1A1A1A", "C1": "#E8202E", "C2": "#2DB34A", "C3": "#FF7FB0", "INK": "#111111"},
+    {"BG": "#140A33", "DOT": "#00E5FF", "C1": "#FF2BD6", "C2": "#39FF7A", "C3": "#FFE600", "INK": "#0A0A0A"},
+    {"BG": "#FF6A2B", "DOT": "#FFE3C2", "C1": "#C3123B", "C2": "#1E9E8C", "C3": "#7A1FA2", "INK": "#1A0F14"}
+  ],
+  "caption": "Una coccinella enorme avanza piano su una foglia larga come un prato, diretta verso la punta. Il suo guscio è un cielo di pois che si stringono verso il bordo, e ogni punto sembra contarne altri cento. Sotto le sue zampe la foglia si accende di cerchi che crescono a ogni passo, mentre intorno una rete infinita di anelli si allarga oltre i margini, come se il giardino non finisse mai. In alto e in basso, piccole coccinelle sfilano in processione, copie minuscole dello stesso sogno.\n\nTre visioni: mezzogiorno giallo d'estate, notte neon nel giardino, tramonto arancio sulle foglie."
+}
