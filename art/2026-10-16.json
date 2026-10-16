@@ -2,9 +2,34 @@
   "subject": "polpo gigante con gli otto tentacoli che si srotolano e si arricciano verso il fondo, tra bolle che salgono in grappoli",
   "technique": "rete infinita di archi a scaglia che copre tutto lo sfondo, campo di pois contornati di diametro variabile che continua oltre i bordi, alone circolare con gradiente di pois che crescono dal centro verso il bordo e ombra piena fuori registro, mantello coperto di pois ossessivi che rimpiccioliscono verso il contorno, tentacoli costruiti per accumulo di cerchi sovrapposti con file di ventose a pois, accumulo di bolle e contorni neri spessi",
   "palettes": [
-    {"BG": "#1E88E5", "DOT": "#8FD3FF", "C1": "#FF3B30", "C2": "#FFE14A", "C3": "#FFF3D6", "INK": "#111111"},
-    {"BG": "#07051F", "DOT": "#3A2BD8", "C1": "#FF2BD6", "C2": "#00F0FF", "C3": "#C6FF3D", "INK": "#000000"},
-    {"BG": "#FF7A2F", "DOT": "#FFC48A", "C1": "#6A1B9A", "C2": "#FFE14A", "C3": "#FF3D6E", "INK": "#1A0A1A"}
+    {
+      "BG": "#1E88E5",
+      "DOT": "#8FD3FF",
+      "C1": "#FF3B30",
+      "C2": "#FFE14A",
+      "C3": "#FFF3D6",
+      "INK": "#111111"
+    },
+    {
+      "BG": "#07051F",
+      "DOT": "#3A2BD8",
+      "C1": "#FF2BD6",
+      "C2": "#00F0FF",
+      "C3": "#C6FF3D",
+      "INK": "#000000"
+    },
+    {
+      "BG": "#FF7A2F",
+      "DOT": "#FFC48A",
+      "C1": "#6A1B9A",
+      "C2": "#FFE14A",
+      "C3": "#FF3D6E",
+      "INK": "#1A0A1A"
+    }
   ],
-  "caption": "Dal fondo del mare sale un polpo enorme, e il mare intorno a lui non finisce mai: una rete di scaglie si ripete fino all'orizzonte e oltre. Il suo mantello è un cielo di pois che si stringono verso il bordo, come se respirasse a punti. Otto tentacoli si srotolano lenti, fatti di cerchi che si inseguono, e ogni ventosa è un altro piccolo pois. Intorno, grappoli di bolle salgono verso la luce e si moltiplicano senza fretta. Due occhi tondi guardano dritti verso di noi, curiosi, dentro un alone che pulsa di punti.\n\nTre visioni dello stesso abisso: mare di mezzogiorno, abisso al neon e corallo al tramonto."
+  "caption": "Dal fondo del mare sale un polpo enorme, e il mare intorno a lui non finisce mai: una rete di scaglie si ripete fino all'orizzonte e oltre. Il suo mantello è un cielo di pois che si stringono verso il bordo, come se respirasse a punti. Otto tentacoli si srotolano lenti, fatti di cerchi che si inseguono, e ogni ventosa è un altro piccolo pois. Intorno, grappoli di bolle salgono verso la luce e si moltiplicano senza fretta. Due occhi tondi guardano dritti verso di noi, curiosi, dentro un alone che pulsa di punti.\n\nTre visioni dello stesso abisso: mare di mezzogiorno, abisso al neon e corallo al tramonto.",
+  "published": {
+    "at": "2026-10-16T08:59:40+02:00",
+    "make_execution": "38a7cd6f239f49a9b696cdc6dfb84c3d"
+  }
 }
