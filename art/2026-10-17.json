@@ -2,9 +2,34 @@
   "subject": "grande girasole con il disco di semi a spirale, piegato su un lungo stelo con due foglie, sopra un cumulo di zolle tonde mentre petali staccati volano nel vento",
   "technique": "campo di pois in anelli concentrici con torsione a spirale che cresce di diametro dal fiore fino oltre i bordi, disco di semi in spirale fillotattica di pois, corona di pois contornati intorno alla testa, petali a doppia corona coperti di file di pois che rimpiccioliscono verso la punta, foglie con gradiente di pois verso la punta, accumulo di zolle tonde a pois sul fondo e contorni neri spessi",
   "palettes": [
-    {"BG": "#E3262E", "DOT": "#FFF1DC", "C1": "#FFD21F", "C2": "#5A2A12", "C3": "#1FA34A", "INK": "#111111"},
-    {"BG": "#0B0726", "DOT": "#FF2BD6", "C1": "#00F0FF", "C2": "#2B1170", "C3": "#7CFF4F", "INK": "#000000"},
-    {"BG": "#FFF3D6", "DOT": "#1C1C1C", "C1": "#FF8A1F", "C2": "#7A1E3A", "C3": "#2E6B4F", "INK": "#141414"}
+    {
+      "BG": "#E3262E",
+      "DOT": "#FFF1DC",
+      "C1": "#FFD21F",
+      "C2": "#5A2A12",
+      "C3": "#1FA34A",
+      "INK": "#111111"
+    },
+    {
+      "BG": "#0B0726",
+      "DOT": "#FF2BD6",
+      "C1": "#00F0FF",
+      "C2": "#2B1170",
+      "C3": "#7CFF4F",
+      "INK": "#000000"
+    },
+    {
+      "BG": "#FFF3D6",
+      "DOT": "#1C1C1C",
+      "C1": "#FF8A1F",
+      "C2": "#7A1E3A",
+      "C3": "#2E6B4F",
+      "INK": "#141414"
+    }
   ],
-  "caption": "In mezzo al campo si alza un girasole enorme, e il campo intorno a lui non finisce mai: anelli di pois girano attorno alla sua testa e si allargano fino a uscire dal quadro. Nel cuore i semi si avvolgono in una spirale fitta, punto dopo punto, come un orologio che conta all'infinito. I petali sono lingue di luce punteggiate, e qualcuno si stacca e vola via nel vento. Sotto, le zolle tonde si ammucchiano una sull'altra, ognuna piena di piccoli soli.\n\nTre visioni dello stesso campo: mezzogiorno rosso fuoco, notte al neon e alba di nebbia d'ambra."
+  "caption": "In mezzo al campo si alza un girasole enorme, e il campo intorno a lui non finisce mai: anelli di pois girano attorno alla sua testa e si allargano fino a uscire dal quadro. Nel cuore i semi si avvolgono in una spirale fitta, punto dopo punto, come un orologio che conta all'infinito. I petali sono lingue di luce punteggiate, e qualcuno si stacca e vola via nel vento. Sotto, le zolle tonde si ammucchiano una sull'altra, ognuna piena di piccoli soli.\n\nTre visioni dello stesso campo: mezzogiorno rosso fuoco, notte al neon e alba di nebbia d'ambra.",
+  "published": {
+    "at": "2026-10-17T08:59:53+02:00",
+    "make_execution": "b792518b57584f1b94c40b374ae21d9f"
+  }
 }
