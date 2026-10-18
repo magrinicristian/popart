@@ -2,9 +2,34 @@
   "subject": "gatto acciambellato che dorme su un grande cuscino tondo con le nappe, la coda avvolta davanti alle zampe, mentre gomitoli di lana srotolati si accumulano ai suoi piedi",
   "technique": "campo di pois a nido d'ape che cresce di diametro dall'alto verso il basso e continua oltre i bordi, alone circolare con rete infinita di piccoli anelli che si stringono verso il centro e ombra piena fuori registro, corpo del gatto coperto di anelli ellittici di pois che rimpiccioliscono verso il contorno, coda a pois decrescenti, cuscino a pois bianchi in gradiente, gomitoli costruiti da cerchi concentrici di pois e accumulati in cascata, bolle contornate sospese in alto e contorni neri spessi",
   "palettes": [
-    {"BG": "#FFD60A", "DOT": "#151515", "C1": "#FF7A1A", "C2": "#E01E37", "C3": "#1F6FEB", "INK": "#111111"},
-    {"BG": "#0A0420", "DOT": "#39FF88", "C1": "#FF3CAC", "C2": "#2A0B6E", "C3": "#00E5FF", "INK": "#000000"},
-    {"BG": "#F7EEDC", "DOT": "#2340B8", "C1": "#F2A541", "C2": "#8B1E3F", "C3": "#3BA99C", "INK": "#1A1A1A"}
+    {
+      "BG": "#FFD60A",
+      "DOT": "#151515",
+      "C1": "#FF7A1A",
+      "C2": "#E01E37",
+      "C3": "#1F6FEB",
+      "INK": "#111111"
+    },
+    {
+      "BG": "#0A0420",
+      "DOT": "#39FF88",
+      "C1": "#FF3CAC",
+      "C2": "#2A0B6E",
+      "C3": "#00E5FF",
+      "INK": "#000000"
+    },
+    {
+      "BG": "#F7EEDC",
+      "DOT": "#2340B8",
+      "C1": "#F2A541",
+      "C2": "#8B1E3F",
+      "C3": "#3BA99C",
+      "INK": "#1A1A1A"
+    }
   ],
-  "caption": "Un gatto si è addormentato al centro di un mondo fatto di punti, e il mondo ha deciso di non svegliarlo. Il suo pelo è un vortice di pois che si stringono piano verso il contorno, come un respiro che rallenta. Dietro di lui una rete di piccoli anelli si chiude in un sole morbido, mentre tutto intorno i punti cadono e crescono, fino a uscire dal quadro. Ai suoi piedi i gomitoli si srotolano e si moltiplicano, uno sull'altro, pieni di cerchi che girano senza fine.\n\nTre visioni dello stesso sonnellino: pomeriggio giallo sole, notte al neon e mattino color latte e cobalto."
+  "caption": "Un gatto si è addormentato al centro di un mondo fatto di punti, e il mondo ha deciso di non svegliarlo. Il suo pelo è un vortice di pois che si stringono piano verso il contorno, come un respiro che rallenta. Dietro di lui una rete di piccoli anelli si chiude in un sole morbido, mentre tutto intorno i punti cadono e crescono, fino a uscire dal quadro. Ai suoi piedi i gomitoli si srotolano e si moltiplicano, uno sull'altro, pieni di cerchi che girano senza fine.\n\nTre visioni dello stesso sonnellino: pomeriggio giallo sole, notte al neon e mattino color latte e cobalto.",
+  "published": {
+    "at": "2026-10-18T09:00:22+02:00",
+    "make_execution": "a9fb5bd17ca34b549edc066039e43b5d"
+  }
 }
