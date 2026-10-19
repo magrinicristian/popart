@@ -2,9 +2,34 @@
   "subject": "grande grappolo d'uva appeso a un tralcio di vite tra due foglie lobate e un viticcio a spirale, sopra un cesto di vimini colmo di acini mentre altri acini rotolano a terra",
   "technique": "campo di pois in colonne ondulate verticali che crescono di diametro dal centro verso i lati e continuano oltre i bordi, nicchia ad arco con anelli concentrici di pois che si allargano verso il contorno e ombra piena fuori registro, acini costruiti per accumulo ciascuno coperto da due corone di pois che rimpiccioliscono verso il bordo, foglie di vite con gradiente di pois verso la punta, intreccio del cesto a maglie ovali ripetute, bolle contornate sospese e contorni neri spessi",
   "palettes": [
-    {"BG": "#FF4D6D", "DOT": "#FFE3EC", "C1": "#4B1D9E", "C2": "#2DBE60", "C3": "#FFD23F", "INK": "#121212"},
-    {"BG": "#06102B", "DOT": "#00F5D4", "C1": "#C11CFF", "C2": "#B8FF2E", "C3": "#FF2E88", "INK": "#000000"},
-    {"BG": "#F4A300", "DOT": "#5A1530", "C1": "#C9E265", "C2": "#B7410E", "C3": "#FFF0C9", "INK": "#2A0F14"}
+    {
+      "BG": "#FF4D6D",
+      "DOT": "#FFE3EC",
+      "C1": "#4B1D9E",
+      "C2": "#2DBE60",
+      "C3": "#FFD23F",
+      "INK": "#121212"
+    },
+    {
+      "BG": "#06102B",
+      "DOT": "#00F5D4",
+      "C1": "#C11CFF",
+      "C2": "#B8FF2E",
+      "C3": "#FF2E88",
+      "INK": "#000000"
+    },
+    {
+      "BG": "#F4A300",
+      "DOT": "#5A1530",
+      "C1": "#C9E265",
+      "C2": "#B7410E",
+      "C3": "#FFF0C9",
+      "INK": "#2A0F14"
+    }
   ],
-  "caption": "Un grappolo gigante pende dal tralcio come un lampadario di pois: ogni acino è un piccolo pianeta con le sue orbite di punti che si stringono verso il bordo. Le foglie di vite si aprono ai lati e si riempiono di puntini che crescono verso la punta, mentre un viticcio si arriccia in una spirale senza fine. Dietro, una nicchia ad arco si allarga in anelli concentrici di pois, e tutto lo sfondo ondeggia in colonne di punti che scappano oltre i bordi. In basso il cesto di vimini trabocca, e qualche acino ribelle rotola via sul pavimento della vendemmia.\n\nTre visioni: mattino di vendemmia sul corallo, notte neon in cantina, uva bianca nel tramonto d'autunno."
+  "caption": "Un grappolo gigante pende dal tralcio come un lampadario di pois: ogni acino è un piccolo pianeta con le sue orbite di punti che si stringono verso il bordo. Le foglie di vite si aprono ai lati e si riempiono di puntini che crescono verso la punta, mentre un viticcio si arriccia in una spirale senza fine. Dietro, una nicchia ad arco si allarga in anelli concentrici di pois, e tutto lo sfondo ondeggia in colonne di punti che scappano oltre i bordi. In basso il cesto di vimini trabocca, e qualche acino ribelle rotola via sul pavimento della vendemmia.\n\nTre visioni: mattino di vendemmia sul corallo, notte neon in cantina, uva bianca nel tramonto d'autunno.",
+  "published": {
+    "at": "2026-10-19T09:00:41+02:00",
+    "make_execution": "9803e0a713f64f44a7cb080fc13441fa"
+  }
 }
