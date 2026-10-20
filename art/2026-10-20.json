@@ -1,0 +1,10 @@
+{
+  "subject": "grande fungo porcino dal cappello bombato che svetta su un tappeto di muschio a cuscinetti, circondato da una famiglia di funghetti che spuntano ai suoi piedi mentre spore rotonde salgono nell'aria",
+  "technique": "onde di pois sullo sfondo con diametro che pulsa in diagonale e continua oltre i bordi, cappello coperto da una rete infinita di anelli che si assottigliano verso l'orlo, spugna sotto il cappello a pori fitti, gambo a file di pois che crescono verso il basso, muschio costruito per accumulo di cuscinetti tondi con corone concentriche di pois, funghetti che si moltiplicano in coppie decrescenti, spore come bolle contornate con nucleo a pois e contorni neri spessi",
+  "palettes": [
+    {"BG": "#F28C28", "DOT": "#FFE8A3", "C1": "#9B1D20", "C2": "#FFF4DE", "C3": "#3E7C17", "INK": "#1A120B"},
+    {"BG": "#050A30", "DOT": "#6C2BD9", "C1": "#FF3D7F", "C2": "#D4FF3A", "C3": "#00C2A8", "INK": "#000000"},
+    {"BG": "#F6D1E1", "DOT": "#D7263D", "C1": "#2B2D8F", "C2": "#FFE45C", "C3": "#2A9D8F", "INK": "#1B1035"}
+  ],
+  "caption": "Nel cuore del bosco un porcino enorme alza il suo cappello come una cupola, e sopra la cupola si stende una rete di piccoli anelli che non finisce mai. Ai suoi piedi il muschio si gonfia in cuscinetti tondi, uno addosso all'altro, ognuno punteggiato di cerchi come un piccolo pianeta. Intorno spuntano i funghetti, a coppie, sempre più piccoli, come se il bosco continuasse a copiarsi da solo. Nell'aria le spore salgono in bolle lente, mentre lo sfondo pulsa di pois che crescono e si ritirano come un respiro.\n\nTre visioni dello stesso sottobosco: mattina d'autunno arancione, notte fosforescente tra viola e lime, alba lattiginosa in rosa e indaco."
+}
