@@ -1,0 +1,2366 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<defs><clipPath id="up"><polygon points="395,430 685,430 640,690 440,690"/></clipPath><clipPath id="lo"><polygon points="440,720 640,720 700,990 380,990"/></clipPath><clipPath id="halo"><circle cx="540" cy="700" r="390"/></clipPath></defs>
+<rect width="1080" height="1350" fill="{{BG}}"/>
+<circle cx="-40.0" cy="-20.0" r="10.9" fill="{{DOT}}"/>
+<circle cx="16.0" cy="-20.0" r="13.5" fill="{{DOT}}"/>
+<circle cx="72.0" cy="-20.0" r="15.8" fill="{{DOT}}"/>
+<circle cx="128.0" cy="-20.0" r="17.0" fill="{{DOT}}"/>
+<circle cx="184.0" cy="-20.0" r="16.5" fill="{{DOT}}"/>
+<circle cx="240.0" cy="-20.0" r="14.7" fill="{{DOT}}"/>
+<circle cx="296.0" cy="-20.0" r="12.1" fill="{{DOT}}"/>
+<circle cx="352.0" cy="-20.0" r="9.8" fill="{{DOT}}"/>
+<circle cx="408.0" cy="-20.0" r="8.6" fill="{{DOT}}"/>
+<circle cx="464.0" cy="-20.0" r="8.9" fill="{{DOT}}"/>
+<circle cx="520.0" cy="-20.0" r="10.7" fill="{{DOT}}"/>
+<circle cx="576.0" cy="-20.0" r="13.2" fill="{{DOT}}"/>
+<circle cx="632.0" cy="-20.0" r="15.6" fill="{{DOT}}"/>
+<circle cx="688.0" cy="-20.0" r="16.9" fill="{{DOT}}"/>
+<circle cx="744.0" cy="-20.0" r="16.6" fill="{{DOT}}"/>
+<circle cx="800.0" cy="-20.0" r="14.9" fill="{{DOT}}"/>
+<circle cx="856.0" cy="-20.0" r="12.4" fill="{{DOT}}"/>
+<circle cx="912.0" cy="-20.0" r="10.0" fill="{{DOT}}"/>
+<circle cx="968.0" cy="-20.0" r="8.6" fill="{{DOT}}"/>
+<circle cx="1024.0" cy="-20.0" r="8.8" fill="{{DOT}}"/>
+<circle cx="1080.0" cy="-20.0" r="10.5" fill="{{DOT}}"/>
+<circle cx="-26.0" cy="24.0" r="5.1" fill="{{DOT}}"/>
+<circle cx="2.0" cy="24.0" r="5.5" fill="{{DOT}}"/>
+<circle cx="30.0" cy="24.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="58.0" cy="24.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="86.0" cy="24.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="114.0" cy="24.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="142.0" cy="24.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="170.0" cy="24.0" r="5.3" fill="{{DOT}}"/>
+<circle cx="198.0" cy="24.0" r="4.9" fill="{{DOT}}"/>
+<circle cx="226.0" cy="24.0" r="4.4" fill="{{DOT}}"/>
+<circle cx="254.0" cy="24.0" r="3.9" fill="{{DOT}}"/>
+<circle cx="282.0" cy="24.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="310.0" cy="24.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="338.0" cy="24.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="366.0" cy="24.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="394.0" cy="24.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="422.0" cy="24.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="450.0" cy="24.0" r="3.7" fill="{{DOT}}"/>
+<circle cx="478.0" cy="24.0" r="4.1" fill="{{DOT}}"/>
+<circle cx="506.0" cy="24.0" r="4.6" fill="{{DOT}}"/>
+<circle cx="534.0" cy="24.0" r="5.0" fill="{{DOT}}"/>
+<circle cx="562.0" cy="24.0" r="5.4" fill="{{DOT}}"/>
+<circle cx="590.0" cy="24.0" r="5.7" fill="{{DOT}}"/>
+<circle cx="618.0" cy="24.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="646.0" cy="24.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="674.0" cy="24.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="702.0" cy="24.0" r="5.7" fill="{{DOT}}"/>
+<circle cx="730.0" cy="24.0" r="5.4" fill="{{DOT}}"/>
+<circle cx="758.0" cy="24.0" r="4.9" fill="{{DOT}}"/>
+<circle cx="786.0" cy="24.0" r="4.5" fill="{{DOT}}"/>
+<circle cx="814.0" cy="24.0" r="4.0" fill="{{DOT}}"/>
+<circle cx="842.0" cy="24.0" r="3.6" fill="{{DOT}}"/>
+<circle cx="870.0" cy="24.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="898.0" cy="24.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="926.0" cy="24.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="954.0" cy="24.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="982.0" cy="24.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="1010.0" cy="24.0" r="3.6" fill="{{DOT}}"/>
+<circle cx="1038.0" cy="24.0" r="4.0" fill="{{DOT}}"/>
+<circle cx="1066.0" cy="24.0" r="4.5" fill="{{DOT}}"/>
+<circle cx="1094.0" cy="24.0" r="4.9" fill="{{DOT}}"/>
+<circle cx="-12.0" cy="58.0" r="16.8" fill="{{DOT}}"/>
+<circle cx="44.0" cy="58.0" r="16.8" fill="{{DOT}}"/>
+<circle cx="100.0" cy="58.0" r="15.3" fill="{{DOT}}"/>
+<circle cx="156.0" cy="58.0" r="12.8" fill="{{DOT}}"/>
+<circle cx="212.0" cy="58.0" r="10.3" fill="{{DOT}}"/>
+<circle cx="268.0" cy="58.0" r="8.7" fill="{{DOT}}"/>
+<circle cx="324.0" cy="58.0" r="8.7" fill="{{DOT}}"/>
+<circle cx="380.0" cy="58.0" r="10.1" fill="{{DOT}}"/>
+<circle cx="436.0" cy="58.0" r="12.6" fill="{{DOT}}"/>
+<circle cx="492.0" cy="58.0" r="15.1" fill="{{DOT}}"/>
+<circle cx="548.0" cy="58.0" r="16.7" fill="{{DOT}}"/>
+<circle cx="604.0" cy="58.0" r="16.9" fill="{{DOT}}"/>
+<circle cx="660.0" cy="58.0" r="15.5" fill="{{DOT}}"/>
+<circle cx="716.0" cy="58.0" r="13.0" fill="{{DOT}}"/>
+<circle cx="772.0" cy="58.0" r="10.5" fill="{{DOT}}"/>
+<circle cx="828.0" cy="58.0" r="8.8" fill="{{DOT}}"/>
+<circle cx="884.0" cy="58.0" r="8.6" fill="{{DOT}}"/>
+<circle cx="940.0" cy="58.0" r="9.9" fill="{{DOT}}"/>
+<circle cx="996.0" cy="58.0" r="12.3" fill="{{DOT}}"/>
+<circle cx="1052.0" cy="58.0" r="14.9" fill="{{DOT}}"/>
+<circle cx="1108.0" cy="58.0" r="16.6" fill="{{DOT}}"/>
+<circle cx="-40.0" cy="102.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="-12.0" cy="102.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="16.0" cy="102.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="44.0" cy="102.0" r="5.3" fill="{{DOT}}"/>
+<circle cx="72.0" cy="102.0" r="4.9" fill="{{DOT}}"/>
+<circle cx="100.0" cy="102.0" r="4.4" fill="{{DOT}}"/>
+<circle cx="128.0" cy="102.0" r="3.9" fill="{{DOT}}"/>
+<circle cx="156.0" cy="102.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="184.0" cy="102.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="212.0" cy="102.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="240.0" cy="102.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="268.0" cy="102.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="296.0" cy="102.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="324.0" cy="102.0" r="3.7" fill="{{DOT}}"/>
+<circle cx="352.0" cy="102.0" r="4.1" fill="{{DOT}}"/>
+<circle cx="380.0" cy="102.0" r="4.6" fill="{{DOT}}"/>
+<circle cx="408.0" cy="102.0" r="5.0" fill="{{DOT}}"/>
+<circle cx="436.0" cy="102.0" r="5.4" fill="{{DOT}}"/>
+<circle cx="464.0" cy="102.0" r="5.7" fill="{{DOT}}"/>
+<circle cx="492.0" cy="102.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="520.0" cy="102.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="548.0" cy="102.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="576.0" cy="102.0" r="5.7" fill="{{DOT}}"/>
+<circle cx="604.0" cy="102.0" r="5.4" fill="{{DOT}}"/>
+<circle cx="632.0" cy="102.0" r="4.9" fill="{{DOT}}"/>
+<circle cx="660.0" cy="102.0" r="4.5" fill="{{DOT}}"/>
+<circle cx="688.0" cy="102.0" r="4.0" fill="{{DOT}}"/>
+<circle cx="716.0" cy="102.0" r="3.6" fill="{{DOT}}"/>
+<circle cx="744.0" cy="102.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="772.0" cy="102.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="800.0" cy="102.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="828.0" cy="102.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="856.0" cy="102.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="884.0" cy="102.0" r="3.6" fill="{{DOT}}"/>
+<circle cx="912.0" cy="102.0" r="4.0" fill="{{DOT}}"/>
+<circle cx="940.0" cy="102.0" r="4.5" fill="{{DOT}}"/>
+<circle cx="968.0" cy="102.0" r="4.9" fill="{{DOT}}"/>
+<circle cx="996.0" cy="102.0" r="5.3" fill="{{DOT}}"/>
+<circle cx="1024.0" cy="102.0" r="5.7" fill="{{DOT}}"/>
+<circle cx="1052.0" cy="102.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="1080.0" cy="102.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="1108.0" cy="102.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="-40.0" cy="136.0" r="15.8" fill="{{DOT}}"/>
+<circle cx="16.0" cy="136.0" r="13.4" fill="{{DOT}}"/>
+<circle cx="72.0" cy="136.0" r="10.9" fill="{{DOT}}"/>
+<circle cx="128.0" cy="136.0" r="9.0" fill="{{DOT}}"/>
+<circle cx="184.0" cy="136.0" r="8.5" fill="{{DOT}}"/>
+<circle cx="240.0" cy="136.0" r="9.7" fill="{{DOT}}"/>
+<circle cx="296.0" cy="136.0" r="11.9" fill="{{DOT}}"/>
+<circle cx="352.0" cy="136.0" r="14.5" fill="{{DOT}}"/>
+<circle cx="408.0" cy="136.0" r="16.4" fill="{{DOT}}"/>
+<circle cx="464.0" cy="136.0" r="17.0" fill="{{DOT}}"/>
+<circle cx="520.0" cy="136.0" r="15.9" fill="{{DOT}}"/>
+<circle cx="576.0" cy="136.0" r="13.7" fill="{{DOT}}"/>
+<circle cx="632.0" cy="136.0" r="11.1" fill="{{DOT}}"/>
+<circle cx="688.0" cy="136.0" r="9.1" fill="{{DOT}}"/>
+<circle cx="744.0" cy="136.0" r="8.5" fill="{{DOT}}"/>
+<circle cx="800.0" cy="136.0" r="9.5" fill="{{DOT}}"/>
+<circle cx="856.0" cy="136.0" r="11.7" fill="{{DOT}}"/>
+<circle cx="912.0" cy="136.0" r="14.3" fill="{{DOT}}"/>
+<circle cx="968.0" cy="136.0" r="16.3" fill="{{DOT}}"/>
+<circle cx="1024.0" cy="136.0" r="17.0" fill="{{DOT}}"/>
+<circle cx="1080.0" cy="136.0" r="16.1" fill="{{DOT}}"/>
+<circle cx="-26.0" cy="180.0" r="4.4" fill="{{DOT}}"/>
+<circle cx="2.0" cy="180.0" r="3.9" fill="{{DOT}}"/>
+<circle cx="30.0" cy="180.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="58.0" cy="180.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="86.0" cy="180.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="114.0" cy="180.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="142.0" cy="180.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="170.0" cy="180.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="198.0" cy="180.0" r="3.7" fill="{{DOT}}"/>
+<circle cx="226.0" cy="180.0" r="4.1" fill="{{DOT}}"/>
+<circle cx="254.0" cy="180.0" r="4.6" fill="{{DOT}}"/>
+<circle cx="282.0" cy="180.0" r="5.0" fill="{{DOT}}"/>
+<circle cx="310.0" cy="180.0" r="5.4" fill="{{DOT}}"/>
+<circle cx="338.0" cy="180.0" r="5.7" fill="{{DOT}}"/>
+<circle cx="366.0" cy="180.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="394.0" cy="180.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="422.0" cy="180.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="450.0" cy="180.0" r="5.7" fill="{{DOT}}"/>
+<circle cx="478.0" cy="180.0" r="5.4" fill="{{DOT}}"/>
+<circle cx="506.0" cy="180.0" r="4.9" fill="{{DOT}}"/>
+<circle cx="534.0" cy="180.0" r="4.5" fill="{{DOT}}"/>
+<circle cx="562.0" cy="180.0" r="4.0" fill="{{DOT}}"/>
+<circle cx="590.0" cy="180.0" r="3.6" fill="{{DOT}}"/>
+<circle cx="618.0" cy="180.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="646.0" cy="180.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="674.0" cy="180.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="702.0" cy="180.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="730.0" cy="180.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="758.0" cy="180.0" r="3.6" fill="{{DOT}}"/>
+<circle cx="786.0" cy="180.0" r="4.0" fill="{{DOT}}"/>
+<circle cx="814.0" cy="180.0" r="4.5" fill="{{DOT}}"/>
+<circle cx="842.0" cy="180.0" r="4.9" fill="{{DOT}}"/>
+<circle cx="870.0" cy="180.0" r="5.3" fill="{{DOT}}"/>
+<circle cx="898.0" cy="180.0" r="5.7" fill="{{DOT}}"/>
+<circle cx="926.0" cy="180.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="954.0" cy="180.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="982.0" cy="180.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="1010.0" cy="180.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="1038.0" cy="180.0" r="5.4" fill="{{DOT}}"/>
+<circle cx="1066.0" cy="180.0" r="5.0" fill="{{DOT}}"/>
+<circle cx="1094.0" cy="180.0" r="4.6" fill="{{DOT}}"/>
+<circle cx="-12.0" cy="214.0" r="9.4" fill="{{DOT}}"/>
+<circle cx="44.0" cy="214.0" r="8.5" fill="{{DOT}}"/>
+<circle cx="100.0" cy="214.0" r="9.2" fill="{{DOT}}"/>
+<circle cx="156.0" cy="214.0" r="11.3" fill="{{DOT}}"/>
+<circle cx="212.0" cy="214.0" r="13.9" fill="{{DOT}}"/>
+<circle cx="268.0" cy="214.0" r="16.1" fill="{{DOT}}"/>
+<circle cx="324.0" cy="214.0" r="17.0" fill="{{DOT}}"/>
+<circle cx="380.0" cy="214.0" r="16.3" fill="{{DOT}}"/>
+<circle cx="436.0" cy="214.0" r="14.3" fill="{{DOT}}"/>
+<circle cx="492.0" cy="214.0" r="11.7" fill="{{DOT}}"/>
+<circle cx="548.0" cy="214.0" r="9.5" fill="{{DOT}}"/>
+<circle cx="604.0" cy="214.0" r="8.5" fill="{{DOT}}"/>
+<circle cx="660.0" cy="214.0" r="9.1" fill="{{DOT}}"/>
+<circle cx="716.0" cy="214.0" r="11.1" fill="{{DOT}}"/>
+<circle cx="772.0" cy="214.0" r="13.6" fill="{{DOT}}"/>
+<circle cx="828.0" cy="214.0" r="15.9" fill="{{DOT}}"/>
+<circle cx="884.0" cy="214.0" r="17.0" fill="{{DOT}}"/>
+<circle cx="940.0" cy="214.0" r="16.5" fill="{{DOT}}"/>
+<circle cx="996.0" cy="214.0" r="14.6" fill="{{DOT}}"/>
+<circle cx="1052.0" cy="214.0" r="12.0" fill="{{DOT}}"/>
+<circle cx="1108.0" cy="214.0" r="9.7" fill="{{DOT}}"/>
+<circle cx="-40.0" cy="258.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="-12.0" cy="258.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="16.0" cy="258.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="44.0" cy="258.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="72.0" cy="258.0" r="3.7" fill="{{DOT}}"/>
+<circle cx="100.0" cy="258.0" r="4.1" fill="{{DOT}}"/>
+<circle cx="128.0" cy="258.0" r="4.6" fill="{{DOT}}"/>
+<circle cx="156.0" cy="258.0" r="5.0" fill="{{DOT}}"/>
+<circle cx="184.0" cy="258.0" r="5.4" fill="{{DOT}}"/>
+<circle cx="212.0" cy="258.0" r="5.7" fill="{{DOT}}"/>
+<circle cx="240.0" cy="258.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="268.0" cy="258.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="296.0" cy="258.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="324.0" cy="258.0" r="5.7" fill="{{DOT}}"/>
+<circle cx="352.0" cy="258.0" r="5.4" fill="{{DOT}}"/>
+<circle cx="380.0" cy="258.0" r="4.9" fill="{{DOT}}"/>
+<circle cx="408.0" cy="258.0" r="4.5" fill="{{DOT}}"/>
+<circle cx="436.0" cy="258.0" r="4.0" fill="{{DOT}}"/>
+<circle cx="464.0" cy="258.0" r="3.6" fill="{{DOT}}"/>
+<circle cx="492.0" cy="258.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="520.0" cy="258.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="548.0" cy="258.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="576.0" cy="258.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="604.0" cy="258.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="632.0" cy="258.0" r="3.6" fill="{{DOT}}"/>
+<circle cx="660.0" cy="258.0" r="4.0" fill="{{DOT}}"/>
+<circle cx="688.0" cy="258.0" r="4.5" fill="{{DOT}}"/>
+<circle cx="716.0" cy="258.0" r="4.9" fill="{{DOT}}"/>
+<circle cx="744.0" cy="258.0" r="5.3" fill="{{DOT}}"/>
+<circle cx="772.0" cy="258.0" r="5.7" fill="{{DOT}}"/>
+<circle cx="800.0" cy="258.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="828.0" cy="258.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="856.0" cy="258.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="884.0" cy="258.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="912.0" cy="258.0" r="5.4" fill="{{DOT}}"/>
+<circle cx="940.0" cy="258.0" r="5.0" fill="{{DOT}}"/>
+<circle cx="968.0" cy="258.0" r="4.6" fill="{{DOT}}"/>
+<circle cx="996.0" cy="258.0" r="4.1" fill="{{DOT}}"/>
+<circle cx="1024.0" cy="258.0" r="3.7" fill="{{DOT}}"/>
+<circle cx="1052.0" cy="258.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="1080.0" cy="258.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="1108.0" cy="258.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="-40.0" cy="292.0" r="8.9" fill="{{DOT}}"/>
+<circle cx="16.0" cy="292.0" r="10.7" fill="{{DOT}}"/>
+<circle cx="72.0" cy="292.0" r="13.2" fill="{{DOT}}"/>
+<circle cx="128.0" cy="292.0" r="15.6" fill="{{DOT}}"/>
+<circle cx="184.0" cy="292.0" r="16.9" fill="{{DOT}}"/>
+<circle cx="240.0" cy="292.0" r="16.6" fill="{{DOT}}"/>
+<circle cx="296.0" cy="292.0" r="14.9" fill="{{DOT}}"/>
+<circle cx="352.0" cy="292.0" r="12.4" fill="{{DOT}}"/>
+<circle cx="408.0" cy="292.0" r="10.0" fill="{{DOT}}"/>
+<circle cx="464.0" cy="292.0" r="8.6" fill="{{DOT}}"/>
+<circle cx="520.0" cy="292.0" r="8.8" fill="{{DOT}}"/>
+<circle cx="576.0" cy="292.0" r="10.5" fill="{{DOT}}"/>
+<circle cx="632.0" cy="292.0" r="13.0" fill="{{DOT}}"/>
+<circle cx="688.0" cy="292.0" r="15.4" fill="{{DOT}}"/>
+<circle cx="744.0" cy="292.0" r="16.8" fill="{{DOT}}"/>
+<circle cx="800.0" cy="292.0" r="16.7" fill="{{DOT}}"/>
+<circle cx="856.0" cy="292.0" r="15.1" fill="{{DOT}}"/>
+<circle cx="912.0" cy="292.0" r="12.6" fill="{{DOT}}"/>
+<circle cx="968.0" cy="292.0" r="10.2" fill="{{DOT}}"/>
+<circle cx="1024.0" cy="292.0" r="8.7" fill="{{DOT}}"/>
+<circle cx="1080.0" cy="292.0" r="8.7" fill="{{DOT}}"/>
+<circle cx="-26.0" cy="336.0" r="4.1" fill="{{DOT}}"/>
+<circle cx="2.0" cy="336.0" r="4.6" fill="{{DOT}}"/>
+<circle cx="30.0" cy="336.0" r="5.0" fill="{{DOT}}"/>
+<circle cx="58.0" cy="336.0" r="5.4" fill="{{DOT}}"/>
+<circle cx="86.0" cy="336.0" r="5.7" fill="{{DOT}}"/>
+<circle cx="114.0" cy="336.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="142.0" cy="336.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="170.0" cy="336.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="198.0" cy="336.0" r="5.7" fill="{{DOT}}"/>
+<circle cx="226.0" cy="336.0" r="5.4" fill="{{DOT}}"/>
+<circle cx="254.0" cy="336.0" r="4.9" fill="{{DOT}}"/>
+<circle cx="282.0" cy="336.0" r="4.5" fill="{{DOT}}"/>
+<circle cx="310.0" cy="336.0" r="4.0" fill="{{DOT}}"/>
+<circle cx="338.0" cy="336.0" r="3.6" fill="{{DOT}}"/>
+<circle cx="366.0" cy="336.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="394.0" cy="336.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="422.0" cy="336.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="450.0" cy="336.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="478.0" cy="336.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="506.0" cy="336.0" r="3.6" fill="{{DOT}}"/>
+<circle cx="534.0" cy="336.0" r="4.0" fill="{{DOT}}"/>
+<circle cx="562.0" cy="336.0" r="4.5" fill="{{DOT}}"/>
+<circle cx="590.0" cy="336.0" r="4.9" fill="{{DOT}}"/>
+<circle cx="618.0" cy="336.0" r="5.3" fill="{{DOT}}"/>
+<circle cx="646.0" cy="336.0" r="5.7" fill="{{DOT}}"/>
+<circle cx="674.0" cy="336.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="702.0" cy="336.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="730.0" cy="336.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="758.0" cy="336.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="786.0" cy="336.0" r="5.4" fill="{{DOT}}"/>
+<circle cx="814.0" cy="336.0" r="5.0" fill="{{DOT}}"/>
+<circle cx="842.0" cy="336.0" r="4.6" fill="{{DOT}}"/>
+<circle cx="870.0" cy="336.0" r="4.1" fill="{{DOT}}"/>
+<circle cx="898.0" cy="336.0" r="3.7" fill="{{DOT}}"/>
+<circle cx="926.0" cy="336.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="954.0" cy="336.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="982.0" cy="336.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="1010.0" cy="336.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="1038.0" cy="336.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="1066.0" cy="336.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="1094.0" cy="336.0" r="3.9" fill="{{DOT}}"/>
+<circle cx="-12.0" cy="370.0" r="15.1" fill="{{DOT}}"/>
+<circle cx="44.0" cy="370.0" r="16.7" fill="{{DOT}}"/>
+<circle cx="100.0" cy="370.0" r="16.9" fill="{{DOT}}"/>
+<circle cx="156.0" cy="370.0" r="15.5" fill="{{DOT}}"/>
+<circle cx="212.0" cy="370.0" r="13.0" fill="{{DOT}}"/>
+<circle cx="268.0" cy="370.0" r="10.5" fill="{{DOT}}"/>
+<circle cx="324.0" cy="370.0" r="8.8" fill="{{DOT}}"/>
+<circle cx="380.0" cy="370.0" r="8.6" fill="{{DOT}}"/>
+<circle cx="436.0" cy="370.0" r="9.9" fill="{{DOT}}"/>
+<circle cx="492.0" cy="370.0" r="12.3" fill="{{DOT}}"/>
+<circle cx="548.0" cy="370.0" r="14.9" fill="{{DOT}}"/>
+<circle cx="604.0" cy="370.0" r="16.6" fill="{{DOT}}"/>
+<circle cx="660.0" cy="370.0" r="16.9" fill="{{DOT}}"/>
+<circle cx="716.0" cy="370.0" r="15.7" fill="{{DOT}}"/>
+<circle cx="772.0" cy="370.0" r="13.3" fill="{{DOT}}"/>
+<circle cx="828.0" cy="370.0" r="10.7" fill="{{DOT}}"/>
+<circle cx="884.0" cy="370.0" r="8.9" fill="{{DOT}}"/>
+<circle cx="940.0" cy="370.0" r="8.6" fill="{{DOT}}"/>
+<circle cx="996.0" cy="370.0" r="9.8" fill="{{DOT}}"/>
+<circle cx="1052.0" cy="370.0" r="12.1" fill="{{DOT}}"/>
+<circle cx="1108.0" cy="370.0" r="14.6" fill="{{DOT}}"/>
+<circle cx="-40.0" cy="414.0" r="5.7" fill="{{DOT}}"/>
+<circle cx="-12.0" cy="414.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="16.0" cy="414.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="44.0" cy="414.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="72.0" cy="414.0" r="5.7" fill="{{DOT}}"/>
+<circle cx="100.0" cy="414.0" r="5.4" fill="{{DOT}}"/>
+<circle cx="128.0" cy="414.0" r="4.9" fill="{{DOT}}"/>
+<circle cx="156.0" cy="414.0" r="4.5" fill="{{DOT}}"/>
+<circle cx="184.0" cy="414.0" r="4.0" fill="{{DOT}}"/>
+<circle cx="212.0" cy="414.0" r="3.6" fill="{{DOT}}"/>
+<circle cx="240.0" cy="414.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="268.0" cy="414.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="296.0" cy="414.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="324.0" cy="414.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="352.0" cy="414.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="380.0" cy="414.0" r="3.6" fill="{{DOT}}"/>
+<circle cx="408.0" cy="414.0" r="4.0" fill="{{DOT}}"/>
+<circle cx="436.0" cy="414.0" r="4.5" fill="{{DOT}}"/>
+<circle cx="464.0" cy="414.0" r="4.9" fill="{{DOT}}"/>
+<circle cx="492.0" cy="414.0" r="5.3" fill="{{DOT}}"/>
+<circle cx="520.0" cy="414.0" r="5.7" fill="{{DOT}}"/>
+<circle cx="548.0" cy="414.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="576.0" cy="414.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="604.0" cy="414.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="632.0" cy="414.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="660.0" cy="414.0" r="5.4" fill="{{DOT}}"/>
+<circle cx="688.0" cy="414.0" r="5.0" fill="{{DOT}}"/>
+<circle cx="716.0" cy="414.0" r="4.6" fill="{{DOT}}"/>
+<circle cx="744.0" cy="414.0" r="4.1" fill="{{DOT}}"/>
+<circle cx="772.0" cy="414.0" r="3.7" fill="{{DOT}}"/>
+<circle cx="800.0" cy="414.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="828.0" cy="414.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="856.0" cy="414.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="884.0" cy="414.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="912.0" cy="414.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="940.0" cy="414.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="968.0" cy="414.0" r="3.9" fill="{{DOT}}"/>
+<circle cx="996.0" cy="414.0" r="4.4" fill="{{DOT}}"/>
+<circle cx="1024.0" cy="414.0" r="4.8" fill="{{DOT}}"/>
+<circle cx="1052.0" cy="414.0" r="5.3" fill="{{DOT}}"/>
+<circle cx="1080.0" cy="414.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="1108.0" cy="414.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="-40.0" cy="448.0" r="17.0" fill="{{DOT}}"/>
+<circle cx="16.0" cy="448.0" r="15.9" fill="{{DOT}}"/>
+<circle cx="72.0" cy="448.0" r="13.7" fill="{{DOT}}"/>
+<circle cx="128.0" cy="448.0" r="11.1" fill="{{DOT}}"/>
+<circle cx="184.0" cy="448.0" r="9.1" fill="{{DOT}}"/>
+<circle cx="240.0" cy="448.0" r="8.5" fill="{{DOT}}"/>
+<circle cx="296.0" cy="448.0" r="9.5" fill="{{DOT}}"/>
+<circle cx="352.0" cy="448.0" r="11.7" fill="{{DOT}}"/>
+<circle cx="408.0" cy="448.0" r="14.3" fill="{{DOT}}"/>
+<circle cx="464.0" cy="448.0" r="16.3" fill="{{DOT}}"/>
+<circle cx="520.0" cy="448.0" r="17.0" fill="{{DOT}}"/>
+<circle cx="576.0" cy="448.0" r="16.1" fill="{{DOT}}"/>
+<circle cx="632.0" cy="448.0" r="13.9" fill="{{DOT}}"/>
+<circle cx="688.0" cy="448.0" r="11.3" fill="{{DOT}}"/>
+<circle cx="744.0" cy="448.0" r="9.3" fill="{{DOT}}"/>
+<circle cx="800.0" cy="448.0" r="8.5" fill="{{DOT}}"/>
+<circle cx="856.0" cy="448.0" r="9.3" fill="{{DOT}}"/>
+<circle cx="912.0" cy="448.0" r="11.4" fill="{{DOT}}"/>
+<circle cx="968.0" cy="448.0" r="14.0" fill="{{DOT}}"/>
+<circle cx="1024.0" cy="448.0" r="16.2" fill="{{DOT}}"/>
+<circle cx="1080.0" cy="448.0" r="17.0" fill="{{DOT}}"/>
+<circle cx="-26.0" cy="492.0" r="5.4" fill="{{DOT}}"/>
+<circle cx="2.0" cy="492.0" r="4.9" fill="{{DOT}}"/>
+<circle cx="30.0" cy="492.0" r="4.5" fill="{{DOT}}"/>
+<circle cx="58.0" cy="492.0" r="4.0" fill="{{DOT}}"/>
+<circle cx="86.0" cy="492.0" r="3.6" fill="{{DOT}}"/>
+<circle cx="114.0" cy="492.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="142.0" cy="492.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="170.0" cy="492.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="198.0" cy="492.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="226.0" cy="492.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="254.0" cy="492.0" r="3.6" fill="{{DOT}}"/>
+<circle cx="282.0" cy="492.0" r="4.0" fill="{{DOT}}"/>
+<circle cx="310.0" cy="492.0" r="4.5" fill="{{DOT}}"/>
+<circle cx="338.0" cy="492.0" r="4.9" fill="{{DOT}}"/>
+<circle cx="366.0" cy="492.0" r="5.3" fill="{{DOT}}"/>
+<circle cx="394.0" cy="492.0" r="5.7" fill="{{DOT}}"/>
+<circle cx="422.0" cy="492.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="450.0" cy="492.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="478.0" cy="492.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="506.0" cy="492.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="534.0" cy="492.0" r="5.4" fill="{{DOT}}"/>
+<circle cx="562.0" cy="492.0" r="5.0" fill="{{DOT}}"/>
+<circle cx="590.0" cy="492.0" r="4.6" fill="{{DOT}}"/>
+<circle cx="618.0" cy="492.0" r="4.1" fill="{{DOT}}"/>
+<circle cx="646.0" cy="492.0" r="3.7" fill="{{DOT}}"/>
+<circle cx="674.0" cy="492.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="702.0" cy="492.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="730.0" cy="492.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="758.0" cy="492.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="786.0" cy="492.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="814.0" cy="492.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="842.0" cy="492.0" r="3.9" fill="{{DOT}}"/>
+<circle cx="870.0" cy="492.0" r="4.4" fill="{{DOT}}"/>
+<circle cx="898.0" cy="492.0" r="4.8" fill="{{DOT}}"/>
+<circle cx="926.0" cy="492.0" r="5.3" fill="{{DOT}}"/>
+<circle cx="954.0" cy="492.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="982.0" cy="492.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="1010.0" cy="492.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="1038.0" cy="492.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="1066.0" cy="492.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="1094.0" cy="492.0" r="5.5" fill="{{DOT}}"/>
+<circle cx="-12.0" cy="526.0" r="11.7" fill="{{DOT}}"/>
+<circle cx="44.0" cy="526.0" r="9.5" fill="{{DOT}}"/>
+<circle cx="100.0" cy="526.0" r="8.5" fill="{{DOT}}"/>
+<circle cx="156.0" cy="526.0" r="9.1" fill="{{DOT}}"/>
+<circle cx="212.0" cy="526.0" r="11.1" fill="{{DOT}}"/>
+<circle cx="268.0" cy="526.0" r="13.6" fill="{{DOT}}"/>
+<circle cx="324.0" cy="526.0" r="15.9" fill="{{DOT}}"/>
+<circle cx="380.0" cy="526.0" r="17.0" fill="{{DOT}}"/>
+<circle cx="436.0" cy="526.0" r="16.5" fill="{{DOT}}"/>
+<circle cx="492.0" cy="526.0" r="14.6" fill="{{DOT}}"/>
+<circle cx="548.0" cy="526.0" r="12.0" fill="{{DOT}}"/>
+<circle cx="604.0" cy="526.0" r="9.7" fill="{{DOT}}"/>
+<circle cx="660.0" cy="526.0" r="8.5" fill="{{DOT}}"/>
+<circle cx="716.0" cy="526.0" r="9.0" fill="{{DOT}}"/>
+<circle cx="772.0" cy="526.0" r="10.8" fill="{{DOT}}"/>
+<circle cx="828.0" cy="526.0" r="13.4" fill="{{DOT}}"/>
+<circle cx="884.0" cy="526.0" r="15.7" fill="{{DOT}}"/>
+<circle cx="940.0" cy="526.0" r="16.9" fill="{{DOT}}"/>
+<circle cx="996.0" cy="526.0" r="16.6" fill="{{DOT}}"/>
+<circle cx="1052.0" cy="526.0" r="14.8" fill="{{DOT}}"/>
+<circle cx="1108.0" cy="526.0" r="12.2" fill="{{DOT}}"/>
+<circle cx="-40.0" cy="570.0" r="3.6" fill="{{DOT}}"/>
+<circle cx="-12.0" cy="570.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="16.0" cy="570.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="44.0" cy="570.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="72.0" cy="570.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="100.0" cy="570.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="128.0" cy="570.0" r="3.6" fill="{{DOT}}"/>
+<circle cx="156.0" cy="570.0" r="4.0" fill="{{DOT}}"/>
+<circle cx="184.0" cy="570.0" r="4.5" fill="{{DOT}}"/>
+<circle cx="212.0" cy="570.0" r="4.9" fill="{{DOT}}"/>
+<circle cx="240.0" cy="570.0" r="5.3" fill="{{DOT}}"/>
+<circle cx="268.0" cy="570.0" r="5.7" fill="{{DOT}}"/>
+<circle cx="296.0" cy="570.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="324.0" cy="570.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="352.0" cy="570.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="380.0" cy="570.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="408.0" cy="570.0" r="5.4" fill="{{DOT}}"/>
+<circle cx="436.0" cy="570.0" r="5.0" fill="{{DOT}}"/>
+<circle cx="464.0" cy="570.0" r="4.6" fill="{{DOT}}"/>
+<circle cx="492.0" cy="570.0" r="4.1" fill="{{DOT}}"/>
+<circle cx="520.0" cy="570.0" r="3.7" fill="{{DOT}}"/>
+<circle cx="548.0" cy="570.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="576.0" cy="570.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="604.0" cy="570.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="632.0" cy="570.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="660.0" cy="570.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="688.0" cy="570.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="716.0" cy="570.0" r="3.9" fill="{{DOT}}"/>
+<circle cx="744.0" cy="570.0" r="4.4" fill="{{DOT}}"/>
+<circle cx="772.0" cy="570.0" r="4.8" fill="{{DOT}}"/>
+<circle cx="800.0" cy="570.0" r="5.3" fill="{{DOT}}"/>
+<circle cx="828.0" cy="570.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="856.0" cy="570.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="884.0" cy="570.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="912.0" cy="570.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="940.0" cy="570.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="968.0" cy="570.0" r="5.5" fill="{{DOT}}"/>
+<circle cx="996.0" cy="570.0" r="5.1" fill="{{DOT}}"/>
+<circle cx="1024.0" cy="570.0" r="4.7" fill="{{DOT}}"/>
+<circle cx="1052.0" cy="570.0" r="4.2" fill="{{DOT}}"/>
+<circle cx="1080.0" cy="570.0" r="3.8" fill="{{DOT}}"/>
+<circle cx="1108.0" cy="570.0" r="3.4" fill="{{DOT}}"/>
+<circle cx="-40.0" cy="604.0" r="8.6" fill="{{DOT}}"/>
+<circle cx="16.0" cy="604.0" r="8.8" fill="{{DOT}}"/>
+<circle cx="72.0" cy="604.0" r="10.5" fill="{{DOT}}"/>
+<circle cx="128.0" cy="604.0" r="13.0" fill="{{DOT}}"/>
+<circle cx="184.0" cy="604.0" r="15.4" fill="{{DOT}}"/>
+<circle cx="240.0" cy="604.0" r="16.8" fill="{{DOT}}"/>
+<circle cx="296.0" cy="604.0" r="16.7" fill="{{DOT}}"/>
+<circle cx="352.0" cy="604.0" r="15.1" fill="{{DOT}}"/>
+<circle cx="408.0" cy="604.0" r="12.6" fill="{{DOT}}"/>
+<circle cx="464.0" cy="604.0" r="10.2" fill="{{DOT}}"/>
+<circle cx="520.0" cy="604.0" r="8.7" fill="{{DOT}}"/>
+<circle cx="576.0" cy="604.0" r="8.7" fill="{{DOT}}"/>
+<circle cx="632.0" cy="604.0" r="10.3" fill="{{DOT}}"/>
+<circle cx="688.0" cy="604.0" r="12.7" fill="{{DOT}}"/>
+<circle cx="744.0" cy="604.0" r="15.2" fill="{{DOT}}"/>
+<circle cx="800.0" cy="604.0" r="16.8" fill="{{DOT}}"/>
+<circle cx="856.0" cy="604.0" r="16.8" fill="{{DOT}}"/>
+<circle cx="912.0" cy="604.0" r="15.3" fill="{{DOT}}"/>
+<circle cx="968.0" cy="604.0" r="12.9" fill="{{DOT}}"/>
+<circle cx="1024.0" cy="604.0" r="10.4" fill="{{DOT}}"/>
+<circle cx="1080.0" cy="604.0" r="8.8" fill="{{DOT}}"/>
+<circle cx="-26.0" cy="648.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="2.0" cy="648.0" r="3.6" fill="{{DOT}}"/>
+<circle cx="30.0" cy="648.0" r="4.0" fill="{{DOT}}"/>
+<circle cx="58.0" cy="648.0" r="4.5" fill="{{DOT}}"/>
+<circle cx="86.0" cy="648.0" r="4.9" fill="{{DOT}}"/>
+<circle cx="114.0" cy="648.0" r="5.3" fill="{{DOT}}"/>
+<circle cx="142.0" cy="648.0" r="5.7" fill="{{DOT}}"/>
+<circle cx="170.0" cy="648.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="198.0" cy="648.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="226.0" cy="648.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="254.0" cy="648.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="282.0" cy="648.0" r="5.4" fill="{{DOT}}"/>
+<circle cx="310.0" cy="648.0" r="5.0" fill="{{DOT}}"/>
+<circle cx="338.0" cy="648.0" r="4.6" fill="{{DOT}}"/>
+<circle cx="366.0" cy="648.0" r="4.1" fill="{{DOT}}"/>
+<circle cx="394.0" cy="648.0" r="3.7" fill="{{DOT}}"/>
+<circle cx="422.0" cy="648.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="450.0" cy="648.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="478.0" cy="648.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="506.0" cy="648.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="534.0" cy="648.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="562.0" cy="648.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="590.0" cy="648.0" r="3.9" fill="{{DOT}}"/>
+<circle cx="618.0" cy="648.0" r="4.4" fill="{{DOT}}"/>
+<circle cx="646.0" cy="648.0" r="4.8" fill="{{DOT}}"/>
+<circle cx="674.0" cy="648.0" r="5.3" fill="{{DOT}}"/>
+<circle cx="702.0" cy="648.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="730.0" cy="648.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="758.0" cy="648.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="786.0" cy="648.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="814.0" cy="648.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="842.0" cy="648.0" r="5.5" fill="{{DOT}}"/>
+<circle cx="870.0" cy="648.0" r="5.1" fill="{{DOT}}"/>
+<circle cx="898.0" cy="648.0" r="4.7" fill="{{DOT}}"/>
+<circle cx="926.0" cy="648.0" r="4.2" fill="{{DOT}}"/>
+<circle cx="954.0" cy="648.0" r="3.8" fill="{{DOT}}"/>
+<circle cx="982.0" cy="648.0" r="3.4" fill="{{DOT}}"/>
+<circle cx="1010.0" cy="648.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="1038.0" cy="648.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="1066.0" cy="648.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="1094.0" cy="648.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="-12.0" cy="682.0" r="12.3" fill="{{DOT}}"/>
+<circle cx="44.0" cy="682.0" r="14.9" fill="{{DOT}}"/>
+<circle cx="100.0" cy="682.0" r="16.6" fill="{{DOT}}"/>
+<circle cx="156.0" cy="682.0" r="16.9" fill="{{DOT}}"/>
+<circle cx="212.0" cy="682.0" r="15.7" fill="{{DOT}}"/>
+<circle cx="268.0" cy="682.0" r="13.3" fill="{{DOT}}"/>
+<circle cx="324.0" cy="682.0" r="10.7" fill="{{DOT}}"/>
+<circle cx="380.0" cy="682.0" r="8.9" fill="{{DOT}}"/>
+<circle cx="436.0" cy="682.0" r="8.6" fill="{{DOT}}"/>
+<circle cx="492.0" cy="682.0" r="9.8" fill="{{DOT}}"/>
+<circle cx="548.0" cy="682.0" r="12.1" fill="{{DOT}}"/>
+<circle cx="604.0" cy="682.0" r="14.6" fill="{{DOT}}"/>
+<circle cx="660.0" cy="682.0" r="16.5" fill="{{DOT}}"/>
+<circle cx="716.0" cy="682.0" r="17.0" fill="{{DOT}}"/>
+<circle cx="772.0" cy="682.0" r="15.8" fill="{{DOT}}"/>
+<circle cx="828.0" cy="682.0" r="13.6" fill="{{DOT}}"/>
+<circle cx="884.0" cy="682.0" r="11.0" fill="{{DOT}}"/>
+<circle cx="940.0" cy="682.0" r="9.1" fill="{{DOT}}"/>
+<circle cx="996.0" cy="682.0" r="8.5" fill="{{DOT}}"/>
+<circle cx="1052.0" cy="682.0" r="9.6" fill="{{DOT}}"/>
+<circle cx="1108.0" cy="682.0" r="11.8" fill="{{DOT}}"/>
+<circle cx="-40.0" cy="726.0" r="4.9" fill="{{DOT}}"/>
+<circle cx="-12.0" cy="726.0" r="5.3" fill="{{DOT}}"/>
+<circle cx="16.0" cy="726.0" r="5.7" fill="{{DOT}}"/>
+<circle cx="44.0" cy="726.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="72.0" cy="726.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="100.0" cy="726.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="128.0" cy="726.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="156.0" cy="726.0" r="5.4" fill="{{DOT}}"/>
+<circle cx="184.0" cy="726.0" r="5.0" fill="{{DOT}}"/>
+<circle cx="212.0" cy="726.0" r="4.6" fill="{{DOT}}"/>
+<circle cx="240.0" cy="726.0" r="4.1" fill="{{DOT}}"/>
+<circle cx="268.0" cy="726.0" r="3.7" fill="{{DOT}}"/>
+<circle cx="296.0" cy="726.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="324.0" cy="726.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="352.0" cy="726.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="380.0" cy="726.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="408.0" cy="726.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="436.0" cy="726.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="464.0" cy="726.0" r="3.9" fill="{{DOT}}"/>
+<circle cx="492.0" cy="726.0" r="4.4" fill="{{DOT}}"/>
+<circle cx="520.0" cy="726.0" r="4.8" fill="{{DOT}}"/>
+<circle cx="548.0" cy="726.0" r="5.3" fill="{{DOT}}"/>
+<circle cx="576.0" cy="726.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="604.0" cy="726.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="632.0" cy="726.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="660.0" cy="726.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="688.0" cy="726.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="716.0" cy="726.0" r="5.5" fill="{{DOT}}"/>
+<circle cx="744.0" cy="726.0" r="5.1" fill="{{DOT}}"/>
+<circle cx="772.0" cy="726.0" r="4.7" fill="{{DOT}}"/>
+<circle cx="800.0" cy="726.0" r="4.2" fill="{{DOT}}"/>
+<circle cx="828.0" cy="726.0" r="3.8" fill="{{DOT}}"/>
+<circle cx="856.0" cy="726.0" r="3.4" fill="{{DOT}}"/>
+<circle cx="884.0" cy="726.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="912.0" cy="726.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="940.0" cy="726.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="968.0" cy="726.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="996.0" cy="726.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="1024.0" cy="726.0" r="3.8" fill="{{DOT}}"/>
+<circle cx="1052.0" cy="726.0" r="4.3" fill="{{DOT}}"/>
+<circle cx="1080.0" cy="726.0" r="4.7" fill="{{DOT}}"/>
+<circle cx="1108.0" cy="726.0" r="5.2" fill="{{DOT}}"/>
+<circle cx="-40.0" cy="760.0" r="16.3" fill="{{DOT}}"/>
+<circle cx="16.0" cy="760.0" r="17.0" fill="{{DOT}}"/>
+<circle cx="72.0" cy="760.0" r="16.1" fill="{{DOT}}"/>
+<circle cx="128.0" cy="760.0" r="13.9" fill="{{DOT}}"/>
+<circle cx="184.0" cy="760.0" r="11.3" fill="{{DOT}}"/>
+<circle cx="240.0" cy="760.0" r="9.3" fill="{{DOT}}"/>
+<circle cx="296.0" cy="760.0" r="8.5" fill="{{DOT}}"/>
+<circle cx="352.0" cy="760.0" r="9.3" fill="{{DOT}}"/>
+<circle cx="408.0" cy="760.0" r="11.4" fill="{{DOT}}"/>
+<circle cx="464.0" cy="760.0" r="14.0" fill="{{DOT}}"/>
+<circle cx="520.0" cy="760.0" r="16.2" fill="{{DOT}}"/>
+<circle cx="576.0" cy="760.0" r="17.0" fill="{{DOT}}"/>
+<circle cx="632.0" cy="760.0" r="16.3" fill="{{DOT}}"/>
+<circle cx="688.0" cy="760.0" r="14.2" fill="{{DOT}}"/>
+<circle cx="744.0" cy="760.0" r="11.6" fill="{{DOT}}"/>
+<circle cx="800.0" cy="760.0" r="9.4" fill="{{DOT}}"/>
+<circle cx="856.0" cy="760.0" r="8.5" fill="{{DOT}}"/>
+<circle cx="912.0" cy="760.0" r="9.2" fill="{{DOT}}"/>
+<circle cx="968.0" cy="760.0" r="11.2" fill="{{DOT}}"/>
+<circle cx="1024.0" cy="760.0" r="13.8" fill="{{DOT}}"/>
+<circle cx="1080.0" cy="760.0" r="16.0" fill="{{DOT}}"/>
+<circle cx="-26.0" cy="804.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="2.0" cy="804.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="30.0" cy="804.0" r="5.4" fill="{{DOT}}"/>
+<circle cx="58.0" cy="804.0" r="5.0" fill="{{DOT}}"/>
+<circle cx="86.0" cy="804.0" r="4.6" fill="{{DOT}}"/>
+<circle cx="114.0" cy="804.0" r="4.1" fill="{{DOT}}"/>
+<circle cx="142.0" cy="804.0" r="3.7" fill="{{DOT}}"/>
+<circle cx="170.0" cy="804.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="198.0" cy="804.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="226.0" cy="804.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="254.0" cy="804.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="282.0" cy="804.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="310.0" cy="804.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="338.0" cy="804.0" r="3.9" fill="{{DOT}}"/>
+<circle cx="366.0" cy="804.0" r="4.4" fill="{{DOT}}"/>
+<circle cx="394.0" cy="804.0" r="4.8" fill="{{DOT}}"/>
+<circle cx="422.0" cy="804.0" r="5.3" fill="{{DOT}}"/>
+<circle cx="450.0" cy="804.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="478.0" cy="804.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="506.0" cy="804.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="534.0" cy="804.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="562.0" cy="804.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="590.0" cy="804.0" r="5.5" fill="{{DOT}}"/>
+<circle cx="618.0" cy="804.0" r="5.1" fill="{{DOT}}"/>
+<circle cx="646.0" cy="804.0" r="4.7" fill="{{DOT}}"/>
+<circle cx="674.0" cy="804.0" r="4.2" fill="{{DOT}}"/>
+<circle cx="702.0" cy="804.0" r="3.8" fill="{{DOT}}"/>
+<circle cx="730.0" cy="804.0" r="3.4" fill="{{DOT}}"/>
+<circle cx="758.0" cy="804.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="786.0" cy="804.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="814.0" cy="804.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="842.0" cy="804.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="870.0" cy="804.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="898.0" cy="804.0" r="3.8" fill="{{DOT}}"/>
+<circle cx="926.0" cy="804.0" r="4.3" fill="{{DOT}}"/>
+<circle cx="954.0" cy="804.0" r="4.7" fill="{{DOT}}"/>
+<circle cx="982.0" cy="804.0" r="5.2" fill="{{DOT}}"/>
+<circle cx="1010.0" cy="804.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="1038.0" cy="804.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="1066.0" cy="804.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="1094.0" cy="804.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="-12.0" cy="838.0" r="14.6" fill="{{DOT}}"/>
+<circle cx="44.0" cy="838.0" r="12.0" fill="{{DOT}}"/>
+<circle cx="100.0" cy="838.0" r="9.7" fill="{{DOT}}"/>
+<circle cx="156.0" cy="838.0" r="8.5" fill="{{DOT}}"/>
+<circle cx="212.0" cy="838.0" r="9.0" fill="{{DOT}}"/>
+<circle cx="268.0" cy="838.0" r="10.8" fill="{{DOT}}"/>
+<circle cx="324.0" cy="838.0" r="13.4" fill="{{DOT}}"/>
+<circle cx="380.0" cy="838.0" r="15.7" fill="{{DOT}}"/>
+<circle cx="436.0" cy="838.0" r="16.9" fill="{{DOT}}"/>
+<circle cx="492.0" cy="838.0" r="16.6" fill="{{DOT}}"/>
+<circle cx="548.0" cy="838.0" r="14.8" fill="{{DOT}}"/>
+<circle cx="604.0" cy="838.0" r="12.2" fill="{{DOT}}"/>
+<circle cx="660.0" cy="838.0" r="9.9" fill="{{DOT}}"/>
+<circle cx="716.0" cy="838.0" r="8.6" fill="{{DOT}}"/>
+<circle cx="772.0" cy="838.0" r="8.9" fill="{{DOT}}"/>
+<circle cx="828.0" cy="838.0" r="10.6" fill="{{DOT}}"/>
+<circle cx="884.0" cy="838.0" r="13.1" fill="{{DOT}}"/>
+<circle cx="940.0" cy="838.0" r="15.5" fill="{{DOT}}"/>
+<circle cx="996.0" cy="838.0" r="16.9" fill="{{DOT}}"/>
+<circle cx="1052.0" cy="838.0" r="16.7" fill="{{DOT}}"/>
+<circle cx="1108.0" cy="838.0" r="15.0" fill="{{DOT}}"/>
+<circle cx="-40.0" cy="882.0" r="4.6" fill="{{DOT}}"/>
+<circle cx="-12.0" cy="882.0" r="4.1" fill="{{DOT}}"/>
+<circle cx="16.0" cy="882.0" r="3.7" fill="{{DOT}}"/>
+<circle cx="44.0" cy="882.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="72.0" cy="882.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="100.0" cy="882.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="128.0" cy="882.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="156.0" cy="882.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="184.0" cy="882.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="212.0" cy="882.0" r="3.9" fill="{{DOT}}"/>
+<circle cx="240.0" cy="882.0" r="4.4" fill="{{DOT}}"/>
+<circle cx="268.0" cy="882.0" r="4.8" fill="{{DOT}}"/>
+<circle cx="296.0" cy="882.0" r="5.3" fill="{{DOT}}"/>
+<circle cx="324.0" cy="882.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="352.0" cy="882.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="380.0" cy="882.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="408.0" cy="882.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="436.0" cy="882.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="464.0" cy="882.0" r="5.5" fill="{{DOT}}"/>
+<circle cx="492.0" cy="882.0" r="5.1" fill="{{DOT}}"/>
+<circle cx="520.0" cy="882.0" r="4.7" fill="{{DOT}}"/>
+<circle cx="548.0" cy="882.0" r="4.2" fill="{{DOT}}"/>
+<circle cx="576.0" cy="882.0" r="3.8" fill="{{DOT}}"/>
+<circle cx="604.0" cy="882.0" r="3.4" fill="{{DOT}}"/>
+<circle cx="632.0" cy="882.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="660.0" cy="882.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="688.0" cy="882.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="716.0" cy="882.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="744.0" cy="882.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="772.0" cy="882.0" r="3.8" fill="{{DOT}}"/>
+<circle cx="800.0" cy="882.0" r="4.3" fill="{{DOT}}"/>
+<circle cx="828.0" cy="882.0" r="4.7" fill="{{DOT}}"/>
+<circle cx="856.0" cy="882.0" r="5.2" fill="{{DOT}}"/>
+<circle cx="884.0" cy="882.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="912.0" cy="882.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="940.0" cy="882.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="968.0" cy="882.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="996.0" cy="882.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="1024.0" cy="882.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="1052.0" cy="882.0" r="5.2" fill="{{DOT}}"/>
+<circle cx="1080.0" cy="882.0" r="4.8" fill="{{DOT}}"/>
+<circle cx="1108.0" cy="882.0" r="4.3" fill="{{DOT}}"/>
+<circle cx="-40.0" cy="916.0" r="10.2" fill="{{DOT}}"/>
+<circle cx="16.0" cy="916.0" r="8.7" fill="{{DOT}}"/>
+<circle cx="72.0" cy="916.0" r="8.7" fill="{{DOT}}"/>
+<circle cx="128.0" cy="916.0" r="10.3" fill="{{DOT}}"/>
+<circle cx="184.0" cy="916.0" r="12.7" fill="{{DOT}}"/>
+<circle cx="240.0" cy="916.0" r="15.2" fill="{{DOT}}"/>
+<circle cx="296.0" cy="916.0" r="16.8" fill="{{DOT}}"/>
+<circle cx="352.0" cy="916.0" r="16.8" fill="{{DOT}}"/>
+<circle cx="408.0" cy="916.0" r="15.3" fill="{{DOT}}"/>
+<circle cx="464.0" cy="916.0" r="12.9" fill="{{DOT}}"/>
+<circle cx="520.0" cy="916.0" r="10.4" fill="{{DOT}}"/>
+<circle cx="576.0" cy="916.0" r="8.8" fill="{{DOT}}"/>
+<circle cx="632.0" cy="916.0" r="8.6" fill="{{DOT}}"/>
+<circle cx="688.0" cy="916.0" r="10.1" fill="{{DOT}}"/>
+<circle cx="744.0" cy="916.0" r="12.5" fill="{{DOT}}"/>
+<circle cx="800.0" cy="916.0" r="15.0" fill="{{DOT}}"/>
+<circle cx="856.0" cy="916.0" r="16.7" fill="{{DOT}}"/>
+<circle cx="912.0" cy="916.0" r="16.9" fill="{{DOT}}"/>
+<circle cx="968.0" cy="916.0" r="15.5" fill="{{DOT}}"/>
+<circle cx="1024.0" cy="916.0" r="13.2" fill="{{DOT}}"/>
+<circle cx="1080.0" cy="916.0" r="10.6" fill="{{DOT}}"/>
+<circle cx="-26.0" cy="960.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="2.0" cy="960.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="30.0" cy="960.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="58.0" cy="960.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="86.0" cy="960.0" r="3.9" fill="{{DOT}}"/>
+<circle cx="114.0" cy="960.0" r="4.4" fill="{{DOT}}"/>
+<circle cx="142.0" cy="960.0" r="4.8" fill="{{DOT}}"/>
+<circle cx="170.0" cy="960.0" r="5.3" fill="{{DOT}}"/>
+<circle cx="198.0" cy="960.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="226.0" cy="960.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="254.0" cy="960.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="282.0" cy="960.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="310.0" cy="960.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="338.0" cy="960.0" r="5.5" fill="{{DOT}}"/>
+<circle cx="366.0" cy="960.0" r="5.1" fill="{{DOT}}"/>
+<circle cx="394.0" cy="960.0" r="4.7" fill="{{DOT}}"/>
+<circle cx="422.0" cy="960.0" r="4.2" fill="{{DOT}}"/>
+<circle cx="450.0" cy="960.0" r="3.8" fill="{{DOT}}"/>
+<circle cx="478.0" cy="960.0" r="3.4" fill="{{DOT}}"/>
+<circle cx="506.0" cy="960.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="534.0" cy="960.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="562.0" cy="960.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="590.0" cy="960.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="618.0" cy="960.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="646.0" cy="960.0" r="3.8" fill="{{DOT}}"/>
+<circle cx="674.0" cy="960.0" r="4.3" fill="{{DOT}}"/>
+<circle cx="702.0" cy="960.0" r="4.7" fill="{{DOT}}"/>
+<circle cx="730.0" cy="960.0" r="5.2" fill="{{DOT}}"/>
+<circle cx="758.0" cy="960.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="786.0" cy="960.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="814.0" cy="960.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="842.0" cy="960.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="870.0" cy="960.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="898.0" cy="960.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="926.0" cy="960.0" r="5.2" fill="{{DOT}}"/>
+<circle cx="954.0" cy="960.0" r="4.8" fill="{{DOT}}"/>
+<circle cx="982.0" cy="960.0" r="4.3" fill="{{DOT}}"/>
+<circle cx="1010.0" cy="960.0" r="3.9" fill="{{DOT}}"/>
+<circle cx="1038.0" cy="960.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="1066.0" cy="960.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="1094.0" cy="960.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="-12.0" cy="994.0" r="9.8" fill="{{DOT}}"/>
+<circle cx="44.0" cy="994.0" r="12.1" fill="{{DOT}}"/>
+<circle cx="100.0" cy="994.0" r="14.6" fill="{{DOT}}"/>
+<circle cx="156.0" cy="994.0" r="16.5" fill="{{DOT}}"/>
+<circle cx="212.0" cy="994.0" r="17.0" fill="{{DOT}}"/>
+<circle cx="268.0" cy="994.0" r="15.8" fill="{{DOT}}"/>
+<circle cx="324.0" cy="994.0" r="13.6" fill="{{DOT}}"/>
+<circle cx="380.0" cy="994.0" r="11.0" fill="{{DOT}}"/>
+<circle cx="436.0" cy="994.0" r="9.1" fill="{{DOT}}"/>
+<circle cx="492.0" cy="994.0" r="8.5" fill="{{DOT}}"/>
+<circle cx="548.0" cy="994.0" r="9.6" fill="{{DOT}}"/>
+<circle cx="604.0" cy="994.0" r="11.8" fill="{{DOT}}"/>
+<circle cx="660.0" cy="994.0" r="14.4" fill="{{DOT}}"/>
+<circle cx="716.0" cy="994.0" r="16.4" fill="{{DOT}}"/>
+<circle cx="772.0" cy="994.0" r="17.0" fill="{{DOT}}"/>
+<circle cx="828.0" cy="994.0" r="16.0" fill="{{DOT}}"/>
+<circle cx="884.0" cy="994.0" r="13.8" fill="{{DOT}}"/>
+<circle cx="940.0" cy="994.0" r="11.2" fill="{{DOT}}"/>
+<circle cx="996.0" cy="994.0" r="9.2" fill="{{DOT}}"/>
+<circle cx="1052.0" cy="994.0" r="8.5" fill="{{DOT}}"/>
+<circle cx="1108.0" cy="994.0" r="9.4" fill="{{DOT}}"/>
+<circle cx="-40.0" cy="1038.0" r="3.9" fill="{{DOT}}"/>
+<circle cx="-12.0" cy="1038.0" r="4.4" fill="{{DOT}}"/>
+<circle cx="16.0" cy="1038.0" r="4.8" fill="{{DOT}}"/>
+<circle cx="44.0" cy="1038.0" r="5.3" fill="{{DOT}}"/>
+<circle cx="72.0" cy="1038.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="100.0" cy="1038.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="128.0" cy="1038.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="156.0" cy="1038.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="184.0" cy="1038.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="212.0" cy="1038.0" r="5.5" fill="{{DOT}}"/>
+<circle cx="240.0" cy="1038.0" r="5.1" fill="{{DOT}}"/>
+<circle cx="268.0" cy="1038.0" r="4.7" fill="{{DOT}}"/>
+<circle cx="296.0" cy="1038.0" r="4.2" fill="{{DOT}}"/>
+<circle cx="324.0" cy="1038.0" r="3.8" fill="{{DOT}}"/>
+<circle cx="352.0" cy="1038.0" r="3.4" fill="{{DOT}}"/>
+<circle cx="380.0" cy="1038.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="408.0" cy="1038.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="436.0" cy="1038.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="464.0" cy="1038.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="492.0" cy="1038.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="520.0" cy="1038.0" r="3.8" fill="{{DOT}}"/>
+<circle cx="548.0" cy="1038.0" r="4.3" fill="{{DOT}}"/>
+<circle cx="576.0" cy="1038.0" r="4.7" fill="{{DOT}}"/>
+<circle cx="604.0" cy="1038.0" r="5.2" fill="{{DOT}}"/>
+<circle cx="632.0" cy="1038.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="660.0" cy="1038.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="688.0" cy="1038.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="716.0" cy="1038.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="744.0" cy="1038.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="772.0" cy="1038.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="800.0" cy="1038.0" r="5.2" fill="{{DOT}}"/>
+<circle cx="828.0" cy="1038.0" r="4.8" fill="{{DOT}}"/>
+<circle cx="856.0" cy="1038.0" r="4.3" fill="{{DOT}}"/>
+<circle cx="884.0" cy="1038.0" r="3.9" fill="{{DOT}}"/>
+<circle cx="912.0" cy="1038.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="940.0" cy="1038.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="968.0" cy="1038.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="996.0" cy="1038.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="1024.0" cy="1038.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="1052.0" cy="1038.0" r="3.4" fill="{{DOT}}"/>
+<circle cx="1080.0" cy="1038.0" r="3.8" fill="{{DOT}}"/>
+<circle cx="1108.0" cy="1038.0" r="4.2" fill="{{DOT}}"/>
+<circle cx="-40.0" cy="1072.0" r="14.0" fill="{{DOT}}"/>
+<circle cx="16.0" cy="1072.0" r="16.2" fill="{{DOT}}"/>
+<circle cx="72.0" cy="1072.0" r="17.0" fill="{{DOT}}"/>
+<circle cx="128.0" cy="1072.0" r="16.3" fill="{{DOT}}"/>
+<circle cx="184.0" cy="1072.0" r="14.2" fill="{{DOT}}"/>
+<circle cx="240.0" cy="1072.0" r="11.6" fill="{{DOT}}"/>
+<circle cx="296.0" cy="1072.0" r="9.4" fill="{{DOT}}"/>
+<circle cx="352.0" cy="1072.0" r="8.5" fill="{{DOT}}"/>
+<circle cx="408.0" cy="1072.0" r="9.2" fill="{{DOT}}"/>
+<circle cx="464.0" cy="1072.0" r="11.2" fill="{{DOT}}"/>
+<circle cx="520.0" cy="1072.0" r="13.8" fill="{{DOT}}"/>
+<circle cx="576.0" cy="1072.0" r="16.0" fill="{{DOT}}"/>
+<circle cx="632.0" cy="1072.0" r="17.0" fill="{{DOT}}"/>
+<circle cx="688.0" cy="1072.0" r="16.4" fill="{{DOT}}"/>
+<circle cx="744.0" cy="1072.0" r="14.4" fill="{{DOT}}"/>
+<circle cx="800.0" cy="1072.0" r="11.8" fill="{{DOT}}"/>
+<circle cx="856.0" cy="1072.0" r="9.6" fill="{{DOT}}"/>
+<circle cx="912.0" cy="1072.0" r="8.5" fill="{{DOT}}"/>
+<circle cx="968.0" cy="1072.0" r="9.0" fill="{{DOT}}"/>
+<circle cx="1024.0" cy="1072.0" r="10.9" fill="{{DOT}}"/>
+<circle cx="1080.0" cy="1072.0" r="13.5" fill="{{DOT}}"/>
+<circle cx="-26.0" cy="1116.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="2.0" cy="1116.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="30.0" cy="1116.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="58.0" cy="1116.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="86.0" cy="1116.0" r="5.5" fill="{{DOT}}"/>
+<circle cx="114.0" cy="1116.0" r="5.1" fill="{{DOT}}"/>
+<circle cx="142.0" cy="1116.0" r="4.7" fill="{{DOT}}"/>
+<circle cx="170.0" cy="1116.0" r="4.2" fill="{{DOT}}"/>
+<circle cx="198.0" cy="1116.0" r="3.8" fill="{{DOT}}"/>
+<circle cx="226.0" cy="1116.0" r="3.4" fill="{{DOT}}"/>
+<circle cx="254.0" cy="1116.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="282.0" cy="1116.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="310.0" cy="1116.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="338.0" cy="1116.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="366.0" cy="1116.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="394.0" cy="1116.0" r="3.8" fill="{{DOT}}"/>
+<circle cx="422.0" cy="1116.0" r="4.3" fill="{{DOT}}"/>
+<circle cx="450.0" cy="1116.0" r="4.7" fill="{{DOT}}"/>
+<circle cx="478.0" cy="1116.0" r="5.2" fill="{{DOT}}"/>
+<circle cx="506.0" cy="1116.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="534.0" cy="1116.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="562.0" cy="1116.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="590.0" cy="1116.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="618.0" cy="1116.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="646.0" cy="1116.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="674.0" cy="1116.0" r="5.2" fill="{{DOT}}"/>
+<circle cx="702.0" cy="1116.0" r="4.8" fill="{{DOT}}"/>
+<circle cx="730.0" cy="1116.0" r="4.3" fill="{{DOT}}"/>
+<circle cx="758.0" cy="1116.0" r="3.9" fill="{{DOT}}"/>
+<circle cx="786.0" cy="1116.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="814.0" cy="1116.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="842.0" cy="1116.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="870.0" cy="1116.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="898.0" cy="1116.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="926.0" cy="1116.0" r="3.4" fill="{{DOT}}"/>
+<circle cx="954.0" cy="1116.0" r="3.8" fill="{{DOT}}"/>
+<circle cx="982.0" cy="1116.0" r="4.2" fill="{{DOT}}"/>
+<circle cx="1010.0" cy="1116.0" r="4.7" fill="{{DOT}}"/>
+<circle cx="1038.0" cy="1116.0" r="5.1" fill="{{DOT}}"/>
+<circle cx="1066.0" cy="1116.0" r="5.5" fill="{{DOT}}"/>
+<circle cx="1094.0" cy="1116.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="-12.0" cy="1150.0" r="16.6" fill="{{DOT}}"/>
+<circle cx="44.0" cy="1150.0" r="14.8" fill="{{DOT}}"/>
+<circle cx="100.0" cy="1150.0" r="12.2" fill="{{DOT}}"/>
+<circle cx="156.0" cy="1150.0" r="9.9" fill="{{DOT}}"/>
+<circle cx="212.0" cy="1150.0" r="8.6" fill="{{DOT}}"/>
+<circle cx="268.0" cy="1150.0" r="8.9" fill="{{DOT}}"/>
+<circle cx="324.0" cy="1150.0" r="10.6" fill="{{DOT}}"/>
+<circle cx="380.0" cy="1150.0" r="13.1" fill="{{DOT}}"/>
+<circle cx="436.0" cy="1150.0" r="15.5" fill="{{DOT}}"/>
+<circle cx="492.0" cy="1150.0" r="16.9" fill="{{DOT}}"/>
+<circle cx="548.0" cy="1150.0" r="16.7" fill="{{DOT}}"/>
+<circle cx="604.0" cy="1150.0" r="15.0" fill="{{DOT}}"/>
+<circle cx="660.0" cy="1150.0" r="12.5" fill="{{DOT}}"/>
+<circle cx="716.0" cy="1150.0" r="10.1" fill="{{DOT}}"/>
+<circle cx="772.0" cy="1150.0" r="8.7" fill="{{DOT}}"/>
+<circle cx="828.0" cy="1150.0" r="8.8" fill="{{DOT}}"/>
+<circle cx="884.0" cy="1150.0" r="10.4" fill="{{DOT}}"/>
+<circle cx="940.0" cy="1150.0" r="12.9" fill="{{DOT}}"/>
+<circle cx="996.0" cy="1150.0" r="15.3" fill="{{DOT}}"/>
+<circle cx="1052.0" cy="1150.0" r="16.8" fill="{{DOT}}"/>
+<circle cx="1108.0" cy="1150.0" r="16.8" fill="{{DOT}}"/>
+<circle cx="-40.0" cy="1194.0" r="5.5" fill="{{DOT}}"/>
+<circle cx="-12.0" cy="1194.0" r="5.1" fill="{{DOT}}"/>
+<circle cx="16.0" cy="1194.0" r="4.7" fill="{{DOT}}"/>
+<circle cx="44.0" cy="1194.0" r="4.2" fill="{{DOT}}"/>
+<circle cx="72.0" cy="1194.0" r="3.8" fill="{{DOT}}"/>
+<circle cx="100.0" cy="1194.0" r="3.4" fill="{{DOT}}"/>
+<circle cx="128.0" cy="1194.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="156.0" cy="1194.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="184.0" cy="1194.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="212.0" cy="1194.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="240.0" cy="1194.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="268.0" cy="1194.0" r="3.8" fill="{{DOT}}"/>
+<circle cx="296.0" cy="1194.0" r="4.3" fill="{{DOT}}"/>
+<circle cx="324.0" cy="1194.0" r="4.7" fill="{{DOT}}"/>
+<circle cx="352.0" cy="1194.0" r="5.2" fill="{{DOT}}"/>
+<circle cx="380.0" cy="1194.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="408.0" cy="1194.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="436.0" cy="1194.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="464.0" cy="1194.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="492.0" cy="1194.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="520.0" cy="1194.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="548.0" cy="1194.0" r="5.2" fill="{{DOT}}"/>
+<circle cx="576.0" cy="1194.0" r="4.8" fill="{{DOT}}"/>
+<circle cx="604.0" cy="1194.0" r="4.3" fill="{{DOT}}"/>
+<circle cx="632.0" cy="1194.0" r="3.9" fill="{{DOT}}"/>
+<circle cx="660.0" cy="1194.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="688.0" cy="1194.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="716.0" cy="1194.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="744.0" cy="1194.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="772.0" cy="1194.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="800.0" cy="1194.0" r="3.4" fill="{{DOT}}"/>
+<circle cx="828.0" cy="1194.0" r="3.8" fill="{{DOT}}"/>
+<circle cx="856.0" cy="1194.0" r="4.2" fill="{{DOT}}"/>
+<circle cx="884.0" cy="1194.0" r="4.7" fill="{{DOT}}"/>
+<circle cx="912.0" cy="1194.0" r="5.1" fill="{{DOT}}"/>
+<circle cx="940.0" cy="1194.0" r="5.5" fill="{{DOT}}"/>
+<circle cx="968.0" cy="1194.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="996.0" cy="1194.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="1024.0" cy="1194.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="1052.0" cy="1194.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="1080.0" cy="1194.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="1108.0" cy="1194.0" r="5.3" fill="{{DOT}}"/>
+<circle cx="-40.0" cy="1228.0" r="12.9" fill="{{DOT}}"/>
+<circle cx="16.0" cy="1228.0" r="10.4" fill="{{DOT}}"/>
+<circle cx="72.0" cy="1228.0" r="8.8" fill="{{DOT}}"/>
+<circle cx="128.0" cy="1228.0" r="8.6" fill="{{DOT}}"/>
+<circle cx="184.0" cy="1228.0" r="10.1" fill="{{DOT}}"/>
+<circle cx="240.0" cy="1228.0" r="12.5" fill="{{DOT}}"/>
+<circle cx="296.0" cy="1228.0" r="15.0" fill="{{DOT}}"/>
+<circle cx="352.0" cy="1228.0" r="16.7" fill="{{DOT}}"/>
+<circle cx="408.0" cy="1228.0" r="16.9" fill="{{DOT}}"/>
+<circle cx="464.0" cy="1228.0" r="15.5" fill="{{DOT}}"/>
+<circle cx="520.0" cy="1228.0" r="13.2" fill="{{DOT}}"/>
+<circle cx="576.0" cy="1228.0" r="10.6" fill="{{DOT}}"/>
+<circle cx="632.0" cy="1228.0" r="8.9" fill="{{DOT}}"/>
+<circle cx="688.0" cy="1228.0" r="8.6" fill="{{DOT}}"/>
+<circle cx="744.0" cy="1228.0" r="9.9" fill="{{DOT}}"/>
+<circle cx="800.0" cy="1228.0" r="12.2" fill="{{DOT}}"/>
+<circle cx="856.0" cy="1228.0" r="14.8" fill="{{DOT}}"/>
+<circle cx="912.0" cy="1228.0" r="16.6" fill="{{DOT}}"/>
+<circle cx="968.0" cy="1228.0" r="16.9" fill="{{DOT}}"/>
+<circle cx="1024.0" cy="1228.0" r="15.7" fill="{{DOT}}"/>
+<circle cx="1080.0" cy="1228.0" r="13.4" fill="{{DOT}}"/>
+<circle cx="-26.0" cy="1272.0" r="3.4" fill="{{DOT}}"/>
+<circle cx="2.0" cy="1272.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="30.0" cy="1272.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="58.0" cy="1272.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="86.0" cy="1272.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="114.0" cy="1272.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="142.0" cy="1272.0" r="3.8" fill="{{DOT}}"/>
+<circle cx="170.0" cy="1272.0" r="4.3" fill="{{DOT}}"/>
+<circle cx="198.0" cy="1272.0" r="4.7" fill="{{DOT}}"/>
+<circle cx="226.0" cy="1272.0" r="5.2" fill="{{DOT}}"/>
+<circle cx="254.0" cy="1272.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="282.0" cy="1272.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="310.0" cy="1272.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="338.0" cy="1272.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="366.0" cy="1272.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="394.0" cy="1272.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="422.0" cy="1272.0" r="5.2" fill="{{DOT}}"/>
+<circle cx="450.0" cy="1272.0" r="4.8" fill="{{DOT}}"/>
+<circle cx="478.0" cy="1272.0" r="4.3" fill="{{DOT}}"/>
+<circle cx="506.0" cy="1272.0" r="3.9" fill="{{DOT}}"/>
+<circle cx="534.0" cy="1272.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="562.0" cy="1272.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="590.0" cy="1272.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="618.0" cy="1272.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="646.0" cy="1272.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="674.0" cy="1272.0" r="3.4" fill="{{DOT}}"/>
+<circle cx="702.0" cy="1272.0" r="3.8" fill="{{DOT}}"/>
+<circle cx="730.0" cy="1272.0" r="4.2" fill="{{DOT}}"/>
+<circle cx="758.0" cy="1272.0" r="4.7" fill="{{DOT}}"/>
+<circle cx="786.0" cy="1272.0" r="5.1" fill="{{DOT}}"/>
+<circle cx="814.0" cy="1272.0" r="5.5" fill="{{DOT}}"/>
+<circle cx="842.0" cy="1272.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="870.0" cy="1272.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="898.0" cy="1272.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="926.0" cy="1272.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="954.0" cy="1272.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="982.0" cy="1272.0" r="5.3" fill="{{DOT}}"/>
+<circle cx="1010.0" cy="1272.0" r="4.8" fill="{{DOT}}"/>
+<circle cx="1038.0" cy="1272.0" r="4.4" fill="{{DOT}}"/>
+<circle cx="1066.0" cy="1272.0" r="3.9" fill="{{DOT}}"/>
+<circle cx="1094.0" cy="1272.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="-12.0" cy="1306.0" r="8.5" fill="{{DOT}}"/>
+<circle cx="44.0" cy="1306.0" r="9.6" fill="{{DOT}}"/>
+<circle cx="100.0" cy="1306.0" r="11.8" fill="{{DOT}}"/>
+<circle cx="156.0" cy="1306.0" r="14.4" fill="{{DOT}}"/>
+<circle cx="212.0" cy="1306.0" r="16.4" fill="{{DOT}}"/>
+<circle cx="268.0" cy="1306.0" r="17.0" fill="{{DOT}}"/>
+<circle cx="324.0" cy="1306.0" r="16.0" fill="{{DOT}}"/>
+<circle cx="380.0" cy="1306.0" r="13.8" fill="{{DOT}}"/>
+<circle cx="436.0" cy="1306.0" r="11.2" fill="{{DOT}}"/>
+<circle cx="492.0" cy="1306.0" r="9.2" fill="{{DOT}}"/>
+<circle cx="548.0" cy="1306.0" r="8.5" fill="{{DOT}}"/>
+<circle cx="604.0" cy="1306.0" r="9.4" fill="{{DOT}}"/>
+<circle cx="660.0" cy="1306.0" r="11.6" fill="{{DOT}}"/>
+<circle cx="716.0" cy="1306.0" r="14.2" fill="{{DOT}}"/>
+<circle cx="772.0" cy="1306.0" r="16.2" fill="{{DOT}}"/>
+<circle cx="828.0" cy="1306.0" r="17.0" fill="{{DOT}}"/>
+<circle cx="884.0" cy="1306.0" r="16.2" fill="{{DOT}}"/>
+<circle cx="940.0" cy="1306.0" r="14.1" fill="{{DOT}}"/>
+<circle cx="996.0" cy="1306.0" r="11.5" fill="{{DOT}}"/>
+<circle cx="1052.0" cy="1306.0" r="9.3" fill="{{DOT}}"/>
+<circle cx="1108.0" cy="1306.0" r="8.5" fill="{{DOT}}"/>
+<circle cx="-40.0" cy="1350.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="-12.0" cy="1350.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="16.0" cy="1350.0" r="3.8" fill="{{DOT}}"/>
+<circle cx="44.0" cy="1350.0" r="4.3" fill="{{DOT}}"/>
+<circle cx="72.0" cy="1350.0" r="4.7" fill="{{DOT}}"/>
+<circle cx="100.0" cy="1350.0" r="5.2" fill="{{DOT}}"/>
+<circle cx="128.0" cy="1350.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="156.0" cy="1350.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="184.0" cy="1350.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="212.0" cy="1350.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="240.0" cy="1350.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="268.0" cy="1350.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="296.0" cy="1350.0" r="5.2" fill="{{DOT}}"/>
+<circle cx="324.0" cy="1350.0" r="4.8" fill="{{DOT}}"/>
+<circle cx="352.0" cy="1350.0" r="4.3" fill="{{DOT}}"/>
+<circle cx="380.0" cy="1350.0" r="3.9" fill="{{DOT}}"/>
+<circle cx="408.0" cy="1350.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="436.0" cy="1350.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="464.0" cy="1350.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="492.0" cy="1350.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="520.0" cy="1350.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="548.0" cy="1350.0" r="3.4" fill="{{DOT}}"/>
+<circle cx="576.0" cy="1350.0" r="3.8" fill="{{DOT}}"/>
+<circle cx="604.0" cy="1350.0" r="4.2" fill="{{DOT}}"/>
+<circle cx="632.0" cy="1350.0" r="4.7" fill="{{DOT}}"/>
+<circle cx="660.0" cy="1350.0" r="5.1" fill="{{DOT}}"/>
+<circle cx="688.0" cy="1350.0" r="5.5" fill="{{DOT}}"/>
+<circle cx="716.0" cy="1350.0" r="5.8" fill="{{DOT}}"/>
+<circle cx="744.0" cy="1350.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="772.0" cy="1350.0" r="6.0" fill="{{DOT}}"/>
+<circle cx="800.0" cy="1350.0" r="5.9" fill="{{DOT}}"/>
+<circle cx="828.0" cy="1350.0" r="5.6" fill="{{DOT}}"/>
+<circle cx="856.0" cy="1350.0" r="5.3" fill="{{DOT}}"/>
+<circle cx="884.0" cy="1350.0" r="4.8" fill="{{DOT}}"/>
+<circle cx="912.0" cy="1350.0" r="4.4" fill="{{DOT}}"/>
+<circle cx="940.0" cy="1350.0" r="3.9" fill="{{DOT}}"/>
+<circle cx="968.0" cy="1350.0" r="3.5" fill="{{DOT}}"/>
+<circle cx="996.0" cy="1350.0" r="3.2" fill="{{DOT}}"/>
+<circle cx="1024.0" cy="1350.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="1052.0" cy="1350.0" r="3.0" fill="{{DOT}}"/>
+<circle cx="1080.0" cy="1350.0" r="3.1" fill="{{DOT}}"/>
+<circle cx="1108.0" cy="1350.0" r="3.3" fill="{{DOT}}"/>
+<circle cx="-40.0" cy="1384.0" r="11.2" fill="{{DOT}}"/>
+<circle cx="16.0" cy="1384.0" r="13.8" fill="{{DOT}}"/>
+<circle cx="72.0" cy="1384.0" r="16.0" fill="{{DOT}}"/>
+<circle cx="128.0" cy="1384.0" r="17.0" fill="{{DOT}}"/>
+<circle cx="184.0" cy="1384.0" r="16.4" fill="{{DOT}}"/>
+<circle cx="240.0" cy="1384.0" r="14.4" fill="{{DOT}}"/>
+<circle cx="296.0" cy="1384.0" r="11.8" fill="{{DOT}}"/>
+<circle cx="352.0" cy="1384.0" r="9.6" fill="{{DOT}}"/>
+<circle cx="408.0" cy="1384.0" r="8.5" fill="{{DOT}}"/>
+<circle cx="464.0" cy="1384.0" r="9.0" fill="{{DOT}}"/>
+<circle cx="520.0" cy="1384.0" r="10.9" fill="{{DOT}}"/>
+<circle cx="576.0" cy="1384.0" r="13.5" fill="{{DOT}}"/>
+<circle cx="632.0" cy="1384.0" r="15.8" fill="{{DOT}}"/>
+<circle cx="688.0" cy="1384.0" r="17.0" fill="{{DOT}}"/>
+<circle cx="744.0" cy="1384.0" r="16.5" fill="{{DOT}}"/>
+<circle cx="800.0" cy="1384.0" r="14.7" fill="{{DOT}}"/>
+<circle cx="856.0" cy="1384.0" r="12.1" fill="{{DOT}}"/>
+<circle cx="912.0" cy="1384.0" r="9.8" fill="{{DOT}}"/>
+<circle cx="968.0" cy="1384.0" r="8.6" fill="{{DOT}}"/>
+<circle cx="1024.0" cy="1384.0" r="8.9" fill="{{DOT}}"/>
+<circle cx="1080.0" cy="1384.0" r="10.7" fill="{{DOT}}"/>
+<circle cx="562" cy="722" r="390" fill="{{INK}}"/>
+<circle cx="540" cy="700" r="390" fill="{{DOT}}" stroke="{{INK}}" stroke-width="12"/>
+<circle cx="568.7" cy="708.9" r="4.2" fill="{{BG}}"/>
+<circle cx="546.7" cy="729.3" r="4.2" fill="{{BG}}"/>
+<circle cx="518.0" cy="720.4" r="4.2" fill="{{BG}}"/>
+<circle cx="511.3" cy="691.1" r="4.2" fill="{{BG}}"/>
+<circle cx="533.3" cy="670.7" r="4.2" fill="{{BG}}"/>
+<circle cx="562.0" cy="679.6" r="4.2" fill="{{BG}}"/>
+<circle cx="589.5" cy="733.9" r="5.3" fill="{{BG}}"/>
+<circle cx="563.3" cy="755.3" r="5.3" fill="{{BG}}"/>
+<circle cx="529.8" cy="759.1" r="5.3" fill="{{BG}}"/>
+<circle cx="499.4" cy="744.2" r="5.3" fill="{{BG}}"/>
+<circle cx="482.0" cy="715.2" r="5.3" fill="{{BG}}"/>
+<circle cx="482.9" cy="681.4" r="5.3" fill="{{BG}}"/>
+<circle cx="502.0" cy="653.5" r="5.3" fill="{{BG}}"/>
+<circle cx="533.2" cy="640.4" r="5.3" fill="{{BG}}"/>
+<circle cx="566.5" cy="646.2" r="5.3" fill="{{BG}}"/>
+<circle cx="591.4" cy="669.0" r="5.3" fill="{{BG}}"/>
+<circle cx="600.0" cy="701.7" r="5.3" fill="{{BG}}"/>
+<circle cx="595.9" cy="770.5" r="6.4" fill="{{BG}}"/>
+<circle cx="564.7" cy="786.5" r="6.4" fill="{{BG}}"/>
+<circle cx="529.7" cy="789.4" r="6.4" fill="{{BG}}"/>
+<circle cx="496.3" cy="778.7" r="6.4" fill="{{BG}}"/>
+<circle cx="469.5" cy="755.9" r="6.4" fill="{{BG}}"/>
+<circle cx="453.5" cy="724.7" r="6.4" fill="{{BG}}"/>
+<circle cx="450.6" cy="689.7" r="6.4" fill="{{BG}}"/>
+<circle cx="461.3" cy="656.3" r="6.4" fill="{{BG}}"/>
+<circle cx="484.1" cy="629.5" r="6.4" fill="{{BG}}"/>
+<circle cx="515.3" cy="613.5" r="6.4" fill="{{BG}}"/>
+<circle cx="550.3" cy="610.6" r="6.4" fill="{{BG}}"/>
+<circle cx="583.7" cy="621.3" r="6.4" fill="{{BG}}"/>
+<circle cx="610.5" cy="644.1" r="6.4" fill="{{BG}}"/>
+<circle cx="626.5" cy="675.3" r="6.4" fill="{{BG}}"/>
+<circle cx="629.4" cy="710.3" r="6.4" fill="{{BG}}"/>
+<circle cx="618.7" cy="743.7" r="6.4" fill="{{BG}}"/>
+<circle cx="583.5" cy="811.8" r="7.6" fill="{{BG}}"/>
+<circle cx="550.2" cy="819.6" r="7.6" fill="{{BG}}"/>
+<circle cx="516.1" cy="817.6" r="7.6" fill="{{BG}}"/>
+<circle cx="483.9" cy="806.1" r="7.6" fill="{{BG}}"/>
+<circle cx="456.3" cy="786.0" r="7.6" fill="{{BG}}"/>
+<circle cx="435.5" cy="759.0" r="7.6" fill="{{BG}}"/>
+<circle cx="423.1" cy="727.1" r="7.6" fill="{{BG}}"/>
+<circle cx="420.2" cy="693.1" r="7.6" fill="{{BG}}"/>
+<circle cx="427.0" cy="659.6" r="7.6" fill="{{BG}}"/>
+<circle cx="443.0" cy="629.4" r="7.6" fill="{{BG}}"/>
+<circle cx="466.8" cy="604.9" r="7.6" fill="{{BG}}"/>
+<circle cx="496.5" cy="588.2" r="7.6" fill="{{BG}}"/>
+<circle cx="529.8" cy="580.4" r="7.6" fill="{{BG}}"/>
+<circle cx="563.9" cy="582.4" r="7.6" fill="{{BG}}"/>
+<circle cx="596.1" cy="593.9" r="7.6" fill="{{BG}}"/>
+<circle cx="623.7" cy="614.0" r="7.6" fill="{{BG}}"/>
+<circle cx="644.5" cy="641.0" r="7.6" fill="{{BG}}"/>
+<circle cx="656.9" cy="672.9" r="7.6" fill="{{BG}}"/>
+<circle cx="659.8" cy="706.9" r="7.6" fill="{{BG}}"/>
+<circle cx="653.0" cy="740.4" r="7.6" fill="{{BG}}"/>
+<circle cx="637.0" cy="770.6" r="7.6" fill="{{BG}}"/>
+<circle cx="613.2" cy="795.1" r="7.6" fill="{{BG}}"/>
+<circle cx="550.6" cy="849.6" r="8.8" fill="{{BG}}"/>
+<circle cx="515.8" cy="848.0" r="8.8" fill="{{BG}}"/>
+<circle cx="482.3" cy="838.5" r="8.8" fill="{{BG}}"/>
+<circle cx="452.0" cy="821.4" r="8.8" fill="{{BG}}"/>
+<circle cx="426.3" cy="797.9" r="8.8" fill="{{BG}}"/>
+<circle cx="406.8" cy="769.0" r="8.8" fill="{{BG}}"/>
+<circle cx="394.5" cy="736.4" r="8.8" fill="{{BG}}"/>
+<circle cx="390.0" cy="701.9" r="8.8" fill="{{BG}}"/>
+<circle cx="393.6" cy="667.3" r="8.8" fill="{{BG}}"/>
+<circle cx="405.1" cy="634.4" r="8.8" fill="{{BG}}"/>
+<circle cx="423.9" cy="605.0" r="8.8" fill="{{BG}}"/>
+<circle cx="448.9" cy="580.8" r="8.8" fill="{{BG}}"/>
+<circle cx="478.9" cy="563.0" r="8.8" fill="{{BG}}"/>
+<circle cx="512.1" cy="552.6" r="8.8" fill="{{BG}}"/>
+<circle cx="546.8" cy="550.2" r="8.8" fill="{{BG}}"/>
+<circle cx="581.2" cy="555.8" r="8.8" fill="{{BG}}"/>
+<circle cx="613.4" cy="569.2" r="8.8" fill="{{BG}}"/>
+<circle cx="641.6" cy="589.6" r="8.8" fill="{{BG}}"/>
+<circle cx="664.3" cy="616.0" r="8.8" fill="{{BG}}"/>
+<circle cx="680.3" cy="646.9" r="8.8" fill="{{BG}}"/>
+<circle cx="688.8" cy="680.7" r="8.8" fill="{{BG}}"/>
+<circle cx="689.2" cy="715.5" r="8.8" fill="{{BG}}"/>
+<circle cx="681.6" cy="749.5" r="8.8" fill="{{BG}}"/>
+<circle cx="666.4" cy="780.8" r="8.8" fill="{{BG}}"/>
+<circle cx="644.3" cy="807.8" r="8.8" fill="{{BG}}"/>
+<circle cx="616.6" cy="828.9" r="8.8" fill="{{BG}}"/>
+<circle cx="584.8" cy="843.1" r="8.8" fill="{{BG}}"/>
+<circle cx="499.1" cy="875.3" r="9.9" fill="{{BG}}"/>
+<circle cx="466.7" cy="864.4" r="9.9" fill="{{BG}}"/>
+<circle cx="436.9" cy="847.5" r="9.9" fill="{{BG}}"/>
+<circle cx="410.8" cy="825.4" r="9.9" fill="{{BG}}"/>
+<circle cx="389.4" cy="798.6" r="9.9" fill="{{BG}}"/>
+<circle cx="373.5" cy="768.4" r="9.9" fill="{{BG}}"/>
+<circle cx="363.6" cy="735.6" r="9.9" fill="{{BG}}"/>
+<circle cx="360.0" cy="701.6" r="9.9" fill="{{BG}}"/>
+<circle cx="363.0" cy="667.5" r="9.9" fill="{{BG}}"/>
+<circle cx="372.3" cy="634.6" r="9.9" fill="{{BG}}"/>
+<circle cx="387.7" cy="604.0" r="9.9" fill="{{BG}}"/>
+<circle cx="408.6" cy="576.9" r="9.9" fill="{{BG}}"/>
+<circle cx="434.3" cy="554.3" r="9.9" fill="{{BG}}"/>
+<circle cx="463.8" cy="536.9" r="9.9" fill="{{BG}}"/>
+<circle cx="496.0" cy="525.5" r="9.9" fill="{{BG}}"/>
+<circle cx="529.9" cy="520.3" r="9.9" fill="{{BG}}"/>
+<circle cx="564.0" cy="521.6" r="9.9" fill="{{BG}}"/>
+<circle cx="597.4" cy="529.4" r="9.9" fill="{{BG}}"/>
+<circle cx="628.6" cy="543.3" r="9.9" fill="{{BG}}"/>
+<circle cx="656.7" cy="562.9" r="9.9" fill="{{BG}}"/>
+<circle cx="680.5" cy="587.5" r="9.9" fill="{{BG}}"/>
+<circle cx="699.3" cy="616.1" r="9.9" fill="{{BG}}"/>
+<circle cx="712.3" cy="647.8" r="9.9" fill="{{BG}}"/>
+<circle cx="719.0" cy="681.3" r="9.9" fill="{{BG}}"/>
+<circle cx="719.3" cy="715.5" r="9.9" fill="{{BG}}"/>
+<circle cx="713.1" cy="749.2" r="9.9" fill="{{BG}}"/>
+<circle cx="700.7" cy="781.1" r="9.9" fill="{{BG}}"/>
+<circle cx="682.5" cy="810.0" r="9.9" fill="{{BG}}"/>
+<circle cx="659.1" cy="835.0" r="9.9" fill="{{BG}}"/>
+<circle cx="631.4" cy="855.1" r="9.9" fill="{{BG}}"/>
+<circle cx="600.4" cy="869.6" r="9.9" fill="{{BG}}"/>
+<circle cx="567.2" cy="877.9" r="9.9" fill="{{BG}}"/>
+<circle cx="533.0" cy="879.9" r="9.9" fill="{{BG}}"/>
+<circle cx="434.0" cy="881.3" r="11.0" fill="{{BG}}"/>
+<circle cx="405.6" cy="861.4" r="11.0" fill="{{BG}}"/>
+<circle cx="380.9" cy="837.0" r="11.0" fill="{{BG}}"/>
+<circle cx="360.5" cy="809.0" r="11.0" fill="{{BG}}"/>
+<circle cx="345.0" cy="777.9" r="11.0" fill="{{BG}}"/>
+<circle cx="334.8" cy="744.8" r="11.0" fill="{{BG}}"/>
+<circle cx="330.3" cy="710.4" r="11.0" fill="{{BG}}"/>
+<circle cx="331.4" cy="675.7" r="11.0" fill="{{BG}}"/>
+<circle cx="338.2" cy="641.7" r="11.0" fill="{{BG}}"/>
+<circle cx="350.6" cy="609.3" r="11.0" fill="{{BG}}"/>
+<circle cx="368.1" cy="579.4" r="11.0" fill="{{BG}}"/>
+<circle cx="390.3" cy="552.7" r="11.0" fill="{{BG}}"/>
+<circle cx="416.6" cy="530.1" r="11.0" fill="{{BG}}"/>
+<circle cx="446.2" cy="512.1" r="11.0" fill="{{BG}}"/>
+<circle cx="478.4" cy="499.2" r="11.0" fill="{{BG}}"/>
+<circle cx="512.3" cy="491.8" r="11.0" fill="{{BG}}"/>
+<circle cx="547.0" cy="490.1" r="11.0" fill="{{BG}}"/>
+<circle cx="581.4" cy="494.1" r="11.0" fill="{{BG}}"/>
+<circle cx="614.7" cy="503.7" r="11.0" fill="{{BG}}"/>
+<circle cx="646.0" cy="518.7" r="11.0" fill="{{BG}}"/>
+<circle cx="674.4" cy="538.6" r="11.0" fill="{{BG}}"/>
+<circle cx="699.1" cy="563.0" r="11.0" fill="{{BG}}"/>
+<circle cx="719.5" cy="591.0" r="11.0" fill="{{BG}}"/>
+<circle cx="735.0" cy="622.1" r="11.0" fill="{{BG}}"/>
+<circle cx="745.2" cy="655.2" r="11.0" fill="{{BG}}"/>
+<circle cx="749.7" cy="689.6" r="11.0" fill="{{BG}}"/>
+<circle cx="748.6" cy="724.3" r="11.0" fill="{{BG}}"/>
+<circle cx="741.8" cy="758.3" r="11.0" fill="{{BG}}"/>
+<circle cx="729.4" cy="790.7" r="11.0" fill="{{BG}}"/>
+<circle cx="711.9" cy="820.6" r="11.0" fill="{{BG}}"/>
+<circle cx="689.7" cy="847.3" r="11.0" fill="{{BG}}"/>
+<circle cx="663.4" cy="869.9" r="11.0" fill="{{BG}}"/>
+<circle cx="633.8" cy="887.9" r="11.0" fill="{{BG}}"/>
+<circle cx="601.6" cy="900.8" r="11.0" fill="{{BG}}"/>
+<circle cx="567.7" cy="908.2" r="11.0" fill="{{BG}}"/>
+<circle cx="533.0" cy="909.9" r="11.0" fill="{{BG}}"/>
+<circle cx="498.6" cy="905.9" r="11.0" fill="{{BG}}"/>
+<circle cx="465.3" cy="896.3" r="11.0" fill="{{BG}}"/>
+<circle cx="363.0" cy="862.1" r="12.2" fill="{{BG}}"/>
+<circle cx="341.8" cy="835.3" r="12.2" fill="{{BG}}"/>
+<circle cx="324.5" cy="805.7" r="12.2" fill="{{BG}}"/>
+<circle cx="311.7" cy="773.9" r="12.2" fill="{{BG}}"/>
+<circle cx="303.5" cy="740.7" r="12.2" fill="{{BG}}"/>
+<circle cx="300.1" cy="706.6" r="12.2" fill="{{BG}}"/>
+<circle cx="301.6" cy="672.4" r="12.2" fill="{{BG}}"/>
+<circle cx="307.9" cy="638.8" r="12.2" fill="{{BG}}"/>
+<circle cx="319.0" cy="606.4" r="12.2" fill="{{BG}}"/>
+<circle cx="334.6" cy="575.9" r="12.2" fill="{{BG}}"/>
+<circle cx="354.4" cy="547.9" r="12.2" fill="{{BG}}"/>
+<circle cx="377.9" cy="523.0" r="12.2" fill="{{BG}}"/>
+<circle cx="404.7" cy="501.8" r="12.2" fill="{{BG}}"/>
+<circle cx="434.3" cy="484.5" r="12.2" fill="{{BG}}"/>
+<circle cx="466.1" cy="471.7" r="12.2" fill="{{BG}}"/>
+<circle cx="499.3" cy="463.5" r="12.2" fill="{{BG}}"/>
+<circle cx="533.4" cy="460.1" r="12.2" fill="{{BG}}"/>
+<circle cx="567.6" cy="461.6" r="12.2" fill="{{BG}}"/>
+<circle cx="601.2" cy="467.9" r="12.2" fill="{{BG}}"/>
+<circle cx="633.6" cy="479.0" r="12.2" fill="{{BG}}"/>
+<circle cx="664.1" cy="494.6" r="12.2" fill="{{BG}}"/>
+<circle cx="692.1" cy="514.4" r="12.2" fill="{{BG}}"/>
+<circle cx="717.0" cy="537.9" r="12.2" fill="{{BG}}"/>
+<circle cx="738.2" cy="564.7" r="12.2" fill="{{BG}}"/>
+<circle cx="755.5" cy="594.3" r="12.2" fill="{{BG}}"/>
+<circle cx="768.3" cy="626.1" r="12.2" fill="{{BG}}"/>
+<circle cx="776.5" cy="659.3" r="12.2" fill="{{BG}}"/>
+<circle cx="779.9" cy="693.4" r="12.2" fill="{{BG}}"/>
+<circle cx="778.4" cy="727.6" r="12.2" fill="{{BG}}"/>
+<circle cx="772.1" cy="761.2" r="12.2" fill="{{BG}}"/>
+<circle cx="761.0" cy="793.6" r="12.2" fill="{{BG}}"/>
+<circle cx="745.4" cy="824.1" r="12.2" fill="{{BG}}"/>
+<circle cx="725.6" cy="852.1" r="12.2" fill="{{BG}}"/>
+<circle cx="702.1" cy="877.0" r="12.2" fill="{{BG}}"/>
+<circle cx="675.3" cy="898.2" r="12.2" fill="{{BG}}"/>
+<circle cx="645.7" cy="915.5" r="12.2" fill="{{BG}}"/>
+<circle cx="613.9" cy="928.3" r="12.2" fill="{{BG}}"/>
+<circle cx="580.7" cy="936.5" r="12.2" fill="{{BG}}"/>
+<circle cx="546.6" cy="939.9" r="12.2" fill="{{BG}}"/>
+<circle cx="512.4" cy="938.4" r="12.2" fill="{{BG}}"/>
+<circle cx="478.8" cy="932.1" r="12.2" fill="{{BG}}"/>
+<circle cx="446.4" cy="921.0" r="12.2" fill="{{BG}}"/>
+<circle cx="415.9" cy="905.4" r="12.2" fill="{{BG}}"/>
+<circle cx="387.9" cy="885.6" r="12.2" fill="{{BG}}"/>
+<circle cx="295.9" cy="815.4" r="13.3" fill="{{BG}}"/>
+<circle cx="283.1" cy="783.2" r="13.3" fill="{{BG}}"/>
+<circle cx="274.6" cy="749.7" r="13.3" fill="{{BG}}"/>
+<circle cx="270.4" cy="715.4" r="13.3" fill="{{BG}}"/>
+<circle cx="270.7" cy="680.8" r="13.3" fill="{{BG}}"/>
+<circle cx="275.4" cy="646.5" r="13.3" fill="{{BG}}"/>
+<circle cx="284.4" cy="613.1" r="13.3" fill="{{BG}}"/>
+<circle cx="297.6" cy="581.1" r="13.3" fill="{{BG}}"/>
+<circle cx="314.8" cy="551.1" r="13.3" fill="{{BG}}"/>
+<circle cx="335.7" cy="523.5" r="13.3" fill="{{BG}}"/>
+<circle cx="359.9" cy="498.8" r="13.3" fill="{{BG}}"/>
+<circle cx="387.1" cy="477.4" r="13.3" fill="{{BG}}"/>
+<circle cx="416.8" cy="459.7" r="13.3" fill="{{BG}}"/>
+<circle cx="448.6" cy="445.9" r="13.3" fill="{{BG}}"/>
+<circle cx="481.8" cy="436.3" r="13.3" fill="{{BG}}"/>
+<circle cx="516.0" cy="431.1" r="13.3" fill="{{BG}}"/>
+<circle cx="550.6" cy="430.2" r="13.3" fill="{{BG}}"/>
+<circle cx="585.0" cy="433.8" r="13.3" fill="{{BG}}"/>
+<circle cx="618.7" cy="441.7" r="13.3" fill="{{BG}}"/>
+<circle cx="651.1" cy="453.9" r="13.3" fill="{{BG}}"/>
+<circle cx="681.6" cy="470.1" r="13.3" fill="{{BG}}"/>
+<circle cx="709.9" cy="490.1" r="13.3" fill="{{BG}}"/>
+<circle cx="735.3" cy="513.6" r="13.3" fill="{{BG}}"/>
+<circle cx="757.5" cy="540.1" r="13.3" fill="{{BG}}"/>
+<circle cx="776.2" cy="569.2" r="13.3" fill="{{BG}}"/>
+<circle cx="791.0" cy="600.5" r="13.3" fill="{{BG}}"/>
+<circle cx="801.7" cy="633.4" r="13.3" fill="{{BG}}"/>
+<circle cx="808.0" cy="667.4" r="13.3" fill="{{BG}}"/>
+<circle cx="810.0" cy="701.9" r="13.3" fill="{{BG}}"/>
+<circle cx="807.5" cy="736.5" r="13.3" fill="{{BG}}"/>
+<circle cx="800.7" cy="770.4" r="13.3" fill="{{BG}}"/>
+<circle cx="789.5" cy="803.1" r="13.3" fill="{{BG}}"/>
+<circle cx="774.3" cy="834.2" r="13.3" fill="{{BG}}"/>
+<circle cx="755.2" cy="863.0" r="13.3" fill="{{BG}}"/>
+<circle cx="732.6" cy="889.2" r="13.3" fill="{{BG}}"/>
+<circle cx="706.8" cy="912.3" r="13.3" fill="{{BG}}"/>
+<circle cx="678.3" cy="931.9" r="13.3" fill="{{BG}}"/>
+<circle cx="647.5" cy="947.7" r="13.3" fill="{{BG}}"/>
+<circle cx="615.0" cy="959.4" r="13.3" fill="{{BG}}"/>
+<circle cx="581.2" cy="966.8" r="13.3" fill="{{BG}}"/>
+<circle cx="546.7" cy="969.9" r="13.3" fill="{{BG}}"/>
+<circle cx="512.1" cy="968.6" r="13.3" fill="{{BG}}"/>
+<circle cx="478.0" cy="962.8" r="13.3" fill="{{BG}}"/>
+<circle cx="444.9" cy="952.7" r="13.3" fill="{{BG}}"/>
+<circle cx="413.4" cy="938.5" r="13.3" fill="{{BG}}"/>
+<circle cx="383.9" cy="920.3" r="13.3" fill="{{BG}}"/>
+<circle cx="357.0" cy="898.6" r="13.3" fill="{{BG}}"/>
+<circle cx="333.2" cy="873.5" r="13.3" fill="{{BG}}"/>
+<circle cx="312.7" cy="845.7" r="13.3" fill="{{BG}}"/>
+<circle cx="243.0" cy="742.3" r="14.5" fill="{{BG}}"/>
+<circle cx="240.1" cy="708.2" r="14.5" fill="{{BG}}"/>
+<circle cx="241.1" cy="674.0" r="14.5" fill="{{BG}}"/>
+<circle cx="246.0" cy="640.1" r="14.5" fill="{{BG}}"/>
+<circle cx="254.8" cy="607.0" r="14.5" fill="{{BG}}"/>
+<circle cx="267.3" cy="575.0" r="14.5" fill="{{BG}}"/>
+<circle cx="283.3" cy="544.8" r="14.5" fill="{{BG}}"/>
+<circle cx="302.7" cy="516.5" r="14.5" fill="{{BG}}"/>
+<circle cx="325.1" cy="490.7" r="14.5" fill="{{BG}}"/>
+<circle cx="350.4" cy="467.5" r="14.5" fill="{{BG}}"/>
+<circle cx="378.1" cy="447.4" r="14.5" fill="{{BG}}"/>
+<circle cx="408.0" cy="430.6" r="14.5" fill="{{BG}}"/>
+<circle cx="439.5" cy="417.3" r="14.5" fill="{{BG}}"/>
+<circle cx="472.4" cy="407.7" r="14.5" fill="{{BG}}"/>
+<circle cx="506.2" cy="401.9" r="14.5" fill="{{BG}}"/>
+<circle cx="540.4" cy="400.0" r="14.5" fill="{{BG}}"/>
+<circle cx="574.6" cy="402.0" r="14.5" fill="{{BG}}"/>
+<circle cx="608.3" cy="407.9" r="14.5" fill="{{BG}}"/>
+<circle cx="641.2" cy="417.6" r="14.5" fill="{{BG}}"/>
+<circle cx="672.7" cy="430.9" r="14.5" fill="{{BG}}"/>
+<circle cx="702.5" cy="447.8" r="14.5" fill="{{BG}}"/>
+<circle cx="730.2" cy="468.0" r="14.5" fill="{{BG}}"/>
+<circle cx="755.4" cy="491.2" r="14.5" fill="{{BG}}"/>
+<circle cx="777.8" cy="517.1" r="14.5" fill="{{BG}}"/>
+<circle cx="797.1" cy="545.4" r="14.5" fill="{{BG}}"/>
+<circle cx="813.0" cy="575.7" r="14.5" fill="{{BG}}"/>
+<circle cx="825.4" cy="607.6" r="14.5" fill="{{BG}}"/>
+<circle cx="834.1" cy="640.8" r="14.5" fill="{{BG}}"/>
+<circle cx="838.9" cy="674.7" r="14.5" fill="{{BG}}"/>
+<circle cx="839.9" cy="708.9" r="14.5" fill="{{BG}}"/>
+<circle cx="836.9" cy="743.1" r="14.5" fill="{{BG}}"/>
+<circle cx="830.1" cy="776.6" r="14.5" fill="{{BG}}"/>
+<circle cx="819.4" cy="809.2" r="14.5" fill="{{BG}}"/>
+<circle cx="805.2" cy="840.3" r="14.5" fill="{{BG}}"/>
+<circle cx="787.4" cy="869.6" r="14.5" fill="{{BG}}"/>
+<circle cx="766.5" cy="896.7" r="14.5" fill="{{BG}}"/>
+<circle cx="742.6" cy="921.3" r="14.5" fill="{{BG}}"/>
+<circle cx="716.0" cy="942.9" r="14.5" fill="{{BG}}"/>
+<circle cx="687.2" cy="961.4" r="14.5" fill="{{BG}}"/>
+<circle cx="656.4" cy="976.5" r="14.5" fill="{{BG}}"/>
+<circle cx="624.2" cy="987.9" r="14.5" fill="{{BG}}"/>
+<circle cx="590.8" cy="995.7" r="14.5" fill="{{BG}}"/>
+<circle cx="556.8" cy="999.5" r="14.5" fill="{{BG}}"/>
+<circle cx="522.5" cy="999.5" r="14.5" fill="{{BG}}"/>
+<circle cx="488.5" cy="995.5" r="14.5" fill="{{BG}}"/>
+<circle cx="455.1" cy="987.7" r="14.5" fill="{{BG}}"/>
+<circle cx="422.9" cy="976.2" r="14.5" fill="{{BG}}"/>
+<circle cx="392.2" cy="961.0" r="14.5" fill="{{BG}}"/>
+<circle cx="363.4" cy="942.5" r="14.5" fill="{{BG}}"/>
+<circle cx="336.9" cy="920.8" r="14.5" fill="{{BG}}"/>
+<circle cx="313.0" cy="896.2" r="14.5" fill="{{BG}}"/>
+<circle cx="292.2" cy="869.0" r="14.5" fill="{{BG}}"/>
+<circle cx="274.5" cy="839.7" r="14.5" fill="{{BG}}"/>
+<circle cx="260.3" cy="808.5" r="14.5" fill="{{BG}}"/>
+<circle cx="249.8" cy="775.9" r="14.5" fill="{{BG}}"/>
+<circle cx="214.1" cy="647.9" r="15.6" fill="{{BG}}"/>
+<circle cx="221.4" cy="614.2" r="15.6" fill="{{BG}}"/>
+<circle cx="232.1" cy="581.3" r="15.6" fill="{{BG}}"/>
+<circle cx="246.2" cy="549.8" r="15.6" fill="{{BG}}"/>
+<circle cx="263.5" cy="519.9" r="15.6" fill="{{BG}}"/>
+<circle cx="283.8" cy="492.0" r="15.6" fill="{{BG}}"/>
+<circle cx="307.0" cy="466.3" r="15.6" fill="{{BG}}"/>
+<circle cx="332.7" cy="443.3" r="15.6" fill="{{BG}}"/>
+<circle cx="360.6" cy="423.0" r="15.6" fill="{{BG}}"/>
+<circle cx="390.6" cy="405.8" r="15.6" fill="{{BG}}"/>
+<circle cx="422.1" cy="391.8" r="15.6" fill="{{BG}}"/>
+<circle cx="455.0" cy="381.1" r="15.6" fill="{{BG}}"/>
+<circle cx="488.8" cy="374.0" r="15.6" fill="{{BG}}"/>
+<circle cx="523.2" cy="370.4" r="15.6" fill="{{BG}}"/>
+<circle cx="557.7" cy="370.5" r="15.6" fill="{{BG}}"/>
+<circle cx="592.1" cy="374.1" r="15.6" fill="{{BG}}"/>
+<circle cx="625.8" cy="381.4" r="15.6" fill="{{BG}}"/>
+<circle cx="658.7" cy="392.1" r="15.6" fill="{{BG}}"/>
+<circle cx="690.2" cy="406.2" r="15.6" fill="{{BG}}"/>
+<circle cx="720.1" cy="423.5" r="15.6" fill="{{BG}}"/>
+<circle cx="748.0" cy="443.8" r="15.6" fill="{{BG}}"/>
+<circle cx="773.7" cy="467.0" r="15.6" fill="{{BG}}"/>
+<circle cx="796.7" cy="492.7" r="15.6" fill="{{BG}}"/>
+<circle cx="817.0" cy="520.6" r="15.6" fill="{{BG}}"/>
+<circle cx="834.2" cy="550.6" r="15.6" fill="{{BG}}"/>
+<circle cx="848.2" cy="582.1" r="15.6" fill="{{BG}}"/>
+<circle cx="858.9" cy="615.0" r="15.6" fill="{{BG}}"/>
+<circle cx="866.0" cy="648.8" r="15.6" fill="{{BG}}"/>
+<circle cx="869.6" cy="683.2" r="15.6" fill="{{BG}}"/>
+<circle cx="869.5" cy="717.7" r="15.6" fill="{{BG}}"/>
+<circle cx="865.9" cy="752.1" r="15.6" fill="{{BG}}"/>
+<circle cx="858.6" cy="785.8" r="15.6" fill="{{BG}}"/>
+<circle cx="847.9" cy="818.7" r="15.6" fill="{{BG}}"/>
+<circle cx="833.8" cy="850.2" r="15.6" fill="{{BG}}"/>
+<circle cx="816.5" cy="880.1" r="15.6" fill="{{BG}}"/>
+<circle cx="796.2" cy="908.0" r="15.6" fill="{{BG}}"/>
+<circle cx="773.0" cy="933.7" r="15.6" fill="{{BG}}"/>
+<circle cx="747.3" cy="956.7" r="15.6" fill="{{BG}}"/>
+<circle cx="719.4" cy="977.0" r="15.6" fill="{{BG}}"/>
+<circle cx="689.4" cy="994.2" r="15.6" fill="{{BG}}"/>
+<circle cx="657.9" cy="1008.2" r="15.6" fill="{{BG}}"/>
+<circle cx="625.0" cy="1018.9" r="15.6" fill="{{BG}}"/>
+<circle cx="591.2" cy="1026.0" r="15.6" fill="{{BG}}"/>
+<circle cx="556.8" cy="1029.6" r="15.6" fill="{{BG}}"/>
+<circle cx="522.3" cy="1029.5" r="15.6" fill="{{BG}}"/>
+<circle cx="487.9" cy="1025.9" r="15.6" fill="{{BG}}"/>
+<circle cx="454.2" cy="1018.6" r="15.6" fill="{{BG}}"/>
+<circle cx="421.3" cy="1007.9" r="15.6" fill="{{BG}}"/>
+<circle cx="389.8" cy="993.8" r="15.6" fill="{{BG}}"/>
+<circle cx="359.9" cy="976.5" r="15.6" fill="{{BG}}"/>
+<circle cx="332.0" cy="956.2" r="15.6" fill="{{BG}}"/>
+<circle cx="306.3" cy="933.0" r="15.6" fill="{{BG}}"/>
+<circle cx="283.3" cy="907.3" r="15.6" fill="{{BG}}"/>
+<circle cx="263.0" cy="879.4" r="15.6" fill="{{BG}}"/>
+<circle cx="245.8" cy="849.4" r="15.6" fill="{{BG}}"/>
+<circle cx="231.8" cy="817.9" r="15.6" fill="{{BG}}"/>
+<circle cx="221.1" cy="785.0" r="15.6" fill="{{BG}}"/>
+<circle cx="214.0" cy="751.2" r="15.6" fill="{{BG}}"/>
+<circle cx="210.4" cy="716.8" r="15.6" fill="{{BG}}"/>
+<circle cx="210.5" cy="682.3" r="15.6" fill="{{BG}}"/>
+<circle cx="217.2" cy="540.7" r="16.8" fill="{{BG}}"/>
+<circle cx="233.8" cy="510.7" r="16.8" fill="{{BG}}"/>
+<circle cx="253.2" cy="482.5" r="16.8" fill="{{BG}}"/>
+<circle cx="275.1" cy="456.2" r="16.8" fill="{{BG}}"/>
+<circle cx="299.5" cy="432.1" r="16.8" fill="{{BG}}"/>
+<circle cx="326.1" cy="410.5" r="16.8" fill="{{BG}}"/>
+<circle cx="354.5" cy="391.4" r="16.8" fill="{{BG}}"/>
+<circle cx="384.7" cy="375.2" r="16.8" fill="{{BG}}"/>
+<circle cx="416.3" cy="361.9" r="16.8" fill="{{BG}}"/>
+<circle cx="449.0" cy="351.7" r="16.8" fill="{{BG}}"/>
+<circle cx="482.5" cy="344.6" r="16.8" fill="{{BG}}"/>
+<circle cx="516.5" cy="340.8" r="16.8" fill="{{BG}}"/>
+<circle cx="550.8" cy="340.2" r="16.8" fill="{{BG}}"/>
+<circle cx="585.0" cy="342.8" r="16.8" fill="{{BG}}"/>
+<circle cx="618.7" cy="348.7" r="16.8" fill="{{BG}}"/>
+<circle cx="651.7" cy="357.8" r="16.8" fill="{{BG}}"/>
+<circle cx="683.8" cy="370.0" r="16.8" fill="{{BG}}"/>
+<circle cx="714.5" cy="385.1" r="16.8" fill="{{BG}}"/>
+<circle cx="743.6" cy="403.1" r="16.8" fill="{{BG}}"/>
+<circle cx="770.9" cy="423.8" r="16.8" fill="{{BG}}"/>
+<circle cx="796.1" cy="447.0" r="16.8" fill="{{BG}}"/>
+<circle cx="819.0" cy="472.5" r="16.8" fill="{{BG}}"/>
+<circle cx="839.4" cy="500.1" r="16.8" fill="{{BG}}"/>
+<circle cx="857.0" cy="529.4" r="16.8" fill="{{BG}}"/>
+<circle cx="871.8" cy="560.3" r="16.8" fill="{{BG}}"/>
+<circle cx="883.6" cy="592.5" r="16.8" fill="{{BG}}"/>
+<circle cx="892.2" cy="625.7" r="16.8" fill="{{BG}}"/>
+<circle cx="897.7" cy="659.5" r="16.8" fill="{{BG}}"/>
+<circle cx="899.9" cy="693.7" r="16.8" fill="{{BG}}"/>
+<circle cx="898.9" cy="727.9" r="16.8" fill="{{BG}}"/>
+<circle cx="894.6" cy="761.9" r="16.8" fill="{{BG}}"/>
+<circle cx="887.1" cy="795.3" r="16.8" fill="{{BG}}"/>
+<circle cx="876.5" cy="827.9" r="16.8" fill="{{BG}}"/>
+<circle cx="862.8" cy="859.3" r="16.8" fill="{{BG}}"/>
+<circle cx="846.2" cy="889.3" r="16.8" fill="{{BG}}"/>
+<circle cx="826.8" cy="917.5" r="16.8" fill="{{BG}}"/>
+<circle cx="804.9" cy="943.8" r="16.8" fill="{{BG}}"/>
+<circle cx="780.5" cy="967.9" r="16.8" fill="{{BG}}"/>
+<circle cx="753.9" cy="989.5" r="16.8" fill="{{BG}}"/>
+<circle cx="725.5" cy="1008.6" r="16.8" fill="{{BG}}"/>
+<circle cx="695.3" cy="1024.8" r="16.8" fill="{{BG}}"/>
+<circle cx="663.7" cy="1038.1" r="16.8" fill="{{BG}}"/>
+<circle cx="631.0" cy="1048.3" r="16.8" fill="{{BG}}"/>
+<circle cx="597.5" cy="1055.4" r="16.8" fill="{{BG}}"/>
+<circle cx="563.5" cy="1059.2" r="16.8" fill="{{BG}}"/>
+<circle cx="529.2" cy="1059.8" r="16.8" fill="{{BG}}"/>
+<circle cx="495.0" cy="1057.2" r="16.8" fill="{{BG}}"/>
+<circle cx="461.3" cy="1051.3" r="16.8" fill="{{BG}}"/>
+<circle cx="428.3" cy="1042.2" r="16.8" fill="{{BG}}"/>
+<circle cx="396.2" cy="1030.0" r="16.8" fill="{{BG}}"/>
+<circle cx="365.5" cy="1014.9" r="16.8" fill="{{BG}}"/>
+<circle cx="336.4" cy="996.9" r="16.8" fill="{{BG}}"/>
+<circle cx="309.1" cy="976.2" r="16.8" fill="{{BG}}"/>
+<circle cx="283.9" cy="953.0" r="16.8" fill="{{BG}}"/>
+<circle cx="261.0" cy="927.5" r="16.8" fill="{{BG}}"/>
+<circle cx="240.6" cy="899.9" r="16.8" fill="{{BG}}"/>
+<circle cx="223.0" cy="870.6" r="16.8" fill="{{BG}}"/>
+<circle cx="208.2" cy="839.7" r="16.8" fill="{{BG}}"/>
+<circle cx="196.4" cy="807.5" r="16.8" fill="{{BG}}"/>
+<circle cx="187.8" cy="774.3" r="16.8" fill="{{BG}}"/>
+<circle cx="182.3" cy="740.5" r="16.8" fill="{{BG}}"/>
+<circle cx="180.1" cy="706.3" r="16.8" fill="{{BG}}"/>
+<circle cx="181.1" cy="672.1" r="16.8" fill="{{BG}}"/>
+<circle cx="185.4" cy="638.1" r="16.8" fill="{{BG}}"/>
+<circle cx="192.9" cy="604.7" r="16.8" fill="{{BG}}"/>
+<circle cx="203.5" cy="572.1" r="16.8" fill="{{BG}}"/>
+<circle cx="540" cy="700" r="390" fill="none" stroke="{{INK}}" stroke-width="12"/>
+<ellipse cx="548" cy="1018" rx="270" ry="44" fill="{{INK}}"/>
+<path d="M 275 1010 C 272 981 284 963 290 952 C 296 963 308 981 305 1010 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="290" cy="989" r="6" fill="{{DOT}}"/>
+<path d="M 311 1010 C 308 972 320 949 326 934 C 332 949 344 972 341 1010 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="326" cy="983" r="6" fill="{{DOT}}"/>
+<path d="M 347 1010 C 344 976 356 956 362 942 C 368 956 380 976 377 1010 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="362" cy="986" r="6" fill="{{DOT}}"/>
+<path d="M 383 1010 C 380 987 392 973 398 964 C 404 973 416 987 413 1010 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="398" cy="994" r="6" fill="{{DOT}}"/>
+<path d="M 419 1010 C 416 988 428 976 434 967 C 440 976 452 988 449 1010 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="434" cy="995" r="6" fill="{{DOT}}"/>
+<path d="M 455 1010 C 452 979 464 960 470 948 C 476 960 488 979 485 1010 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="470" cy="988" r="6" fill="{{DOT}}"/>
+<path d="M 491 1010 C 488 972 500 949 506 934 C 512 949 524 972 521 1010 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="506" cy="983" r="6" fill="{{DOT}}"/>
+<path d="M 527 1010 C 524 978 536 959 542 946 C 548 959 560 978 557 1010 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="542" cy="987" r="6" fill="{{DOT}}"/>
+<path d="M 563 1010 C 560 988 572 975 578 966 C 584 975 596 988 593 1010 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="578" cy="994" r="6" fill="{{DOT}}"/>
+<path d="M 599 1010 C 596 987 608 974 614 965 C 620 974 632 987 629 1010 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="614" cy="994" r="6" fill="{{DOT}}"/>
+<path d="M 635 1010 C 632 977 644 957 650 944 C 656 957 668 977 665 1010 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="650" cy="987" r="6" fill="{{DOT}}"/>
+<path d="M 671 1010 C 668 972 680 949 686 934 C 692 949 704 972 701 1010 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="686" cy="983" r="6" fill="{{DOT}}"/>
+<path d="M 707 1010 C 704 980 716 962 722 950 C 728 962 740 980 737 1010 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="722" cy="989" r="6" fill="{{DOT}}"/>
+<path d="M 743 1010 C 740 989 752 976 758 968 C 764 976 776 989 773 1010 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="758" cy="995" r="6" fill="{{DOT}}"/>
+<path d="M 779 1010 C 776 986 788 972 794 962 C 800 972 812 986 809 1010 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="794" cy="993" r="6" fill="{{DOT}}"/>
+<rect x="320" y="1000" width="440" height="22" rx="11" fill="{{INK}}"/>
+<rect x="300" y="1022" width="480" height="18" rx="9" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<g transform="translate(18,14)"><polygon points="395,430 685,430 640,690 440,690" fill="{{INK}}"/><polygon points="440,720 640,720 700,990 380,990" fill="{{INK}}"/></g>
+<polygon points="395,430 685,430 640,690 440,690" fill="{{C1}}"/>
+<g clip-path="url(#up)">
+<circle cx="372" cy="444.0" r="3.0" fill="#FFFFFF"/>
+<circle cx="372" cy="470.0" r="3.9" fill="#FFFFFF"/>
+<circle cx="372" cy="496.0" r="4.8" fill="#FFFFFF"/>
+<circle cx="372" cy="522.0" r="5.7" fill="#FFFFFF"/>
+<circle cx="372" cy="548.0" r="6.6" fill="#FFFFFF"/>
+<circle cx="372" cy="574.0" r="7.5" fill="#FFFFFF"/>
+<circle cx="372" cy="600.0" r="8.4" fill="#FFFFFF"/>
+<circle cx="372" cy="626.0" r="9.3" fill="#FFFFFF"/>
+<circle cx="372" cy="652.0" r="10.2" fill="#FFFFFF"/>
+<circle cx="372" cy="678.0" r="11.1" fill="#FFFFFF"/>
+<circle cx="402" cy="457.0" r="3.4" fill="#FFFFFF"/>
+<circle cx="402" cy="483.0" r="4.3" fill="#FFFFFF"/>
+<circle cx="402" cy="509.0" r="5.2" fill="#FFFFFF"/>
+<circle cx="402" cy="535.0" r="6.1" fill="#FFFFFF"/>
+<circle cx="402" cy="561.0" r="7.0" fill="#FFFFFF"/>
+<circle cx="402" cy="587.0" r="7.9" fill="#FFFFFF"/>
+<circle cx="402" cy="613.0" r="8.8" fill="#FFFFFF"/>
+<circle cx="402" cy="639.0" r="9.7" fill="#FFFFFF"/>
+<circle cx="402" cy="665.0" r="10.6" fill="#FFFFFF"/>
+<circle cx="432" cy="444.0" r="3.0" fill="#FFFFFF"/>
+<circle cx="432" cy="470.0" r="3.9" fill="#FFFFFF"/>
+<circle cx="432" cy="496.0" r="4.8" fill="#FFFFFF"/>
+<circle cx="432" cy="522.0" r="5.7" fill="#FFFFFF"/>
+<circle cx="432" cy="548.0" r="6.6" fill="#FFFFFF"/>
+<circle cx="432" cy="574.0" r="7.5" fill="#FFFFFF"/>
+<circle cx="432" cy="600.0" r="8.4" fill="#FFFFFF"/>
+<circle cx="432" cy="626.0" r="9.3" fill="#FFFFFF"/>
+<circle cx="432" cy="652.0" r="10.2" fill="#FFFFFF"/>
+<circle cx="432" cy="678.0" r="11.1" fill="#FFFFFF"/>
+<circle cx="462" cy="457.0" r="3.4" fill="#FFFFFF"/>
+<circle cx="462" cy="483.0" r="4.3" fill="#FFFFFF"/>
+<circle cx="462" cy="509.0" r="5.2" fill="#FFFFFF"/>
+<circle cx="462" cy="535.0" r="6.1" fill="#FFFFFF"/>
+<circle cx="462" cy="561.0" r="7.0" fill="#FFFFFF"/>
+<circle cx="462" cy="587.0" r="7.9" fill="#FFFFFF"/>
+<circle cx="462" cy="613.0" r="8.8" fill="#FFFFFF"/>
+<circle cx="462" cy="639.0" r="9.7" fill="#FFFFFF"/>
+<circle cx="462" cy="665.0" r="10.6" fill="#FFFFFF"/>
+<circle cx="492" cy="444.0" r="3.0" fill="#FFFFFF"/>
+<circle cx="492" cy="470.0" r="3.9" fill="#FFFFFF"/>
+<circle cx="492" cy="496.0" r="4.8" fill="#FFFFFF"/>
+<circle cx="492" cy="522.0" r="5.7" fill="#FFFFFF"/>
+<circle cx="492" cy="548.0" r="6.6" fill="#FFFFFF"/>
+<circle cx="492" cy="574.0" r="7.5" fill="#FFFFFF"/>
+<circle cx="492" cy="600.0" r="8.4" fill="#FFFFFF"/>
+<circle cx="492" cy="626.0" r="9.3" fill="#FFFFFF"/>
+<circle cx="492" cy="652.0" r="10.2" fill="#FFFFFF"/>
+<circle cx="492" cy="678.0" r="11.1" fill="#FFFFFF"/>
+<circle cx="522" cy="457.0" r="3.4" fill="#FFFFFF"/>
+<circle cx="522" cy="483.0" r="4.3" fill="#FFFFFF"/>
+<circle cx="522" cy="509.0" r="5.2" fill="#FFFFFF"/>
+<circle cx="522" cy="535.0" r="6.1" fill="#FFFFFF"/>
+<circle cx="522" cy="561.0" r="7.0" fill="#FFFFFF"/>
+<circle cx="522" cy="587.0" r="7.9" fill="#FFFFFF"/>
+<circle cx="522" cy="613.0" r="8.8" fill="#FFFFFF"/>
+<circle cx="522" cy="639.0" r="9.7" fill="#FFFFFF"/>
+<circle cx="522" cy="665.0" r="10.6" fill="#FFFFFF"/>
+<circle cx="552" cy="444.0" r="3.0" fill="#FFFFFF"/>
+<circle cx="552" cy="470.0" r="3.9" fill="#FFFFFF"/>
+<circle cx="552" cy="496.0" r="4.8" fill="#FFFFFF"/>
+<circle cx="552" cy="522.0" r="5.7" fill="#FFFFFF"/>
+<circle cx="552" cy="548.0" r="6.6" fill="#FFFFFF"/>
+<circle cx="552" cy="574.0" r="7.5" fill="#FFFFFF"/>
+<circle cx="552" cy="600.0" r="8.4" fill="#FFFFFF"/>
+<circle cx="552" cy="626.0" r="9.3" fill="#FFFFFF"/>
+<circle cx="552" cy="652.0" r="10.2" fill="#FFFFFF"/>
+<circle cx="552" cy="678.0" r="11.1" fill="#FFFFFF"/>
+<circle cx="582" cy="457.0" r="3.4" fill="#FFFFFF"/>
+<circle cx="582" cy="483.0" r="4.3" fill="#FFFFFF"/>
+<circle cx="582" cy="509.0" r="5.2" fill="#FFFFFF"/>
+<circle cx="582" cy="535.0" r="6.1" fill="#FFFFFF"/>
+<circle cx="582" cy="561.0" r="7.0" fill="#FFFFFF"/>
+<circle cx="582" cy="587.0" r="7.9" fill="#FFFFFF"/>
+<circle cx="582" cy="613.0" r="8.8" fill="#FFFFFF"/>
+<circle cx="582" cy="639.0" r="9.7" fill="#FFFFFF"/>
+<circle cx="582" cy="665.0" r="10.6" fill="#FFFFFF"/>
+<circle cx="612" cy="444.0" r="3.0" fill="#FFFFFF"/>
+<circle cx="612" cy="470.0" r="3.9" fill="#FFFFFF"/>
+<circle cx="612" cy="496.0" r="4.8" fill="#FFFFFF"/>
+<circle cx="612" cy="522.0" r="5.7" fill="#FFFFFF"/>
+<circle cx="612" cy="548.0" r="6.6" fill="#FFFFFF"/>
+<circle cx="612" cy="574.0" r="7.5" fill="#FFFFFF"/>
+<circle cx="612" cy="600.0" r="8.4" fill="#FFFFFF"/>
+<circle cx="612" cy="626.0" r="9.3" fill="#FFFFFF"/>
+<circle cx="612" cy="652.0" r="10.2" fill="#FFFFFF"/>
+<circle cx="612" cy="678.0" r="11.1" fill="#FFFFFF"/>
+<circle cx="642" cy="457.0" r="3.4" fill="#FFFFFF"/>
+<circle cx="642" cy="483.0" r="4.3" fill="#FFFFFF"/>
+<circle cx="642" cy="509.0" r="5.2" fill="#FFFFFF"/>
+<circle cx="642" cy="535.0" r="6.1" fill="#FFFFFF"/>
+<circle cx="642" cy="561.0" r="7.0" fill="#FFFFFF"/>
+<circle cx="642" cy="587.0" r="7.9" fill="#FFFFFF"/>
+<circle cx="642" cy="613.0" r="8.8" fill="#FFFFFF"/>
+<circle cx="642" cy="639.0" r="9.7" fill="#FFFFFF"/>
+<circle cx="642" cy="665.0" r="10.6" fill="#FFFFFF"/>
+<circle cx="672" cy="444.0" r="3.0" fill="#FFFFFF"/>
+<circle cx="672" cy="470.0" r="3.9" fill="#FFFFFF"/>
+<circle cx="672" cy="496.0" r="4.8" fill="#FFFFFF"/>
+<circle cx="672" cy="522.0" r="5.7" fill="#FFFFFF"/>
+<circle cx="672" cy="548.0" r="6.6" fill="#FFFFFF"/>
+<circle cx="672" cy="574.0" r="7.5" fill="#FFFFFF"/>
+<circle cx="672" cy="600.0" r="8.4" fill="#FFFFFF"/>
+<circle cx="672" cy="626.0" r="9.3" fill="#FFFFFF"/>
+<circle cx="672" cy="652.0" r="10.2" fill="#FFFFFF"/>
+<circle cx="672" cy="678.0" r="11.1" fill="#FFFFFF"/>
+<circle cx="702" cy="457.0" r="3.4" fill="#FFFFFF"/>
+<circle cx="702" cy="483.0" r="4.3" fill="#FFFFFF"/>
+<circle cx="702" cy="509.0" r="5.2" fill="#FFFFFF"/>
+<circle cx="702" cy="535.0" r="6.1" fill="#FFFFFF"/>
+<circle cx="702" cy="561.0" r="7.0" fill="#FFFFFF"/>
+<circle cx="702" cy="587.0" r="7.9" fill="#FFFFFF"/>
+<circle cx="702" cy="613.0" r="8.8" fill="#FFFFFF"/>
+<circle cx="702" cy="639.0" r="9.7" fill="#FFFFFF"/>
+<circle cx="702" cy="665.0" r="10.6" fill="#FFFFFF"/>
+<line x1="500" y1="430" x2="500" y2="690" stroke="{{INK}}" stroke-width="5"/>
+<line x1="580" y1="430" x2="580" y2="690" stroke="{{INK}}" stroke-width="5"/>
+</g>
+<polygon points="395,430 685,430 640,690 440,690" fill="none" stroke="{{INK}}" stroke-width="12" stroke-linejoin="round"/>
+<polygon points="440,720 640,720 700,990 380,990" fill="{{C1}}"/>
+<g clip-path="url(#lo)">
+<circle cx="372" cy="734.0" r="3.0" fill="#FFFFFF"/>
+<circle cx="372" cy="760.0" r="3.8" fill="#FFFFFF"/>
+<circle cx="372" cy="786.0" r="4.7" fill="#FFFFFF"/>
+<circle cx="372" cy="812.0" r="5.6" fill="#FFFFFF"/>
+<circle cx="372" cy="838.0" r="6.4" fill="#FFFFFF"/>
+<circle cx="372" cy="864.0" r="7.3" fill="#FFFFFF"/>
+<circle cx="372" cy="890.0" r="8.2" fill="#FFFFFF"/>
+<circle cx="372" cy="916.0" r="9.0" fill="#FFFFFF"/>
+<circle cx="372" cy="942.0" r="9.9" fill="#FFFFFF"/>
+<circle cx="372" cy="968.0" r="10.8" fill="#FFFFFF"/>
+<circle cx="402" cy="747.0" r="3.4" fill="#FFFFFF"/>
+<circle cx="402" cy="773.0" r="4.3" fill="#FFFFFF"/>
+<circle cx="402" cy="799.0" r="5.1" fill="#FFFFFF"/>
+<circle cx="402" cy="825.0" r="6.0" fill="#FFFFFF"/>
+<circle cx="402" cy="851.0" r="6.9" fill="#FFFFFF"/>
+<circle cx="402" cy="877.0" r="7.7" fill="#FFFFFF"/>
+<circle cx="402" cy="903.0" r="8.6" fill="#FFFFFF"/>
+<circle cx="402" cy="929.0" r="9.5" fill="#FFFFFF"/>
+<circle cx="402" cy="955.0" r="10.3" fill="#FFFFFF"/>
+<circle cx="402" cy="981.0" r="11.2" fill="#FFFFFF"/>
+<circle cx="432" cy="734.0" r="3.0" fill="#FFFFFF"/>
+<circle cx="432" cy="760.0" r="3.8" fill="#FFFFFF"/>
+<circle cx="432" cy="786.0" r="4.7" fill="#FFFFFF"/>
+<circle cx="432" cy="812.0" r="5.6" fill="#FFFFFF"/>
+<circle cx="432" cy="838.0" r="6.4" fill="#FFFFFF"/>
+<circle cx="432" cy="864.0" r="7.3" fill="#FFFFFF"/>
+<circle cx="432" cy="890.0" r="8.2" fill="#FFFFFF"/>
+<circle cx="432" cy="916.0" r="9.0" fill="#FFFFFF"/>
+<circle cx="432" cy="942.0" r="9.9" fill="#FFFFFF"/>
+<circle cx="432" cy="968.0" r="10.8" fill="#FFFFFF"/>
+<circle cx="462" cy="747.0" r="3.4" fill="#FFFFFF"/>
+<circle cx="462" cy="773.0" r="4.3" fill="#FFFFFF"/>
+<circle cx="462" cy="799.0" r="5.1" fill="#FFFFFF"/>
+<circle cx="462" cy="825.0" r="6.0" fill="#FFFFFF"/>
+<circle cx="462" cy="851.0" r="6.9" fill="#FFFFFF"/>
+<circle cx="462" cy="877.0" r="7.7" fill="#FFFFFF"/>
+<circle cx="462" cy="903.0" r="8.6" fill="#FFFFFF"/>
+<circle cx="462" cy="929.0" r="9.5" fill="#FFFFFF"/>
+<circle cx="462" cy="955.0" r="10.3" fill="#FFFFFF"/>
+<circle cx="462" cy="981.0" r="11.2" fill="#FFFFFF"/>
+<circle cx="492" cy="734.0" r="3.0" fill="#FFFFFF"/>
+<circle cx="492" cy="760.0" r="3.8" fill="#FFFFFF"/>
+<circle cx="492" cy="786.0" r="4.7" fill="#FFFFFF"/>
+<circle cx="492" cy="812.0" r="5.6" fill="#FFFFFF"/>
+<circle cx="492" cy="838.0" r="6.4" fill="#FFFFFF"/>
+<circle cx="492" cy="864.0" r="7.3" fill="#FFFFFF"/>
+<circle cx="492" cy="890.0" r="8.2" fill="#FFFFFF"/>
+<circle cx="492" cy="916.0" r="9.0" fill="#FFFFFF"/>
+<circle cx="492" cy="942.0" r="9.9" fill="#FFFFFF"/>
+<circle cx="492" cy="968.0" r="10.8" fill="#FFFFFF"/>
+<circle cx="522" cy="747.0" r="3.4" fill="#FFFFFF"/>
+<circle cx="522" cy="773.0" r="4.3" fill="#FFFFFF"/>
+<circle cx="522" cy="799.0" r="5.1" fill="#FFFFFF"/>
+<circle cx="522" cy="825.0" r="6.0" fill="#FFFFFF"/>
+<circle cx="522" cy="851.0" r="6.9" fill="#FFFFFF"/>
+<circle cx="522" cy="877.0" r="7.7" fill="#FFFFFF"/>
+<circle cx="522" cy="903.0" r="8.6" fill="#FFFFFF"/>
+<circle cx="522" cy="929.0" r="9.5" fill="#FFFFFF"/>
+<circle cx="522" cy="955.0" r="10.3" fill="#FFFFFF"/>
+<circle cx="522" cy="981.0" r="11.2" fill="#FFFFFF"/>
+<circle cx="552" cy="734.0" r="3.0" fill="#FFFFFF"/>
+<circle cx="552" cy="760.0" r="3.8" fill="#FFFFFF"/>
+<circle cx="552" cy="786.0" r="4.7" fill="#FFFFFF"/>
+<circle cx="552" cy="812.0" r="5.6" fill="#FFFFFF"/>
+<circle cx="552" cy="838.0" r="6.4" fill="#FFFFFF"/>
+<circle cx="552" cy="864.0" r="7.3" fill="#FFFFFF"/>
+<circle cx="552" cy="890.0" r="8.2" fill="#FFFFFF"/>
+<circle cx="552" cy="916.0" r="9.0" fill="#FFFFFF"/>
+<circle cx="552" cy="942.0" r="9.9" fill="#FFFFFF"/>
+<circle cx="552" cy="968.0" r="10.8" fill="#FFFFFF"/>
+<circle cx="582" cy="747.0" r="3.4" fill="#FFFFFF"/>
+<circle cx="582" cy="773.0" r="4.3" fill="#FFFFFF"/>
+<circle cx="582" cy="799.0" r="5.1" fill="#FFFFFF"/>
+<circle cx="582" cy="825.0" r="6.0" fill="#FFFFFF"/>
+<circle cx="582" cy="851.0" r="6.9" fill="#FFFFFF"/>
+<circle cx="582" cy="877.0" r="7.7" fill="#FFFFFF"/>
+<circle cx="582" cy="903.0" r="8.6" fill="#FFFFFF"/>
+<circle cx="582" cy="929.0" r="9.5" fill="#FFFFFF"/>
+<circle cx="582" cy="955.0" r="10.3" fill="#FFFFFF"/>
+<circle cx="582" cy="981.0" r="11.2" fill="#FFFFFF"/>
+<circle cx="612" cy="734.0" r="3.0" fill="#FFFFFF"/>
+<circle cx="612" cy="760.0" r="3.8" fill="#FFFFFF"/>
+<circle cx="612" cy="786.0" r="4.7" fill="#FFFFFF"/>
+<circle cx="612" cy="812.0" r="5.6" fill="#FFFFFF"/>
+<circle cx="612" cy="838.0" r="6.4" fill="#FFFFFF"/>
+<circle cx="612" cy="864.0" r="7.3" fill="#FFFFFF"/>
+<circle cx="612" cy="890.0" r="8.2" fill="#FFFFFF"/>
+<circle cx="612" cy="916.0" r="9.0" fill="#FFFFFF"/>
+<circle cx="612" cy="942.0" r="9.9" fill="#FFFFFF"/>
+<circle cx="612" cy="968.0" r="10.8" fill="#FFFFFF"/>
+<circle cx="642" cy="747.0" r="3.4" fill="#FFFFFF"/>
+<circle cx="642" cy="773.0" r="4.3" fill="#FFFFFF"/>
+<circle cx="642" cy="799.0" r="5.1" fill="#FFFFFF"/>
+<circle cx="642" cy="825.0" r="6.0" fill="#FFFFFF"/>
+<circle cx="642" cy="851.0" r="6.9" fill="#FFFFFF"/>
+<circle cx="642" cy="877.0" r="7.7" fill="#FFFFFF"/>
+<circle cx="642" cy="903.0" r="8.6" fill="#FFFFFF"/>
+<circle cx="642" cy="929.0" r="9.5" fill="#FFFFFF"/>
+<circle cx="642" cy="955.0" r="10.3" fill="#FFFFFF"/>
+<circle cx="642" cy="981.0" r="11.2" fill="#FFFFFF"/>
+<circle cx="672" cy="734.0" r="3.0" fill="#FFFFFF"/>
+<circle cx="672" cy="760.0" r="3.8" fill="#FFFFFF"/>
+<circle cx="672" cy="786.0" r="4.7" fill="#FFFFFF"/>
+<circle cx="672" cy="812.0" r="5.6" fill="#FFFFFF"/>
+<circle cx="672" cy="838.0" r="6.4" fill="#FFFFFF"/>
+<circle cx="672" cy="864.0" r="7.3" fill="#FFFFFF"/>
+<circle cx="672" cy="890.0" r="8.2" fill="#FFFFFF"/>
+<circle cx="672" cy="916.0" r="9.0" fill="#FFFFFF"/>
+<circle cx="672" cy="942.0" r="9.9" fill="#FFFFFF"/>
+<circle cx="672" cy="968.0" r="10.8" fill="#FFFFFF"/>
+<circle cx="702" cy="747.0" r="3.4" fill="#FFFFFF"/>
+<circle cx="702" cy="773.0" r="4.3" fill="#FFFFFF"/>
+<circle cx="702" cy="799.0" r="5.1" fill="#FFFFFF"/>
+<circle cx="702" cy="825.0" r="6.0" fill="#FFFFFF"/>
+<circle cx="702" cy="851.0" r="6.9" fill="#FFFFFF"/>
+<circle cx="702" cy="877.0" r="7.7" fill="#FFFFFF"/>
+<circle cx="702" cy="903.0" r="8.6" fill="#FFFFFF"/>
+<circle cx="702" cy="929.0" r="9.5" fill="#FFFFFF"/>
+<circle cx="702" cy="955.0" r="10.3" fill="#FFFFFF"/>
+<circle cx="702" cy="981.0" r="11.2" fill="#FFFFFF"/>
+<line x1="500" y1="720" x2="490" y2="990" stroke="{{INK}}" stroke-width="5"/>
+<line x1="580" y1="720" x2="590" y2="990" stroke="{{INK}}" stroke-width="5"/>
+</g>
+<polygon points="440,720 640,720 700,990 380,990" fill="none" stroke="{{INK}}" stroke-width="12" stroke-linejoin="round"/>
+<rect x="420" y="684" width="240" height="42" rx="10" fill="{{C3}}" stroke="{{INK}}" stroke-width="11"/>
+<circle cx="440" cy="705" r="6" fill="{{DOT}}"/>
+<circle cx="464" cy="705" r="6" fill="{{DOT}}"/>
+<circle cx="488" cy="705" r="6" fill="{{DOT}}"/>
+<circle cx="512" cy="705" r="6" fill="{{DOT}}"/>
+<circle cx="536" cy="705" r="6" fill="{{DOT}}"/>
+<circle cx="560" cy="705" r="6" fill="{{DOT}}"/>
+<circle cx="584" cy="705" r="6" fill="{{DOT}}"/>
+<circle cx="608" cy="705" r="6" fill="{{DOT}}"/>
+<circle cx="632" cy="705" r="6" fill="{{DOT}}"/>
+<path d="M 380 432 Q 540 360 700 432 Z" fill="{{C1}}" stroke="{{INK}}" stroke-width="11" stroke-linejoin="round"/>
+<circle cx="430" cy="412" r="5" fill="#FFFFFF"/>
+<circle cx="458" cy="408" r="5" fill="#FFFFFF"/>
+<circle cx="486" cy="405" r="5" fill="#FFFFFF"/>
+<circle cx="514" cy="403" r="5" fill="#FFFFFF"/>
+<circle cx="542" cy="403" r="5" fill="#FFFFFF"/>
+<circle cx="570" cy="403" r="5" fill="#FFFFFF"/>
+<circle cx="598" cy="405" r="5" fill="#FFFFFF"/>
+<circle cx="626" cy="409" r="5" fill="#FFFFFF"/>
+<circle cx="654" cy="413" r="5" fill="#FFFFFF"/>
+<ellipse cx="540" cy="372" rx="34" ry="24" fill="{{C3}}" stroke="{{INK}}" stroke-width="10"/>
+<circle cx="540" cy="372" r="9" fill="{{DOT}}"/>
+<path d="M 400 440 L 340 410 Q 330 440 352 466 L 404 470 Z" fill="{{C1}}" stroke="{{INK}}" stroke-width="11" stroke-linejoin="round"/>
+<path d="M 676 470 C 790 470 800 520 770 600 C 750 650 700 660 650 650 L 656 616 C 700 620 728 608 740 580 C 760 530 740 505 672 505 Z" fill="{{C3}}" stroke="{{INK}}" stroke-width="11" stroke-linejoin="round"/>
+<circle cx="720" cy="488" r="7" fill="{{DOT}}"/>
+<circle cx="754" cy="530" r="7" fill="{{DOT}}"/>
+<circle cx="752" cy="575" r="7" fill="{{DOT}}"/>
+<circle cx="724" cy="622" r="7" fill="{{DOT}}"/>
+<path d="M 420 450 L 446 450 L 452 660 L 440 660 Z" fill="#FFFFFF" opacity="0.9"/>
+<path d="M 448 740 L 462 740 L 410 970 L 396 970 Z" fill="#FFFFFF" opacity="0.9"/>
+<circle cx="340.0" cy="400.0" r="30.0" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="334.0" cy="395.5" r="10.5" fill="{{DOT}}"/>
+<circle cx="356.6" cy="370.0" r="28.5" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="350.9" cy="365.7" r="10.0" fill="{{DOT}}"/>
+<circle cx="370.3" cy="340.0" r="26.9" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="364.9" cy="336.0" r="9.4" fill="{{DOT}}"/>
+<circle cx="378.3" cy="310.0" r="25.4" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="373.2" cy="306.2" r="8.9" fill="{{DOT}}"/>
+<circle cx="379.0" cy="280.0" r="23.8" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="374.2" cy="276.4" r="8.3" fill="{{DOT}}"/>
+<circle cx="371.6" cy="250.0" r="22.3" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="367.2" cy="246.7" r="7.8" fill="{{DOT}}"/>
+<circle cx="356.7" cy="220.0" r="20.8" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="352.6" cy="216.9" r="7.3" fill="{{DOT}}"/>
+<circle cx="335.9" cy="190.0" r="19.2" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="332.0" cy="187.1" r="6.7" fill="{{DOT}}"/>
+<circle cx="311.6" cy="160.0" r="17.7" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="308.0" cy="157.3" r="6.2" fill="{{DOT}}"/>
+<circle cx="286.7" cy="130.0" r="16.2" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="283.5" cy="127.6" r="5.7" fill="{{DOT}}"/>
+<circle cx="264.4" cy="100.0" r="14.6" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="261.5" cy="97.8" r="5.1" fill="{{DOT}}"/>
+<circle cx="247.3" cy="70.0" r="13.1" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="244.6" cy="68.0" r="4.6" fill="{{DOT}}"/>
+<circle cx="237.3" cy="40.0" r="11.5" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="235.0" cy="38.3" r="4.0" fill="{{DOT}}"/>
+<circle cx="353.6" cy="400.0" r="30.0" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="347.6" cy="395.5" r="10.5" fill="{{DOT}}"/>
+<circle cx="338.6" cy="370.0" r="28.2" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="333.0" cy="365.8" r="9.9" fill="{{DOT}}"/>
+<circle cx="315.1" cy="340.0" r="26.4" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="309.8" cy="336.0" r="9.2" fill="{{DOT}}"/>
+<circle cx="286.8" cy="310.0" r="24.5" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="281.9" cy="306.3" r="8.6" fill="{{DOT}}"/>
+<circle cx="258.8" cy="280.0" r="22.7" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="254.2" cy="276.6" r="8.0" fill="{{DOT}}"/>
+<circle cx="235.9" cy="250.0" r="20.9" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="231.7" cy="246.9" r="7.3" fill="{{DOT}}"/>
+<circle cx="221.9" cy="220.0" r="19.1" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="218.1" cy="217.1" r="6.7" fill="{{DOT}}"/>
+<circle cx="219.0" cy="190.0" r="17.3" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="215.5" cy="187.4" r="6.0" fill="{{DOT}}"/>
+<circle cx="226.8" cy="160.0" r="15.5" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="223.7" cy="157.7" r="5.4" fill="{{DOT}}"/>
+<circle cx="243.0" cy="130.0" r="13.6" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="240.2" cy="128.0" r="4.8" fill="{{DOT}}"/>
+<circle cx="263.4" cy="100.0" r="11.8" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="261.1" cy="98.2" r="4.1" fill="{{DOT}}"/>
+<circle cx="365.9" cy="400.0" r="30.0" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="359.9" cy="395.5" r="10.5" fill="{{DOT}}"/>
+<circle cx="338.2" cy="370.0" r="28.0" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="332.6" cy="365.8" r="9.8" fill="{{DOT}}"/>
+<circle cx="319.7" cy="340.0" r="26.0" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="314.5" cy="336.1" r="9.1" fill="{{DOT}}"/>
+<circle cx="314.0" cy="310.0" r="24.0" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="309.2" cy="306.4" r="8.4" fill="{{DOT}}"/>
+<circle cx="321.5" cy="280.0" r="22.0" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="317.1" cy="276.7" r="7.7" fill="{{DOT}}"/>
+<circle cx="339.4" cy="250.0" r="20.0" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="335.4" cy="247.0" r="7.0" fill="{{DOT}}"/>
+<circle cx="362.4" cy="220.0" r="18.0" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="358.8" cy="217.3" r="6.3" fill="{{DOT}}"/>
+<circle cx="383.8" cy="190.0" r="16.0" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="380.6" cy="187.6" r="5.6" fill="{{DOT}}"/>
+<circle cx="397.4" cy="160.0" r="14.0" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="394.6" cy="157.9" r="4.9" fill="{{DOT}}"/>
+<circle cx="398.9" cy="130.0" r="12.0" fill="{{C2}}" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="396.5" cy="128.2" r="4.2" fill="{{DOT}}"/>
+<g transform="translate(-25.2,1343.8) rotate(10.8)">
+<ellipse cx="0" cy="0" rx="46.0" ry="32.2" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -36.8 0 C -13.8 -16.1 13.8 16.1 36.8 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="-20.7" cy="11.3" r="4.6" fill="#FFFFFF"/>
+</g>
+<g transform="translate(68.1,1334.3) rotate(23.4)">
+<ellipse cx="0" cy="0" rx="46.0" ry="32.2" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -36.8 0 C -13.8 -16.1 13.8 16.1 36.8 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="-20.7" cy="11.3" r="4.6" fill="#FFFFFF"/>
+</g>
+<g transform="translate(161.7,1340.2) rotate(0.4)">
+<ellipse cx="0" cy="0" rx="46.0" ry="32.2" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -36.8 0 C -13.8 -16.1 13.8 16.1 36.8 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="-20.7" cy="11.3" r="4.6" fill="#FFFFFF"/>
+</g>
+<g transform="translate(233.7,1330.1) rotate(-10.3)">
+<ellipse cx="0" cy="0" rx="46.0" ry="32.2" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -36.8 0 C -13.8 -16.1 13.8 16.1 36.8 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="-20.7" cy="11.3" r="4.6" fill="#FFFFFF"/>
+</g>
+<g transform="translate(327.8,1331.4) rotate(23.5)">
+<ellipse cx="0" cy="0" rx="46.0" ry="32.2" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -36.8 0 C -13.8 -16.1 13.8 16.1 36.8 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="-20.7" cy="11.3" r="4.6" fill="#FFFFFF"/>
+</g>
+<g transform="translate(405.0,1334.7) rotate(-36.6)">
+<ellipse cx="0" cy="0" rx="46.0" ry="32.2" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -36.8 0 C -13.8 -16.1 13.8 16.1 36.8 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="-20.7" cy="11.3" r="4.6" fill="#FFFFFF"/>
+</g>
+<g transform="translate(509.1,1344.8) rotate(30.0)">
+<ellipse cx="0" cy="0" rx="46.0" ry="32.2" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -36.8 0 C -13.8 -16.1 13.8 16.1 36.8 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="-20.7" cy="11.3" r="4.6" fill="#FFFFFF"/>
+</g>
+<g transform="translate(585.6,1330.7) rotate(-13.7)">
+<ellipse cx="0" cy="0" rx="46.0" ry="32.2" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -36.8 0 C -13.8 -16.1 13.8 16.1 36.8 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="-20.7" cy="11.3" r="4.6" fill="#FFFFFF"/>
+</g>
+<g transform="translate(668.5,1332.3) rotate(36.2)">
+<ellipse cx="0" cy="0" rx="46.0" ry="32.2" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -36.8 0 C -13.8 -16.1 13.8 16.1 36.8 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="-20.7" cy="11.3" r="4.6" fill="#FFFFFF"/>
+</g>
+<g transform="translate(751.1,1333.1) rotate(25.4)">
+<ellipse cx="0" cy="0" rx="46.0" ry="32.2" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -36.8 0 C -13.8 -16.1 13.8 16.1 36.8 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="-20.7" cy="11.3" r="4.6" fill="#FFFFFF"/>
+</g>
+<g transform="translate(831.0,1348.6) rotate(-3.7)">
+<ellipse cx="0" cy="0" rx="46.0" ry="32.2" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -36.8 0 C -13.8 -16.1 13.8 16.1 36.8 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="-20.7" cy="11.3" r="4.6" fill="#FFFFFF"/>
+</g>
+<g transform="translate(927.0,1336.9) rotate(-1.2)">
+<ellipse cx="0" cy="0" rx="46.0" ry="32.2" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -36.8 0 C -13.8 -16.1 13.8 16.1 36.8 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="-20.7" cy="11.3" r="4.6" fill="#FFFFFF"/>
+</g>
+<g transform="translate(1003.9,1330.7) rotate(29.3)">
+<ellipse cx="0" cy="0" rx="46.0" ry="32.2" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -36.8 0 C -13.8 -16.1 13.8 16.1 36.8 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="-20.7" cy="11.3" r="4.6" fill="#FFFFFF"/>
+</g>
+<g transform="translate(1090.8,1345.6) rotate(-23.3)">
+<ellipse cx="0" cy="0" rx="46.0" ry="32.2" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -36.8 0 C -13.8 -16.1 13.8 16.1 36.8 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="20.7" cy="-16.1" r="4.0" fill="{{DOT}}"/>
+<circle cx="-20.7" cy="11.3" r="4.6" fill="#FFFFFF"/>
+</g>
+<g transform="translate(66.6,1297.9) rotate(20.4)">
+<ellipse cx="0" cy="0" rx="42.0" ry="29.4" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -33.6 0 C -12.6 -14.7 12.6 14.7 33.6 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="-18.9" cy="10.3" r="4.2" fill="#FFFFFF"/>
+</g>
+<g transform="translate(142.5,1291.6) rotate(18.4)">
+<ellipse cx="0" cy="0" rx="42.0" ry="29.4" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -33.6 0 C -12.6 -14.7 12.6 14.7 33.6 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="-18.9" cy="10.3" r="4.2" fill="#FFFFFF"/>
+</g>
+<g transform="translate(207.9,1289.5) rotate(26.2)">
+<ellipse cx="0" cy="0" rx="42.0" ry="29.4" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -33.6 0 C -12.6 -14.7 12.6 14.7 33.6 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="-18.9" cy="10.3" r="4.2" fill="#FFFFFF"/>
+</g>
+<g transform="translate(290.5,1298.5) rotate(31.0)">
+<ellipse cx="0" cy="0" rx="42.0" ry="29.4" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -33.6 0 C -12.6 -14.7 12.6 14.7 33.6 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="-18.9" cy="10.3" r="4.2" fill="#FFFFFF"/>
+</g>
+<g transform="translate(376.3,1287.3) rotate(-3.9)">
+<ellipse cx="0" cy="0" rx="42.0" ry="29.4" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -33.6 0 C -12.6 -14.7 12.6 14.7 33.6 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="-18.9" cy="10.3" r="4.2" fill="#FFFFFF"/>
+</g>
+<g transform="translate(456.5,1299.9) rotate(-9.1)">
+<ellipse cx="0" cy="0" rx="42.0" ry="29.4" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -33.6 0 C -12.6 -14.7 12.6 14.7 33.6 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="-18.9" cy="10.3" r="4.2" fill="#FFFFFF"/>
+</g>
+<g transform="translate(528.6,1281.9) rotate(17.4)">
+<ellipse cx="0" cy="0" rx="42.0" ry="29.4" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -33.6 0 C -12.6 -14.7 12.6 14.7 33.6 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="-18.9" cy="10.3" r="4.2" fill="#FFFFFF"/>
+</g>
+<g transform="translate(632.6,1289.9) rotate(-0.7)">
+<ellipse cx="0" cy="0" rx="42.0" ry="29.4" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -33.6 0 C -12.6 -14.7 12.6 14.7 33.6 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="-18.9" cy="10.3" r="4.2" fill="#FFFFFF"/>
+</g>
+<g transform="translate(702.7,1295.0) rotate(-22.2)">
+<ellipse cx="0" cy="0" rx="42.0" ry="29.4" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -33.6 0 C -12.6 -14.7 12.6 14.7 33.6 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="-18.9" cy="10.3" r="4.2" fill="#FFFFFF"/>
+</g>
+<g transform="translate(784.9,1291.1) rotate(9.8)">
+<ellipse cx="0" cy="0" rx="42.0" ry="29.4" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -33.6 0 C -12.6 -14.7 12.6 14.7 33.6 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="-18.9" cy="10.3" r="4.2" fill="#FFFFFF"/>
+</g>
+<g transform="translate(855.4,1283.4) rotate(-12.1)">
+<ellipse cx="0" cy="0" rx="42.0" ry="29.4" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -33.6 0 C -12.6 -14.7 12.6 14.7 33.6 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="-18.9" cy="10.3" r="4.2" fill="#FFFFFF"/>
+</g>
+<g transform="translate(954.1,1286.9) rotate(7.8)">
+<ellipse cx="0" cy="0" rx="42.0" ry="29.4" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -33.6 0 C -12.6 -14.7 12.6 14.7 33.6 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="-18.9" cy="10.3" r="4.2" fill="#FFFFFF"/>
+</g>
+<g transform="translate(1020.0,1282.1) rotate(-34.7)">
+<ellipse cx="0" cy="0" rx="42.0" ry="29.4" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -33.6 0 C -12.6 -14.7 12.6 14.7 33.6 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="18.9" cy="-14.7" r="3.7" fill="{{DOT}}"/>
+<circle cx="-18.9" cy="10.3" r="4.2" fill="#FFFFFF"/>
+</g>
+<g transform="translate(138.4,1243.5) rotate(-10.0)">
+<ellipse cx="0" cy="0" rx="38.0" ry="26.6" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -30.4 0 C -11.4 -13.3 11.4 13.3 30.4 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-17.1" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="17.1" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="-17.1" cy="9.3" r="3.8" fill="#FFFFFF"/>
+</g>
+<g transform="translate(217.1,1241.5) rotate(31.9)">
+<ellipse cx="0" cy="0" rx="38.0" ry="26.6" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -30.4 0 C -11.4 -13.3 11.4 13.3 30.4 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-17.1" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="17.1" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="-17.1" cy="9.3" r="3.8" fill="#FFFFFF"/>
+</g>
+<g transform="translate(305.5,1236.1) rotate(39.1)">
+<ellipse cx="0" cy="0" rx="38.0" ry="26.6" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -30.4 0 C -11.4 -13.3 11.4 13.3 30.4 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-17.1" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="17.1" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="-17.1" cy="9.3" r="3.8" fill="#FFFFFF"/>
+</g>
+<g transform="translate(387.4,1239.8) rotate(30.7)">
+<ellipse cx="0" cy="0" rx="38.0" ry="26.6" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -30.4 0 C -11.4 -13.3 11.4 13.3 30.4 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-17.1" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="17.1" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="-17.1" cy="9.3" r="3.8" fill="#FFFFFF"/>
+</g>
+<g transform="translate(458.0,1235.5) rotate(-20.2)">
+<ellipse cx="0" cy="0" rx="38.0" ry="26.6" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -30.4 0 C -11.4 -13.3 11.4 13.3 30.4 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-17.1" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="17.1" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="-17.1" cy="9.3" r="3.8" fill="#FFFFFF"/>
+</g>
+<g transform="translate(549.0,1231.2) rotate(-34.5)">
+<ellipse cx="0" cy="0" rx="38.0" ry="26.6" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -30.4 0 C -11.4 -13.3 11.4 13.3 30.4 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-17.1" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="17.1" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="-17.1" cy="9.3" r="3.8" fill="#FFFFFF"/>
+</g>
+<g transform="translate(629.1,1243.5) rotate(-1.3)">
+<ellipse cx="0" cy="0" rx="38.0" ry="26.6" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -30.4 0 C -11.4 -13.3 11.4 13.3 30.4 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-17.1" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="17.1" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="-17.1" cy="9.3" r="3.8" fill="#FFFFFF"/>
+</g>
+<g transform="translate(711.7,1229.0) rotate(-19.4)">
+<ellipse cx="0" cy="0" rx="38.0" ry="26.6" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -30.4 0 C -11.4 -13.3 11.4 13.3 30.4 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-17.1" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="17.1" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="-17.1" cy="9.3" r="3.8" fill="#FFFFFF"/>
+</g>
+<g transform="translate(780.4,1236.4) rotate(-26.3)">
+<ellipse cx="0" cy="0" rx="38.0" ry="26.6" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -30.4 0 C -11.4 -13.3 11.4 13.3 30.4 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-17.1" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="17.1" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="-17.1" cy="9.3" r="3.8" fill="#FFFFFF"/>
+</g>
+<g transform="translate(856.9,1234.8) rotate(31.9)">
+<ellipse cx="0" cy="0" rx="38.0" ry="26.6" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -30.4 0 C -11.4 -13.3 11.4 13.3 30.4 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-17.1" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="17.1" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="-17.1" cy="9.3" r="3.8" fill="#FFFFFF"/>
+</g>
+<g transform="translate(960.7,1242.9) rotate(-1.7)">
+<ellipse cx="0" cy="0" rx="38.0" ry="26.6" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -30.4 0 C -11.4 -13.3 11.4 13.3 30.4 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-17.1" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="17.1" cy="-13.3" r="3.3" fill="{{DOT}}"/>
+<circle cx="-17.1" cy="9.3" r="3.8" fill="#FFFFFF"/>
+</g>
+<g transform="translate(205.9,1199.2) rotate(2.1)">
+<ellipse cx="0" cy="0" rx="34.0" ry="23.8" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -27.2 0 C -10.2 -11.9 10.2 11.9 27.2 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-15.3" cy="-11.9" r="3.0" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-11.9" r="3.0" fill="{{DOT}}"/>
+<circle cx="15.3" cy="-11.9" r="3.0" fill="{{DOT}}"/>
+<circle cx="-15.3" cy="8.3" r="3.4" fill="#FFFFFF"/>
+</g>
+<g transform="translate(311.1,1180.6) rotate(-23.0)">
+<ellipse cx="0" cy="0" rx="34.0" ry="23.8" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -27.2 0 C -10.2 -11.9 10.2 11.9 27.2 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-15.3" cy="-11.9" r="3.0" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-11.9" r="3.0" fill="{{DOT}}"/>
+<circle cx="15.3" cy="-11.9" r="3.0" fill="{{DOT}}"/>
+<circle cx="-15.3" cy="8.3" r="3.4" fill="#FFFFFF"/>
+</g>
+<g transform="translate(407.5,1195.9) rotate(30.5)">
+<ellipse cx="0" cy="0" rx="34.0" ry="23.8" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -27.2 0 C -10.2 -11.9 10.2 11.9 27.2 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-15.3" cy="-11.9" r="3.0" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-11.9" r="3.0" fill="{{DOT}}"/>
+<circle cx="15.3" cy="-11.9" r="3.0" fill="{{DOT}}"/>
+<circle cx="-15.3" cy="8.3" r="3.4" fill="#FFFFFF"/>
+</g>
+<g transform="translate(495.6,1188.5) rotate(6.5)">
+<ellipse cx="0" cy="0" rx="34.0" ry="23.8" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -27.2 0 C -10.2 -11.9 10.2 11.9 27.2 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-15.3" cy="-11.9" r="3.0" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-11.9" r="3.0" fill="{{DOT}}"/>
+<circle cx="15.3" cy="-11.9" r="3.0" fill="{{DOT}}"/>
+<circle cx="-15.3" cy="8.3" r="3.4" fill="#FFFFFF"/>
+</g>
+<g transform="translate(595.3,1186.2) rotate(2.7)">
+<ellipse cx="0" cy="0" rx="34.0" ry="23.8" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -27.2 0 C -10.2 -11.9 10.2 11.9 27.2 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-15.3" cy="-11.9" r="3.0" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-11.9" r="3.0" fill="{{DOT}}"/>
+<circle cx="15.3" cy="-11.9" r="3.0" fill="{{DOT}}"/>
+<circle cx="-15.3" cy="8.3" r="3.4" fill="#FFFFFF"/>
+</g>
+<g transform="translate(675.2,1195.4) rotate(-39.2)">
+<ellipse cx="0" cy="0" rx="34.0" ry="23.8" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -27.2 0 C -10.2 -11.9 10.2 11.9 27.2 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-15.3" cy="-11.9" r="3.0" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-11.9" r="3.0" fill="{{DOT}}"/>
+<circle cx="15.3" cy="-11.9" r="3.0" fill="{{DOT}}"/>
+<circle cx="-15.3" cy="8.3" r="3.4" fill="#FFFFFF"/>
+</g>
+<g transform="translate(778.8,1199.1) rotate(-38.1)">
+<ellipse cx="0" cy="0" rx="34.0" ry="23.8" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -27.2 0 C -10.2 -11.9 10.2 11.9 27.2 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-15.3" cy="-11.9" r="3.0" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-11.9" r="3.0" fill="{{DOT}}"/>
+<circle cx="15.3" cy="-11.9" r="3.0" fill="{{DOT}}"/>
+<circle cx="-15.3" cy="8.3" r="3.4" fill="#FFFFFF"/>
+</g>
+<g transform="translate(870.4,1192.9) rotate(28.1)">
+<ellipse cx="0" cy="0" rx="34.0" ry="23.8" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -27.2 0 C -10.2 -11.9 10.2 11.9 27.2 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-15.3" cy="-11.9" r="3.0" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-11.9" r="3.0" fill="{{DOT}}"/>
+<circle cx="15.3" cy="-11.9" r="3.0" fill="{{DOT}}"/>
+<circle cx="-15.3" cy="8.3" r="3.4" fill="#FFFFFF"/>
+</g>
+<g transform="translate(302.0,1140.1) rotate(-7.6)">
+<ellipse cx="0" cy="0" rx="30.0" ry="21.0" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -24.0 0 C -9.0 -10.5 9.0 10.5 24.0 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-13.5" cy="-10.5" r="2.6" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-10.5" r="2.6" fill="{{DOT}}"/>
+<circle cx="13.5" cy="-10.5" r="2.6" fill="{{DOT}}"/>
+<circle cx="-13.5" cy="7.3" r="3.0" fill="#FFFFFF"/>
+</g>
+<g transform="translate(431.0,1153.1) rotate(-29.3)">
+<ellipse cx="0" cy="0" rx="30.0" ry="21.0" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -24.0 0 C -9.0 -10.5 9.0 10.5 24.0 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-13.5" cy="-10.5" r="2.6" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-10.5" r="2.6" fill="{{DOT}}"/>
+<circle cx="13.5" cy="-10.5" r="2.6" fill="{{DOT}}"/>
+<circle cx="-13.5" cy="7.3" r="3.0" fill="#FFFFFF"/>
+</g>
+<g transform="translate(530.3,1136.9) rotate(-38.0)">
+<ellipse cx="0" cy="0" rx="30.0" ry="21.0" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -24.0 0 C -9.0 -10.5 9.0 10.5 24.0 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-13.5" cy="-10.5" r="2.6" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-10.5" r="2.6" fill="{{DOT}}"/>
+<circle cx="13.5" cy="-10.5" r="2.6" fill="{{DOT}}"/>
+<circle cx="-13.5" cy="7.3" r="3.0" fill="#FFFFFF"/>
+</g>
+<g transform="translate(658.7,1137.8) rotate(29.4)">
+<ellipse cx="0" cy="0" rx="30.0" ry="21.0" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -24.0 0 C -9.0 -10.5 9.0 10.5 24.0 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-13.5" cy="-10.5" r="2.6" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-10.5" r="2.6" fill="{{DOT}}"/>
+<circle cx="13.5" cy="-10.5" r="2.6" fill="{{DOT}}"/>
+<circle cx="-13.5" cy="7.3" r="3.0" fill="#FFFFFF"/>
+</g>
+<g transform="translate(783.7,1137.5) rotate(3.1)">
+<ellipse cx="0" cy="0" rx="30.0" ry="21.0" fill="{{C3}}" stroke="{{INK}}" stroke-width="6"/>
+<path d="M -24.0 0 C -9.0 -10.5 9.0 10.5 24.0 0" fill="none" stroke="{{INK}}" stroke-width="5"/>
+<circle cx="-13.5" cy="-10.5" r="2.6" fill="{{DOT}}"/>
+<circle cx="0.0" cy="-10.5" r="2.6" fill="{{DOT}}"/>
+<circle cx="13.5" cy="-10.5" r="2.6" fill="{{DOT}}"/>
+<circle cx="-13.5" cy="7.3" r="3.0" fill="#FFFFFF"/>
+</g>
+</svg>
