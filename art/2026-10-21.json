@@ -2,9 +2,34 @@
   "subject": "caffettiera moka sul fornello acceso che sbuffa vapore dal beccuccio, davanti a un grande alone tondo, mentre chicchi di caffè si accumulano in una montagnola sul fondo",
   "technique": "bande orizzontali di pois alternati grandi e piccoli che scorrono oltre i bordi, alone circolare a colori invertiti con anelli concentrici di pois che rimpiccioliscono verso il centro e ombra piena fuori registro, camere della moka coperte da colonne di pois che crescono verso la base, vapore costruito per accumulo di cerchi contornati in catene a S con nucleo a pois, corona di fiammelle a goccia, chicchi di caffè ammucchiati in file decrescenti con pois sul dorso e contorni neri spessi",
   "palettes": [
-    {"BG": "#19B7C9", "DOT": "#FFE14D", "C1": "#E3262E", "C2": "#FFF5E1", "C3": "#6B2E14", "INK": "#0A0A14"},
-    {"BG": "#12052E", "DOT": "#00F0FF", "C1": "#FF2EC4", "C2": "#B8FF3C", "C3": "#FF8A00", "INK": "#000000"},
-    {"BG": "#FF7B3A", "DOT": "#5A0F3C", "C1": "#2E3A87", "C2": "#FFD6A5", "C3": "#F2C230", "INK": "#1A0A10"}
+    {
+      "BG": "#19B7C9",
+      "DOT": "#FFE14D",
+      "C1": "#E3262E",
+      "C2": "#FFF5E1",
+      "C3": "#6B2E14",
+      "INK": "#0A0A14"
+    },
+    {
+      "BG": "#12052E",
+      "DOT": "#00F0FF",
+      "C1": "#FF2EC4",
+      "C2": "#B8FF3C",
+      "C3": "#FF8A00",
+      "INK": "#000000"
+    },
+    {
+      "BG": "#FF7B3A",
+      "DOT": "#5A0F3C",
+      "C1": "#2E3A87",
+      "C2": "#FFD6A5",
+      "C3": "#F2C230",
+      "INK": "#1A0A10"
+    }
   ],
-  "caption": "Sul fornello la moka si gonfia come una piccola torre e comincia a borbottare. Dal beccuccio il vapore sale in catene di bolle tonde, una sopra l'altra, sempre più piccole, finché si perde tra i pois del cielo. Dietro di lei un grande sole rovesciato è fatto di anelli di punti che si stringono verso il centro, come un vortice che invita a guardare dentro. Ai suoi piedi i chicchi di caffè si ammucchiano a file, uno addosso all'altro, e continuano oltre i bordi come se la dispensa non finisse mai.\n\nTre visioni dello stesso risveglio: mattina turchese con la moka rossa, notte neon tra fucsia e ciano, tramonto arancio con la moka blu."
+  "caption": "Sul fornello la moka si gonfia come una piccola torre e comincia a borbottare. Dal beccuccio il vapore sale in catene di bolle tonde, una sopra l'altra, sempre più piccole, finché si perde tra i pois del cielo. Dietro di lei un grande sole rovesciato è fatto di anelli di punti che si stringono verso il centro, come un vortice che invita a guardare dentro. Ai suoi piedi i chicchi di caffè si ammucchiano a file, uno addosso all'altro, e continuano oltre i bordi come se la dispensa non finisse mai.\n\nTre visioni dello stesso risveglio: mattina turchese con la moka rossa, notte neon tra fucsia e ciano, tramonto arancio con la moka blu.",
+  "published": {
+    "at": "2026-10-21T08:59:59+02:00",
+    "make_execution": "84caae81a7e44b5884783c3e59a86dd7"
+  }
 }
