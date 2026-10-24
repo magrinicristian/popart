@@ -4,9 +4,35 @@
   "rubric": "In viaggio",
   "style": "classica",
   "palettes": [
-    {"BG": "#FFF3C9", "DOT": "#3FA9F5", "C1": "#FFC21A", "C2": "#E8322B", "C3": "#2BC4A8", "INK": "#141018"},
-    {"BG": "#120A3A", "DOT": "#2D2BFF", "C1": "#FF2E9A", "C2": "#3DF2FF", "C3": "#C6FF3D", "INK": "#04010F"},
-    {"BG": "#FF8A4C", "DOT": "#7A1F5C", "C1": "#FFE14D", "C2": "#2A2F8F", "C3": "#FF4F6D", "INK": "#200A18"}
+    {
+      "BG": "#FFF3C9",
+      "DOT": "#3FA9F5",
+      "C1": "#FFC21A",
+      "C2": "#E8322B",
+      "C3": "#2BC4A8",
+      "INK": "#141018"
+    },
+    {
+      "BG": "#120A3A",
+      "DOT": "#2D2BFF",
+      "C1": "#FF2E9A",
+      "C2": "#3DF2FF",
+      "C3": "#C6FF3D",
+      "INK": "#04010F"
+    },
+    {
+      "BG": "#FF8A4C",
+      "DOT": "#7A1F5C",
+      "C1": "#FFE14D",
+      "C2": "#2A2F8F",
+      "C3": "#FF4F6D",
+      "INK": "#200A18"
+    }
   ],
-  "caption": "Il vento si alza all'improvviso e una piccola barca a vela prende il largo con lo scafo rosso e gli oblò accesi. La vela bianca si gonfia come un respiro, il fiocco la segue e la bandierina in cima all'albero sventola verso l'orizzonte. Dietro, un sole enorme a strisce scende nel mare mentre i raggi esplodono nel cielo. Le onde si arricciano in file di schiuma e gli spruzzi saltano come gocce di luce.\n\nTre visioni dello stesso viaggio: mattina limpida in mare aperto, traversata notturna al neon, rientro al tramonto color albicocca.\n\n#popart #popartitaliana #illustrazione #barcaavela #inviaggio"
+  "caption": "Il vento si alza all'improvviso e una piccola barca a vela prende il largo con lo scafo rosso e gli oblò accesi. La vela bianca si gonfia come un respiro, il fiocco la segue e la bandierina in cima all'albero sventola verso l'orizzonte. Dietro, un sole enorme a strisce scende nel mare mentre i raggi esplodono nel cielo. Le onde si arricciano in file di schiuma e gli spruzzi saltano come gocce di luce.\n\nTre visioni dello stesso viaggio: mattina limpida in mare aperto, traversata notturna al neon, rientro al tramonto color albicocca.\n\n#popart #popartitaliana #illustrazione #barcaavela #inviaggio",
+  "published": {
+    "at": "2026-10-24T18:34:16+02:00",
+    "reel_execution": "764d4fb549a44e6ba55121987b11c92d",
+    "make_execution": "61f6491f901b47198023f2436123e425"
+  }
 }
