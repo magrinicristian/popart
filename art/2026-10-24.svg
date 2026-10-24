@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<defs>
+<pattern id="bd" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="13" cy="13" r="6.5" fill="{{DOT}}"/></pattern>
+<pattern id="bdw" width="22" height="22" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><circle cx="11" cy="11" r="5" fill="#FFFFFF"/></pattern>
+<pattern id="bdi" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="10" cy="10" r="4" fill="{{INK}}" fill-opacity="0.35"/></pattern>
+<pattern id="hl" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)"><rect width="6" height="16" fill="{{INK}}" fill-opacity="0.45"/></pattern>
+<clipPath id="sun"><circle cx="540" cy="500" r="300"/></clipPath>
+<clipPath id="sky"><rect x="0" y="0" width="1080" height="900"/></clipPath>
+</defs>
+<rect width="1080" height="1350" fill="{{BG}}"/>
+<g clip-path="url(#sky)">
+<path d="M540,500 L2140,500 L2044,1047 Z" fill="url(#bd)"/>
+<path d="M540,500 L1766,1528 L1340,1886 Z" fill="url(#bd)"/>
+<path d="M540,500 L818,2076 L262,2076 Z" fill="url(#bd)"/>
+<path d="M540,500 L-260,1886 L-686,1528 Z" fill="url(#bd)"/>
+<path d="M540,500 L-964,1047 L-1060,500 Z" fill="url(#bd)"/>
+<path d="M540,500 L-964,-47 L-686,-528 Z" fill="url(#bd)"/>
+<path d="M540,500 L-260,-886 L262,-1076 Z" fill="url(#bd)"/>
+<path d="M540,500 L818,-1076 L1340,-886 Z" fill="url(#bd)"/>
+<path d="M540,500 L1766,-528 L2044,-47 Z" fill="url(#bd)"/>
+</g>
+<circle cx="566" cy="526" r="300" fill="{{INK}}"/>
+<circle cx="540" cy="500" r="300" fill="{{C1}}"/>
+<g clip-path="url(#sun)">
+<rect x="200" y="560" width="700" height="14" fill="{{BG}}"/>
+<rect x="200" y="608" width="700" height="22" fill="{{BG}}"/>
+<rect x="200" y="664" width="700" height="30" fill="{{BG}}"/>
+<rect x="200" y="728" width="700" height="38" fill="{{BG}}"/>
+<rect x="200" y="800" width="700" height="46" fill="{{BG}}"/>
+<path d="M240,500 A300,300 0 0 1 540,200 L540,240 A260,260 0 0 0 280,500 Z" fill="#FFFFFF" fill-opacity="0.55"/>
+</g>
+<circle cx="540" cy="500" r="300" fill="none" stroke="{{INK}}" stroke-width="14"/>
+<path d="M180,158 Q194,195 232,210 Q194,224 180,262 Q165,224 128,210 Q165,195 180,158 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="7" stroke-linejoin="round"/>
+<path d="M905,126 Q917,157 949,170 Q917,182 905,214 Q892,182 861,170 Q892,157 905,126 Z" fill="{{C3}}" stroke="{{INK}}" stroke-width="7" stroke-linejoin="round"/>
+<path d="M930,666 Q939,690 964,700 Q939,709 930,734 Q920,709 896,700 Q920,690 930,666 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="7" stroke-linejoin="round"/>
+<path d="M150,602 Q160,629 188,640 Q160,650 150,678 Q139,650 112,640 Q139,629 150,602 Z" fill="{{C3}}" stroke="{{INK}}" stroke-width="7" stroke-linejoin="round"/>
+<path d="M820,308 Q826,323 842,330 Q826,336 820,352 Q813,336 798,330 Q813,323 820,308 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="7" stroke-linejoin="round"/>
+<path d="M-60,905 Q0,850 60,905 Q120,850 180,905 Q240,850 300,905 Q360,850 420,905 Q480,850 540,905 Q600,850 660,905 Q720,850 780,905 Q840,850 900,905 Q960,850 1020,905 Q1080,850 1140,905 Q1200,850 1260,905 L1160,1400 L-80,1400 Z" fill="{{DOT}}" stroke="{{INK}}" stroke-width="12" stroke-linejoin="round"/>
+<path d="M-60,905 Q0,850 60,905 Q120,850 180,905 Q240,850 300,905 Q360,850 420,905 Q480,850 540,905 Q600,850 660,905 Q720,850 780,905 Q840,850 900,905 Q960,850 1020,905 Q1080,850 1140,905 Q1200,850 1260,905 L1160,1400 L-80,1400 Z" fill="url(#bdw)"/>
+<g transform="translate(24,22)" fill="{{INK}}"><path d="M285,880 L795,880 Q770,960 700,985 L380,985 Q310,960 285,880 Z"/><path d="M530,300 Q470,560 330,850 L530,850 Z"/><path d="M556,330 L556,850 L770,850 Q700,580 556,330 Z"/></g>
+<rect x="532" y="250" width="22" height="640" fill="{{INK}}"/>
+<path d="M554,256 L650,282 L554,310 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="9" stroke-linejoin="round"/>
+<path d="M530,300 Q470,560 330,850 L530,850 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="13" stroke-linejoin="round"/>
+<path d="M530,300 Q500,560 440,850 L530,850 Z" fill="url(#hl)"/>
+<path d="M455,560 Q490,565 530,560" fill="none" stroke="{{INK}}" stroke-width="7"/>
+<path d="M395,720 Q460,728 530,720" fill="none" stroke="{{INK}}" stroke-width="7"/>
+<path d="M556,330 L556,850 L770,850 Q700,580 556,330 Z" fill="{{C3}}" stroke="{{INK}}" stroke-width="13" stroke-linejoin="round"/>
+<path d="M556,560 L556,850 L770,850 Q735,700 680,580 Z" fill="url(#bdi)"/>
+<path d="M285,880 L795,880 Q770,960 700,985 L380,985 Q310,960 285,880 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="14" stroke-linejoin="round"/>
+<path d="M300,905 L782,905" stroke="#FFFFFF" stroke-width="14"/>
+<path d="M600,985 L700,985 Q770,960 788,905 L640,905 Z" fill="url(#hl)"/>
+<circle cx="420" cy="945" r="16" fill="{{C1}}" stroke="{{INK}}" stroke-width="7"/>
+<circle cx="500" cy="945" r="16" fill="{{C1}}" stroke="{{INK}}" stroke-width="7"/>
+<circle cx="580" cy="945" r="16" fill="{{C1}}" stroke="{{INK}}" stroke-width="7"/>
+<circle cx="660" cy="945" r="16" fill="{{C1}}" stroke="{{INK}}" stroke-width="7"/>
+<path d="M-100,1010 Q-30,960 40,1010 Q110,960 180,1010 Q250,960 320,1010 Q390,960 460,1010 Q530,960 600,1010 Q670,960 740,1010 Q810,960 880,1010 Q950,960 1020,1010 Q1090,960 1160,1010 L1160,1400 L-80,1400 Z" fill="{{BG}}" stroke="{{INK}}" stroke-width="12" stroke-linejoin="round"/>
+<path d="M-100,1010 Q-30,960 40,1010 Q110,960 180,1010 Q250,960 320,1010 Q390,960 460,1010 Q530,960 600,1010 Q670,960 740,1010 Q810,960 880,1010 Q950,960 1020,1010 Q1090,960 1160,1010 L1160,1400 L-80,1400 Z" fill="url(#bd)"/>
+<path d="M-60,1010 Q-30,1100 40,1060 Q110,1100 180,1060 Q250,1100 320,1060 Q390,1100 460,1060 Q530,1100 600,1060 Q670,1100 740,1060 Q810,1100 880,1060 Q950,1100 1020,1060 Q1090,1100 1160,1060 " fill="none" stroke="{{INK}}" stroke-width="7"/>
+<path d="M-80,1120 Q0,1065 80,1120 Q160,1065 240,1120 Q320,1065 400,1120 Q480,1065 560,1120 Q640,1065 720,1120 Q800,1065 880,1120 Q960,1065 1040,1120 Q1120,1065 1200,1120 L1160,1400 L-80,1400 Z" fill="{{C3}}" stroke="{{INK}}" stroke-width="12" stroke-linejoin="round"/>
+<path d="M-80,1120 Q0,1065 80,1120 Q160,1065 240,1120 Q320,1065 400,1120 Q480,1065 560,1120 Q640,1065 720,1120 Q800,1065 880,1120 Q960,1065 1040,1120 Q1120,1065 1200,1120 L1160,1400 L-80,1400 Z" fill="url(#bdw)"/>
+<path d="M-130,1235 Q-62,1185 5,1235 Q72,1185 140,1235 Q207,1185 275,1235 Q342,1185 410,1235 Q477,1185 545,1235 Q612,1185 680,1235 Q747,1185 815,1235 Q882,1185 950,1235 Q1017,1185 1085,1235 Q1152,1185 1220,1235 L1160,1400 L-80,1400 Z" fill="{{DOT}}" stroke="{{INK}}" stroke-width="12" stroke-linejoin="round"/>
+<circle cx="150" cy="1090" r="16" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="185" cy="1072" r="9" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="860" cy="1085" r="16" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="895" cy="1068" r="9" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="330" cy="1205" r="15" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="362" cy="1190" r="8" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="740" cy="1200" r="15" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="772" cy="1185" r="8" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="540" cy="1310" r="16" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6"/>
+<circle cx="575" cy="1295" r="9" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6"/>
+<path transform="translate(250,850) rotate(-30) scale(1.00)" d="M0,-40 Q26,0 22,14 A22,22 0 0 1 -22,14 Q-26,0 0,-40 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="7.0" stroke-linejoin="round"/>
+<path transform="translate(205,800) rotate(-40) scale(0.70)" d="M0,-40 Q26,0 22,14 A22,22 0 0 1 -22,14 Q-26,0 0,-40 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="10.0" stroke-linejoin="round"/>
+<path transform="translate(830,850) rotate(30) scale(1.00)" d="M0,-40 Q26,0 22,14 A22,22 0 0 1 -22,14 Q-26,0 0,-40 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="7.0" stroke-linejoin="round"/>
+<path transform="translate(880,795) rotate(40) scale(0.70)" d="M0,-40 Q26,0 22,14 A22,22 0 0 1 -22,14 Q-26,0 0,-40 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="10.0" stroke-linejoin="round"/>
+<path transform="translate(270,770) rotate(-20) scale(0.50)" d="M0,-40 Q26,0 22,14 A22,22 0 0 1 -22,14 Q-26,0 0,-40 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="14.0" stroke-linejoin="round"/>
+</svg>
