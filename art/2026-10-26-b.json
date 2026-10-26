@@ -4,9 +4,35 @@
   "rubric": "forme non reali a pois",
   "style": "pois",
   "palettes": [
-    {"BG": "#FFE14D", "DOT": "#FF3D7F", "C1": "#E8173A", "C2": "#1E5BFF", "C3": "#00B37A", "INK": "#111111"},
-    {"BG": "#140A33", "DOT": "#00E5FF", "C1": "#FF2BD6", "C2": "#7CFF3A", "C3": "#FFB800", "INK": "#000000"},
-    {"BG": "#FF7A2F", "DOT": "#6B1FB1", "C1": "#FFD23F", "C2": "#D7004F", "C3": "#2EC4D6", "INK": "#2A0A12"}
+    {
+      "BG": "#FFE14D",
+      "DOT": "#FF3D7F",
+      "C1": "#E8173A",
+      "C2": "#1E5BFF",
+      "C3": "#00B37A",
+      "INK": "#111111"
+    },
+    {
+      "BG": "#140A33",
+      "DOT": "#00E5FF",
+      "C1": "#FF2BD6",
+      "C2": "#7CFF3A",
+      "C3": "#FFB800",
+      "INK": "#000000"
+    },
+    {
+      "BG": "#FF7A2F",
+      "DOT": "#6B1FB1",
+      "C1": "#FFD23F",
+      "C2": "#D7004F",
+      "C3": "#2EC4D6",
+      "INK": "#2A0A12"
+    }
   ],
-  "caption": "Cinque forme che non esistono si fidano l'una dell'altra. Un ciottolo regge un fagiolo, il fagiolo regge un anello, l'anello regge una goccia capovolta e sulla sua punta una sfera trattiene il respiro. In cima un piccolo seme fluttua dentro anelli di puntini, mentre una scia di bolle si moltiplica e gira intorno alla torre. Lo sfondo si gonfia come visto attraverso una lente.\n\nTre visioni dello stesso equilibrio: mezzogiorno giallo, notte al neon e tramonto arancio.\n\n#popart #popartitaliana #illustrazione #pois #equilibrio"
+  "caption": "Cinque forme che non esistono si fidano l'una dell'altra. Un ciottolo regge un fagiolo, il fagiolo regge un anello, l'anello regge una goccia capovolta e sulla sua punta una sfera trattiene il respiro. In cima un piccolo seme fluttua dentro anelli di puntini, mentre una scia di bolle si moltiplica e gira intorno alla torre. Lo sfondo si gonfia come visto attraverso una lente.\n\nTre visioni dello stesso equilibrio: mezzogiorno giallo, notte al neon e tramonto arancio.\n\n#popart #popartitaliana #illustrazione #pois #equilibrio",
+  "published": {
+    "at": "2026-10-26T20:16:56+01:00",
+    "reel_execution": "a13c2cadb8b14398871e77d79f286316",
+    "make_execution": "b5f7d928c8454a65b59ecfb75bd25de9"
+  }
 }
