@@ -4,9 +4,35 @@
   "rubric": "In cucina",
   "style": "classica",
   "palettes": [
-    {"BG": "#FFF3D6", "DOT": "#FF9EC4", "C1": "#FF3B7F", "C2": "#FFD21F", "C3": "#22B8E6", "INK": "#16101C"},
-    {"BG": "#120A2E", "DOT": "#3A2A9E", "C1": "#FF2FD0", "C2": "#22F0D5", "C3": "#D6FF33", "INK": "#05020F"},
-    {"BG": "#FF8A4C", "DOT": "#C2335F", "C1": "#7A2FA0", "C2": "#FFE45C", "C3": "#FF4E6A", "INK": "#2A0A1C"}
+    {
+      "BG": "#FFF3D6",
+      "DOT": "#FF9EC4",
+      "C1": "#FF3B7F",
+      "C2": "#FFD21F",
+      "C3": "#22B8E6",
+      "INK": "#16101C"
+    },
+    {
+      "BG": "#120A2E",
+      "DOT": "#3A2A9E",
+      "C1": "#FF2FD0",
+      "C2": "#22F0D5",
+      "C3": "#D6FF33",
+      "INK": "#05020F"
+    },
+    {
+      "BG": "#FF8A4C",
+      "DOT": "#C2335F",
+      "C1": "#7A2FA0",
+      "C2": "#FFE45C",
+      "C3": "#FF4E6A",
+      "INK": "#2A0A1C"
+    }
   ],
-  "caption": "In questa cucina il dessert non sta mai fermo: un budino a forma di nuvola tremola su un'alzatina, con tre gobbe morbide e lucide. La glassa scivola dalle cime e cola in gocce spesse fino al piatto. Sopra di lui fluttuano tre ciliegie-pianeta, ognuna con il suo anello e una fogliolina al vento. Dietro, un sole di zucchero si apre in raggi e la tenda a strisce ondeggia.\n\nTre visioni dello stesso dolce: merenda color crema, pasticceria notturna al neon, tramonto arancio e viola.\n\n#popart #popartitaliana #illustrazione #budino #incucina"
+  "caption": "In questa cucina il dessert non sta mai fermo: un budino a forma di nuvola tremola su un'alzatina, con tre gobbe morbide e lucide. La glassa scivola dalle cime e cola in gocce spesse fino al piatto. Sopra di lui fluttuano tre ciliegie-pianeta, ognuna con il suo anello e una fogliolina al vento. Dietro, un sole di zucchero si apre in raggi e la tenda a strisce ondeggia.\n\nTre visioni dello stesso dolce: merenda color crema, pasticceria notturna al neon, tramonto arancio e viola.\n\n#popart #popartitaliana #illustrazione #budino #incucina",
+  "published": {
+    "at": "2026-10-29T18:35:02+01:00",
+    "reel_execution": "5124f9d5b23945e7a4de53e3f5b588e4",
+    "make_execution": "80db729075bc45c7bc654b012e9b2f20"
+  }
 }
