@@ -4,9 +4,35 @@
   "rubric": "Stagione e ricorrenze — Halloween (venerdì, oggetti non reali e vintage)",
   "style": "pois",
   "palettes": [
-    {"BG": "#FFF1D0", "DOT": "#FF7A00", "C1": "#FFE14D", "C2": "#7B2FBE", "C3": "#A6E83C", "INK": "#1A0B22"},
-    {"BG": "#0E0420", "DOT": "#8A2BE2", "C1": "#39FF14", "C2": "#FF2D95", "C3": "#FF9A1F", "INK": "#000000"},
-    {"BG": "#FF6B2C", "DOT": "#B3261E", "C1": "#FFF06A", "C2": "#2B0B3F", "C3": "#FFC2E2", "INK": "#22061A"}
+    {
+      "BG": "#FFF1D0",
+      "DOT": "#FF7A00",
+      "C1": "#FFE14D",
+      "C2": "#7B2FBE",
+      "C3": "#A6E83C",
+      "INK": "#1A0B22"
+    },
+    {
+      "BG": "#0E0420",
+      "DOT": "#8A2BE2",
+      "C1": "#39FF14",
+      "C2": "#FF2D95",
+      "C3": "#FF9A1F",
+      "INK": "#000000"
+    },
+    {
+      "BG": "#FF6B2C",
+      "DOT": "#B3261E",
+      "C1": "#FFF06A",
+      "C2": "#2B0B3F",
+      "C3": "#FFC2E2",
+      "INK": "#22061A"
+    }
   ],
-  "caption": "Alla vigilia di Halloween si accende una lanterna che non è mai uscita da nessuna soffitta. Pende da una lunga catena davanti a una luna enorme, e dentro il vetro a goccia una candela gocciola cera mentre la sua fiamma apre un occhio solo e veglia sulla notte. Intorno, una ragnatela fatta soltanto di pois si allarga senza fine oltre i bordi, e quattro pipistrelli punteggiati volteggiano sopra colline di pois giganti.\n\nTre visioni della stessa notte di Halloween: crepuscolo color crema, mezzanotte al neon, luna di brace al tramonto.\n\n#popart #popartitaliana #illustrazione #halloween #lanterna"
+  "caption": "Alla vigilia di Halloween si accende una lanterna che non è mai uscita da nessuna soffitta. Pende da una lunga catena davanti a una luna enorme, e dentro il vetro a goccia una candela gocciola cera mentre la sua fiamma apre un occhio solo e veglia sulla notte. Intorno, una ragnatela fatta soltanto di pois si allarga senza fine oltre i bordi, e quattro pipistrelli punteggiati volteggiano sopra colline di pois giganti.\n\nTre visioni della stessa notte di Halloween: crepuscolo color crema, mezzanotte al neon, luna di brace al tramonto.\n\n#popart #popartitaliana #illustrazione #halloween #lanterna",
+  "published": {
+    "at": "2026-10-30T18:30:44+01:00",
+    "reel_execution": "d86b16bf0e8e4efdadc58b1b6cb625ad",
+    "make_execution": "fe30d1aad8904db3a27e2bc2031ccb1e"
+  }
 }
