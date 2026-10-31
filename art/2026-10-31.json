@@ -4,9 +4,35 @@
   "rubric": "Stagione e ricorrenze — Halloween (sabato, In viaggio)",
   "style": "classica",
   "palettes": [
-    {"BG": "#FFF4D6", "DOT": "#FF4FA3", "C1": "#FFE600", "C2": "#FF7A00", "C3": "#6A2FD0", "INK": "#160A24"},
-    {"BG": "#120626", "DOT": "#3D1A78", "C1": "#B8FF2E", "C2": "#FF5E00", "C3": "#00BFB3", "INK": "#000000"},
-    {"BG": "#FF8A3D", "DOT": "#B3123F", "C1": "#FFF3B0", "C2": "#6B1FA0", "C3": "#173A63", "INK": "#1A0610"}
+    {
+      "BG": "#FFF4D6",
+      "DOT": "#FF4FA3",
+      "C1": "#FFE600",
+      "C2": "#FF7A00",
+      "C3": "#6A2FD0",
+      "INK": "#160A24"
+    },
+    {
+      "BG": "#120626",
+      "DOT": "#3D1A78",
+      "C1": "#B8FF2E",
+      "C2": "#FF5E00",
+      "C3": "#00BFB3",
+      "INK": "#000000"
+    },
+    {
+      "BG": "#FF8A3D",
+      "DOT": "#B3123F",
+      "C1": "#FFF3B0",
+      "C2": "#6B1FA0",
+      "C3": "#173A63",
+      "INK": "#1A0610"
+    }
   ],
-  "caption": "Nella notte di Halloween parte un treno che non compare su nessun orario. La locomotiva ha per caldaia una zucca intagliata che sorride con gli occhi accesi, e si tira dietro un vagoncino colmo di zucche più piccole. Corre su un viadotto ad archi da cui colano gocce fosforescenti, mentre il fumo del camino sale e diventa tre fantasmini curiosi. Davanti a una falce di luna il cielo si incrina come una vetrata, e tre pipistrelli fanno da scorta fino all'ultima fermata.\n\nTre visioni dello stesso viaggio: pomeriggio di zucchero e zucca, mezzanotte al neon, tramonto di brace.\n\n#popart #popartitaliana #illustrazione #halloween #treno"
+  "caption": "Nella notte di Halloween parte un treno che non compare su nessun orario. La locomotiva ha per caldaia una zucca intagliata che sorride con gli occhi accesi, e si tira dietro un vagoncino colmo di zucche più piccole. Corre su un viadotto ad archi da cui colano gocce fosforescenti, mentre il fumo del camino sale e diventa tre fantasmini curiosi. Davanti a una falce di luna il cielo si incrina come una vetrata, e tre pipistrelli fanno da scorta fino all'ultima fermata.\n\nTre visioni dello stesso viaggio: pomeriggio di zucchero e zucca, mezzanotte al neon, tramonto di brace.\n\n#popart #popartitaliana #illustrazione #halloween #treno",
+  "published": {
+    "at": "2026-10-31T18:37:21+01:00",
+    "reel_execution": "cc7dc47448384fb0837106714e280468",
+    "make_execution": "310477809cd148b380f268c3b2c73be2"
+  }
 }
