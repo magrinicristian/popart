@@ -4,9 +4,35 @@
   "rubric": "Piante, fiori e natura",
   "style": "pois",
   "palettes": [
-    {"BG": "#7FD4F2", "DOT": "#1D4ED8", "C1": "#FF4F9A", "C2": "#22B84A", "C3": "#FFD21F", "INK": "#111111"},
-    {"BG": "#0B0B2E", "DOT": "#00E5FF", "C1": "#FF2BD6", "C2": "#39FF6A", "C3": "#FFF200", "INK": "#000000"},
-    {"BG": "#FF7A1A", "DOT": "#7A1050", "C1": "#FFE14D", "C2": "#0E7C6B", "C3": "#E8174A", "INK": "#2A0A12"}
+    {
+      "BG": "#7FD4F2",
+      "DOT": "#1D4ED8",
+      "C1": "#FF4F9A",
+      "C2": "#22B84A",
+      "C3": "#FFD21F",
+      "INK": "#111111"
+    },
+    {
+      "BG": "#0B0B2E",
+      "DOT": "#00E5FF",
+      "C1": "#FF2BD6",
+      "C2": "#39FF6A",
+      "C3": "#FFF200",
+      "INK": "#000000"
+    },
+    {
+      "BG": "#FF7A1A",
+      "DOT": "#7A1050",
+      "C1": "#FFE14D",
+      "C2": "#0E7C6B",
+      "C3": "#E8174A",
+      "INK": "#2A0A12"
+    }
   ],
-  "caption": "Una ninfea che non esiste sboccia al centro dello stagno, tre corone di petali a goccia aperte come un'onda che non si ferma. Due gocce di pioggia toccano l'acqua e le increspature diventano pois, cerchi che si inseguono e si incrociano fino a perdersi oltre i bordi. Sulla grande foglia galleggiante una rete di anelli trattiene la rugiada, mentre due boccioli si srotolano sui loro steli arricciati e aspettano il loro turno.\n\nTre visioni dello stesso stagno: mattino azzurro, notte al neon e tramonto d'arancio.\n\n#popart #popartitaliana #illustrazione #ninfea #fiori"
+  "caption": "Una ninfea che non esiste sboccia al centro dello stagno, tre corone di petali a goccia aperte come un'onda che non si ferma. Due gocce di pioggia toccano l'acqua e le increspature diventano pois, cerchi che si inseguono e si incrociano fino a perdersi oltre i bordi. Sulla grande foglia galleggiante una rete di anelli trattiene la rugiada, mentre due boccioli si srotolano sui loro steli arricciati e aspettano il loro turno.\n\nTre visioni dello stesso stagno: mattino azzurro, notte al neon e tramonto d'arancio.\n\n#popart #popartitaliana #illustrazione #ninfea #fiori",
+  "published": {
+    "at": "2026-11-01T18:34:54+01:00",
+    "reel_execution": "1a6dbcbbe7cb4e7ea2adf3fda1155dd8",
+    "make_execution": "7650b73d82aa42589a9ee4e9f851f15d"
+  }
 }
