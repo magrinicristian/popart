@@ -4,9 +4,35 @@
   "rubric": "forme non reali a pois",
   "style": "pois",
   "palettes": [
-    {"BG": "#FFE45C", "DOT": "#E8174A", "C1": "#FF5FA8", "C2": "#2EC4B6", "C3": "#1D3FD8", "INK": "#111111"},
-    {"BG": "#0A0A26", "DOT": "#7A3CFF", "C1": "#00E5FF", "C2": "#1A1A5E", "C3": "#FF2BD6", "INK": "#000000"},
-    {"BG": "#FF8A3D", "DOT": "#8A0F3C", "C1": "#FFD23F", "C2": "#C2185B", "C3": "#2A0A5E", "INK": "#22070F"}
+    {
+      "BG": "#FFE45C",
+      "DOT": "#E8174A",
+      "C1": "#FF5FA8",
+      "C2": "#2EC4B6",
+      "C3": "#1D3FD8",
+      "INK": "#111111"
+    },
+    {
+      "BG": "#0A0A26",
+      "DOT": "#7A3CFF",
+      "C1": "#00E5FF",
+      "C2": "#1A1A5E",
+      "C3": "#FF2BD6",
+      "INK": "#000000"
+    },
+    {
+      "BG": "#FF8A3D",
+      "DOT": "#8A0F3C",
+      "C1": "#FFD23F",
+      "C2": "#C2185B",
+      "C3": "#2A0A5E",
+      "INK": "#22070F"
+    }
   ],
-  "caption": "Una forma che non esiste si gonfia a mezz'aria: tre bolle di gelatina che si cercano, si toccano e diventano un corpo solo. Non ha luci né ombre dipinte, solo pois: minuscoli dove la luce la accarezza, grandi dove la forma si allontana. Sotto di lei un pavimento di punti corre fino all'orizzonte, e un anello di pois le gira intorno portando cinque piccole lune, metà nascoste dietro e metà davanti.\n\nTre visioni della stessa forma: mezzogiorno al limone, notte al neon e tramonto d'arancio.\n\n#popart #popartitaliana #illustrazione #pois #formeimmaginarie"
+  "caption": "Una forma che non esiste si gonfia a mezz'aria: tre bolle di gelatina che si cercano, si toccano e diventano un corpo solo. Non ha luci né ombre dipinte, solo pois: minuscoli dove la luce la accarezza, grandi dove la forma si allontana. Sotto di lei un pavimento di punti corre fino all'orizzonte, e un anello di pois le gira intorno portando cinque piccole lune, metà nascoste dietro e metà davanti.\n\nTre visioni della stessa forma: mezzogiorno al limone, notte al neon e tramonto d'arancio.\n\n#popart #popartitaliana #illustrazione #pois #formeimmaginarie",
+  "published": {
+    "at": "2026-11-02T18:43:16+01:00",
+    "reel_execution": "d70e6f01a2af40f5b0f6889d9dda2464",
+    "make_execution": "6198195be5c747dbaad23ce3959c4527"
+  }
 }
