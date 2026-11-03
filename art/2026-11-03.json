@@ -4,9 +4,35 @@
   "rubric": "Animali non reali",
   "style": "classica",
   "palettes": [
-    {"BG": "#FFF4D6", "DOT": "#FF9EC4", "C1": "#FF4A2E", "C2": "#FFD21F", "C3": "#2EC4F0", "INK": "#161018"},
-    {"BG": "#120A3A", "DOT": "#4B2DE0", "C1": "#FF2E9A", "C2": "#33F5D2", "C3": "#FFB020", "INK": "#05020F"},
-    {"BG": "#FF8A3D", "DOT": "#C62A6B", "C1": "#3A2BB8", "C2": "#FFE45C", "C3": "#2FD6A0", "INK": "#1E0A1A"}
+    {
+      "BG": "#FFF4D6",
+      "DOT": "#FF9EC4",
+      "C1": "#FF4A2E",
+      "C2": "#FFD21F",
+      "C3": "#2EC4F0",
+      "INK": "#161018"
+    },
+    {
+      "BG": "#120A3A",
+      "DOT": "#4B2DE0",
+      "C1": "#FF2E9A",
+      "C2": "#33F5D2",
+      "C3": "#FFB020",
+      "INK": "#05020F"
+    },
+    {
+      "BG": "#FF8A3D",
+      "DOT": "#C62A6B",
+      "C1": "#3A2BB8",
+      "C2": "#FFE45C",
+      "C3": "#2FD6A0",
+      "INK": "#1E0A1A"
+    }
   ],
-  "caption": "Non vive in nessuno stagno conosciuto: è un airone con il corpo a uovo coperto di scaglie, come un pesce che ha imparato a volare. Il collo è una molla di anelli colorati, in testa porta tre pennacchi a goccia e dal becco a trombetta soffia gocce lucide. Apre le ali a ventaglio pieghettato e resta in equilibrio sulle zampe a zigzag, sopra un uovo a strisce che dondola. Dietro di lui un sole smerlato divide il cielo in quattro quadranti.\n\nTre visioni della stessa creatura: mattino crema e corallo, notte al neon, tramonto arancio e viola.\n\n#popart #popartitaliana #illustrazione #animaliimmaginari #airone"
+  "caption": "Non vive in nessuno stagno conosciuto: è un airone con il corpo a uovo coperto di scaglie, come un pesce che ha imparato a volare. Il collo è una molla di anelli colorati, in testa porta tre pennacchi a goccia e dal becco a trombetta soffia gocce lucide. Apre le ali a ventaglio pieghettato e resta in equilibrio sulle zampe a zigzag, sopra un uovo a strisce che dondola. Dietro di lui un sole smerlato divide il cielo in quattro quadranti.\n\nTre visioni della stessa creatura: mattino crema e corallo, notte al neon, tramonto arancio e viola.\n\n#popart #popartitaliana #illustrazione #animaliimmaginari #airone",
+  "published": {
+    "at": "2026-11-03T18:34:42+01:00",
+    "reel_execution": "67ae4bd08e8e45eb9bbcdb28c62dee50",
+    "make_execution": "1d4541e737db4e96a572fbd7ab53a766"
+  }
 }
