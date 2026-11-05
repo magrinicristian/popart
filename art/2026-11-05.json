@@ -4,9 +4,35 @@
   "rubric": "In cucina",
   "style": "classica",
   "palettes": [
-    {"BG": "#FFF1C9", "DOT": "#FFB347", "C1": "#FF3355", "C2": "#FFD000", "C3": "#1FA3E0", "INK": "#14101A"},
-    {"BG": "#0E0B2B", "DOT": "#3B1E8C", "C1": "#FF2BB8", "C2": "#E8FF2E", "C3": "#19E3C8", "INK": "#040212"},
-    {"BG": "#FF9B5E", "DOT": "#D2416E", "C1": "#6B2E9E", "C2": "#FFE15A", "C3": "#2E7DD6", "INK": "#2A0B1F"}
+    {
+      "BG": "#FFF1C9",
+      "DOT": "#FFB347",
+      "C1": "#FF3355",
+      "C2": "#FFD000",
+      "C3": "#1FA3E0",
+      "INK": "#14101A"
+    },
+    {
+      "BG": "#0E0B2B",
+      "DOT": "#3B1E8C",
+      "C1": "#FF2BB8",
+      "C2": "#E8FF2E",
+      "C3": "#19E3C8",
+      "INK": "#040212"
+    },
+    {
+      "BG": "#FF9B5E",
+      "DOT": "#D2416E",
+      "C1": "#6B2E9E",
+      "C2": "#FFE15A",
+      "C3": "#2E7DD6",
+      "INK": "#2A0B1F"
+    }
   ],
-  "caption": "In questa cucina la colazione prende il volo: una padella fluttua sopra la tovaglia a scacchi e lascia a terra solo la sua ombra. Dentro sfrigola un uovo che si è aperto come un fiore a sei petali. I tuorli sono piccoli soli: uno resta al centro, gli altri due saltano in aria con i loro raggi. Intorno schizzano gocce d'olio dorate e scintille, mentre il cielo si piega a zigzag.\n\nTre visioni della stessa padella: colazione al sole, friggitoria notturna al neon, cena al tramonto.\n\n#popart #popartitaliana #illustrazione #uovo #incucina"
+  "caption": "In questa cucina la colazione prende il volo: una padella fluttua sopra la tovaglia a scacchi e lascia a terra solo la sua ombra. Dentro sfrigola un uovo che si è aperto come un fiore a sei petali. I tuorli sono piccoli soli: uno resta al centro, gli altri due saltano in aria con i loro raggi. Intorno schizzano gocce d'olio dorate e scintille, mentre il cielo si piega a zigzag.\n\nTre visioni della stessa padella: colazione al sole, friggitoria notturna al neon, cena al tramonto.\n\n#popart #popartitaliana #illustrazione #uovo #incucina",
+  "published": {
+    "at": "2026-11-05T18:30:31+01:00",
+    "reel_execution": "0e1bf43a30c8477bb44758d621766d1f",
+    "make_execution": "f37a69864dfd49ea934dda5295283c9f"
+  }
 }
