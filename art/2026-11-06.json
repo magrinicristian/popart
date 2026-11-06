@@ -4,9 +4,35 @@
   "rubric": "Oggetti non reali e vintage",
   "style": "pois",
   "palettes": [
-    {"BG": "#FFF4D6", "DOT": "#FF3B6B", "C1": "#FFD23F", "C2": "#1E88E5", "C3": "#3DDC97", "INK": "#14121F"},
-    {"BG": "#0B0628", "DOT": "#00E5FF", "C1": "#FF2BD6", "C2": "#3A1C8C", "C3": "#C6FF00", "INK": "#000000"},
-    {"BG": "#F28C28", "DOT": "#7A1F1F", "C1": "#FFE9A8", "C2": "#2E4A3F", "C3": "#E85D75", "INK": "#2A1208"}
+    {
+      "BG": "#FFF4D6",
+      "DOT": "#FF3B6B",
+      "C1": "#FFD23F",
+      "C2": "#1E88E5",
+      "C3": "#3DDC97",
+      "INK": "#14121F"
+    },
+    {
+      "BG": "#0B0628",
+      "DOT": "#00E5FF",
+      "C1": "#FF2BD6",
+      "C2": "#3A1C8C",
+      "C3": "#C6FF00",
+      "INK": "#000000"
+    },
+    {
+      "BG": "#F28C28",
+      "DOT": "#7A1F1F",
+      "C1": "#FFE9A8",
+      "C2": "#2E4A3F",
+      "C3": "#E85D75",
+      "INK": "#2A1208"
+    }
   ],
-  "caption": "In fondo a un vecchio studio fotografico che non è mai esistito, una macchina a soffietto guarda il mondo con tre obiettivi invece di uno. Le pieghe del soffietto si allungano come un respiro, e dietro di lei un tunnel di pois si apre all'infinito, cornice dopo cornice. Il flash a parabola scatta e invece della luce esplode una corona di punti colorati. Sul treppiede punteggiato, aspetta solo che qualcuno dica di sorridere.\n\nTre visioni dello stesso scatto: mattino color crema, notte al neon, tramonto color seppia.\n\n#popart #popartitaliana #illustrazione #vintage #macchinafotografica"
+  "caption": "In fondo a un vecchio studio fotografico che non è mai esistito, una macchina a soffietto guarda il mondo con tre obiettivi invece di uno. Le pieghe del soffietto si allungano come un respiro, e dietro di lei un tunnel di pois si apre all'infinito, cornice dopo cornice. Il flash a parabola scatta e invece della luce esplode una corona di punti colorati. Sul treppiede punteggiato, aspetta solo che qualcuno dica di sorridere.\n\nTre visioni dello stesso scatto: mattino color crema, notte al neon, tramonto color seppia.\n\n#popart #popartitaliana #illustrazione #vintage #macchinafotografica",
+  "published": {
+    "at": "2026-11-06T18:38:24+01:00",
+    "reel_execution": "fe65b0d4533b4d6395eb2ffa0185b4da",
+    "make_execution": "289d5d68185f49658925ce80f7b1a668"
+  }
 }
