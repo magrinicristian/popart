@@ -4,9 +4,35 @@
   "rubric": "Piante, fiori e natura",
   "style": "pois",
   "palettes": [
-    {"BG": "#FFF4C2", "DOT": "#2BB3FF", "C1": "#FF3D7F", "C2": "#1FAF4B", "C3": "#FFB000", "INK": "#111111"},
-    {"BG": "#0A0A26", "DOT": "#5B2BFF", "C1": "#00E5FF", "C2": "#39FF14", "C3": "#FF2BD6", "INK": "#000000"},
-    {"BG": "#FF8C42", "DOT": "#9C1458", "C1": "#FFE14D", "C2": "#11806A", "C3": "#5B2BC8", "INK": "#1A0F2E"}
+    {
+      "BG": "#FFF4C2",
+      "DOT": "#2BB3FF",
+      "C1": "#FF3D7F",
+      "C2": "#1FAF4B",
+      "C3": "#FFB000",
+      "INK": "#111111"
+    },
+    {
+      "BG": "#0A0A26",
+      "DOT": "#5B2BFF",
+      "C1": "#00E5FF",
+      "C2": "#39FF14",
+      "C3": "#FF2BD6",
+      "INK": "#000000"
+    },
+    {
+      "BG": "#FF8C42",
+      "DOT": "#9C1458",
+      "C1": "#FFE14D",
+      "C2": "#11806A",
+      "C3": "#5B2BC8",
+      "INK": "#1A0F2E"
+    }
   ],
-  "caption": "In un prato che non esiste cresce un soffione con tre teste invece di una, su uno stelo che si apre in due rami. Ogni testa è un fiore di pois bianchi, minuscoli al centro e sempre più grandi verso il bordo, coronato da piccoli pappi tondi. Il vento gira attorno alla pianta e trascina tutto il cielo in un vortice di punti. Dalla testa più grande i semi partono in due scie a spirale e, mentre salgono, si moltiplicano in pois sempre più piccoli fino a perdersi.\n\nTre visioni dello stesso prato: mattina di sole, notte al neon e tramonto d'autunno.\n\n#popart #popartitaliana #illustrazione #soffione #natura"
+  "caption": "In un prato che non esiste cresce un soffione con tre teste invece di una, su uno stelo che si apre in due rami. Ogni testa è un fiore di pois bianchi, minuscoli al centro e sempre più grandi verso il bordo, coronato da piccoli pappi tondi. Il vento gira attorno alla pianta e trascina tutto il cielo in un vortice di punti. Dalla testa più grande i semi partono in due scie a spirale e, mentre salgono, si moltiplicano in pois sempre più piccoli fino a perdersi.\n\nTre visioni dello stesso prato: mattina di sole, notte al neon e tramonto d'autunno.\n\n#popart #popartitaliana #illustrazione #soffione #natura",
+  "published": {
+    "at": "2026-11-08T20:32:32+01:00",
+    "reel_execution": "500370f7f4684a95adfaee7ea9010351",
+    "make_execution": "a853bad7453846e49bf8e305f1038749"
+  }
 }
