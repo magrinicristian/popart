@@ -4,9 +4,35 @@
   "rubric": "Stagione e ricorrenze — San Martino (martedì, Animali non reali)",
   "style": "classica",
   "palettes": [
-    {"BG": "#9FE2FF", "DOT": "#5CBDF5", "C1": "#E8283C", "C2": "#FFD93B", "C3": "#7A2BC2", "INK": "#141018"},
-    {"BG": "#140B3A", "DOT": "#3A1F8F", "C1": "#FF2E88", "C2": "#F4FF3A", "C3": "#20E0C6", "INK": "#05020F"},
-    {"BG": "#FF9C5B", "DOT": "#EE5468", "C1": "#2B5BD0", "C2": "#FFE65E", "C3": "#5B1A99", "INK": "#2A0A1E"}
+    {
+      "BG": "#9FE2FF",
+      "DOT": "#5CBDF5",
+      "C1": "#E8283C",
+      "C2": "#FFD93B",
+      "C3": "#7A2BC2",
+      "INK": "#141018"
+    },
+    {
+      "BG": "#140B3A",
+      "DOT": "#3A1F8F",
+      "C1": "#FF2E88",
+      "C2": "#F4FF3A",
+      "C3": "#20E0C6",
+      "INK": "#05020F"
+    },
+    {
+      "BG": "#FF9C5B",
+      "DOT": "#EE5468",
+      "C1": "#2B5BD0",
+      "C2": "#FFE65E",
+      "C3": "#5B1A99",
+      "INK": "#2A0A1E"
+    }
   ],
-  "caption": "Per San Martino è arrivata un'oca che nessun cortile ha mai visto: il suo corpo è un fiasco di vetro e dentro ondeggia il vino novello a ogni passo. Il collo impagliato si arriccia fino a una testa con la cresta a grappolo d'uva, e sulle spalle porta mezzo mantello rosso, tagliato di netto per chi ha freddo. Cammina su un mucchio di castagne lucide, appena uscite dal fuoco. Sopra di lei il sole dell'estate di San Martino buca le nuvole e fa cadere le ultime foglie.\n\nTre visioni della stessa festa: mattino d'estate di San Martino, notte al neon, tramonto di vendemmia.\n\n#popart #popartitaliana #illustrazione #sanmartino #vinonovello"
+  "caption": "Per San Martino è arrivata un'oca che nessun cortile ha mai visto: il suo corpo è un fiasco di vetro e dentro ondeggia il vino novello a ogni passo. Il collo impagliato si arriccia fino a una testa con la cresta a grappolo d'uva, e sulle spalle porta mezzo mantello rosso, tagliato di netto per chi ha freddo. Cammina su un mucchio di castagne lucide, appena uscite dal fuoco. Sopra di lei il sole dell'estate di San Martino buca le nuvole e fa cadere le ultime foglie.\n\nTre visioni della stessa festa: mattino d'estate di San Martino, notte al neon, tramonto di vendemmia.\n\n#popart #popartitaliana #illustrazione #sanmartino #vinonovello",
+  "published": {
+    "at": "2026-11-10T18:33:42+01:00",
+    "reel_execution": "ac68d3dc7b294e169cab73ab977e6b06",
+    "make_execution": "090eaf88a64247399ff3d4041902407e"
+  }
 }
