@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<defs>
+<pattern id="ben" width="22" height="22" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><circle cx="11" cy="11" r="6" fill="{{DOT}}"/></pattern>
+<pattern id="hat" width="18" height="18" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)"><rect x="0" y="0" width="18" height="6" fill="{{DOT}}"/></pattern>
+<pattern id="ink" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect x="0" y="0" width="14" height="4" fill="{{INK}}"/></pattern>
+<pattern id="wdot" width="20" height="20" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><circle cx="10" cy="10" r="4.2" fill="#FFFFFF"/></pattern>
+<pattern id="c2dot" width="18" height="18" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><circle cx="9" cy="9" r="4" fill="{{C2}}"/></pattern>
+<pattern id="c1dot" width="20" height="20" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><circle cx="10" cy="10" r="5" fill="{{C1}}"/></pattern>
+</defs>
+<rect width="1080" height="1350" fill="{{BG}}"/>
+<g transform="rotate(-35 540 675)">
+<rect x="-900" y="-800" width="6" height="3000" fill="{{INK}}"/>
+<rect x="-780" y="-800" width="120" height="3000" fill="url(#ben)"/>
+<rect x="-780" y="-800" width="6" height="3000" fill="{{INK}}"/>
+<rect x="-660" y="-800" width="120" height="3000" fill="{{DOT}}"/>
+<rect x="-660" y="-800" width="6" height="3000" fill="{{INK}}"/>
+<rect x="-540" y="-800" width="120" height="3000" fill="url(#hat)"/>
+<rect x="-540" y="-800" width="6" height="3000" fill="{{INK}}"/>
+<rect x="-420" y="-800" width="6" height="3000" fill="{{INK}}"/>
+<rect x="-300" y="-800" width="120" height="3000" fill="url(#ben)"/>
+<rect x="-300" y="-800" width="6" height="3000" fill="{{INK}}"/>
+<rect x="-180" y="-800" width="120" height="3000" fill="{{DOT}}"/>
+<rect x="-180" y="-800" width="6" height="3000" fill="{{INK}}"/>
+<rect x="-60" y="-800" width="120" height="3000" fill="url(#hat)"/>
+<rect x="-60" y="-800" width="6" height="3000" fill="{{INK}}"/>
+<rect x="60" y="-800" width="6" height="3000" fill="{{INK}}"/>
+<rect x="180" y="-800" width="120" height="3000" fill="url(#ben)"/>
+<rect x="180" y="-800" width="6" height="3000" fill="{{INK}}"/>
+<rect x="300" y="-800" width="120" height="3000" fill="{{DOT}}"/>
+<rect x="300" y="-800" width="6" height="3000" fill="{{INK}}"/>
+<rect x="420" y="-800" width="120" height="3000" fill="url(#hat)"/>
+<rect x="420" y="-800" width="6" height="3000" fill="{{INK}}"/>
+<rect x="540" y="-800" width="6" height="3000" fill="{{INK}}"/>
+<rect x="660" y="-800" width="120" height="3000" fill="url(#ben)"/>
+<rect x="660" y="-800" width="6" height="3000" fill="{{INK}}"/>
+<rect x="780" y="-800" width="120" height="3000" fill="{{DOT}}"/>
+<rect x="780" y="-800" width="6" height="3000" fill="{{INK}}"/>
+<rect x="900" y="-800" width="120" height="3000" fill="url(#hat)"/>
+<rect x="900" y="-800" width="6" height="3000" fill="{{INK}}"/>
+<rect x="1020" y="-800" width="6" height="3000" fill="{{INK}}"/>
+<rect x="1140" y="-800" width="120" height="3000" fill="url(#ben)"/>
+<rect x="1140" y="-800" width="6" height="3000" fill="{{INK}}"/>
+<rect x="1260" y="-800" width="120" height="3000" fill="{{DOT}}"/>
+<rect x="1260" y="-800" width="6" height="3000" fill="{{INK}}"/>
+<rect x="1380" y="-800" width="120" height="3000" fill="url(#hat)"/>
+<rect x="1380" y="-800" width="6" height="3000" fill="{{INK}}"/>
+<rect x="1500" y="-800" width="6" height="3000" fill="{{INK}}"/>
+<rect x="1620" y="-800" width="120" height="3000" fill="url(#ben)"/>
+<rect x="1620" y="-800" width="6" height="3000" fill="{{INK}}"/>
+<rect x="1740" y="-800" width="120" height="3000" fill="{{DOT}}"/>
+<rect x="1740" y="-800" width="6" height="3000" fill="{{INK}}"/>
+<rect x="1860" y="-800" width="120" height="3000" fill="url(#hat)"/>
+<rect x="1860" y="-800" width="6" height="3000" fill="{{INK}}"/>
+<rect x="1980" y="-800" width="6" height="3000" fill="{{INK}}"/>
+</g>
+<polygon points="996.0,686.0 993.9,698.0 987.7,709.7 978.5,720.8 967.5,731.2 975.9,743.9 982.4,756.8 985.8,769.5 985.2,781.7 980.5,792.9 971.9,802.9 960.4,811.7 947.3,819.4 952.7,833.6 956.2,847.6 956.7,860.8 953.4,872.6 946.3,882.5 935.7,890.3 922.5,896.3 908.1,900.9 910.2,916.0 910.5,930.4 908.0,943.4 902.2,954.1 893.0,962.1 880.9,967.5 866.8,970.4 851.7,971.7 850.4,986.8 847.5,1000.9 842.1,1013.0 834.1,1022.2 823.4,1028.0 810.4,1030.5 796.0,1030.2 780.9,1028.1 776.3,1042.5 770.3,1055.7 762.5,1066.3 752.6,1073.4 740.8,1076.7 727.6,1076.2 713.6,1072.7 699.4,1067.3 691.7,1080.4 682.9,1091.9 672.9,1100.5 661.7,1105.2 649.5,1105.8 636.8,1102.4 623.9,1095.9 611.2,1087.5 600.8,1098.5 589.7,1107.7 578.0,1113.9 566.0,1116.0 554.0,1113.9 542.3,1107.7 531.2,1098.5 520.8,1087.5 508.1,1095.9 495.2,1102.4 482.5,1105.8 470.3,1105.2 459.1,1100.5 449.1,1091.9 440.3,1080.4 432.6,1067.3 418.4,1072.7 404.4,1076.2 391.2,1076.7 379.4,1073.4 369.5,1066.3 361.7,1055.7 355.7,1042.5 351.1,1028.1 336.0,1030.2 321.6,1030.5 308.6,1028.0 297.9,1022.2 289.9,1013.0 284.5,1000.9 281.6,986.8 280.3,971.7 265.2,970.4 251.1,967.5 239.0,962.1 229.8,954.1 224.0,943.4 221.5,930.4 221.8,916.0 223.9,900.9 209.5,896.3 196.3,890.3 185.7,882.5 178.6,872.6 175.3,860.8 175.8,847.6 179.3,833.6 184.7,819.4 171.6,811.7 160.1,802.9 151.5,792.9 146.8,781.7 146.2,769.5 149.6,756.8 156.1,743.9 164.5,731.2 153.5,720.8 144.3,709.7 138.1,698.0 136.0,686.0 138.1,674.0 144.3,662.3 153.5,651.2 164.5,640.8 156.1,628.1 149.6,615.2 146.2,602.5 146.8,590.3 151.5,579.1 160.1,569.1 171.6,560.3 184.7,552.6 179.3,538.4 175.8,524.4 175.3,511.2 178.6,499.4 185.7,489.5 196.3,481.7 209.5,475.7 223.9,471.1 221.8,456.0 221.5,441.6 224.0,428.6 229.8,417.9 239.0,409.9 251.1,404.5 265.2,401.6 280.3,400.3 281.6,385.2 284.5,371.1 289.9,359.0 297.9,349.8 308.6,344.0 321.6,341.5 336.0,341.8 351.1,343.9 355.7,329.5 361.7,316.3 369.5,305.7 379.4,298.6 391.2,295.3 404.4,295.8 418.4,299.3 432.6,304.7 440.3,291.6 449.1,280.1 459.1,271.5 470.3,266.8 482.5,266.2 495.2,269.6 508.1,276.1 520.8,284.5 531.2,273.5 542.3,264.3 554.0,258.1 566.0,256.0 578.0,258.1 589.7,264.3 600.8,273.5 611.2,284.5 623.9,276.1 636.8,269.6 649.5,266.2 661.7,266.8 672.9,271.5 682.9,280.1 691.7,291.6 699.4,304.7 713.6,299.3 727.6,295.8 740.8,295.3 752.6,298.6 762.5,305.7 770.3,316.3 776.3,329.5 780.9,343.9 796.0,341.8 810.4,341.5 823.4,344.0 834.1,349.8 842.1,359.0 847.5,371.1 850.4,385.2 851.7,400.3 866.8,401.6 880.9,404.5 893.0,409.9 902.2,417.9 908.0,428.6 910.5,441.6 910.2,456.0 908.1,471.1 922.5,475.7 935.7,481.7 946.3,489.5 953.4,499.4 956.7,511.2 956.2,524.4 952.7,538.4 947.3,552.6 960.4,560.3 971.9,569.1 980.5,579.1 985.2,590.3 985.8,602.5 982.4,615.2 975.9,628.1 967.5,640.8 978.5,651.2 987.7,662.3 993.9,674.0" fill="{{INK}}"/>
+<polygon points="970.0,660.0 967.9,672.0 961.7,683.7 952.5,694.8 941.5,705.2 949.9,717.9 956.4,730.8 959.8,743.5 959.2,755.7 954.5,766.9 945.9,776.9 934.4,785.7 921.3,793.4 926.7,807.6 930.2,821.6 930.7,834.8 927.4,846.6 920.3,856.5 909.7,864.3 896.5,870.3 882.1,874.9 884.2,890.0 884.5,904.4 882.0,917.4 876.2,928.1 867.0,936.1 854.9,941.5 840.8,944.4 825.7,945.7 824.4,960.8 821.5,974.9 816.1,987.0 808.1,996.2 797.4,1002.0 784.4,1004.5 770.0,1004.2 754.9,1002.1 750.3,1016.5 744.3,1029.7 736.5,1040.3 726.6,1047.4 714.8,1050.7 701.6,1050.2 687.6,1046.7 673.4,1041.3 665.7,1054.4 656.9,1065.9 646.9,1074.5 635.7,1079.2 623.5,1079.8 610.8,1076.4 597.9,1069.9 585.2,1061.5 574.8,1072.5 563.7,1081.7 552.0,1087.9 540.0,1090.0 528.0,1087.9 516.3,1081.7 505.2,1072.5 494.8,1061.5 482.1,1069.9 469.2,1076.4 456.5,1079.8 444.3,1079.2 433.1,1074.5 423.1,1065.9 414.3,1054.4 406.6,1041.3 392.4,1046.7 378.4,1050.2 365.2,1050.7 353.4,1047.4 343.5,1040.3 335.7,1029.7 329.7,1016.5 325.1,1002.1 310.0,1004.2 295.6,1004.5 282.6,1002.0 271.9,996.2 263.9,987.0 258.5,974.9 255.6,960.8 254.3,945.7 239.2,944.4 225.1,941.5 213.0,936.1 203.8,928.1 198.0,917.4 195.5,904.4 195.8,890.0 197.9,874.9 183.5,870.3 170.3,864.3 159.7,856.5 152.6,846.6 149.3,834.8 149.8,821.6 153.3,807.6 158.7,793.4 145.6,785.7 134.1,776.9 125.5,766.9 120.8,755.7 120.2,743.5 123.6,730.8 130.1,717.9 138.5,705.2 127.5,694.8 118.3,683.7 112.1,672.0 110.0,660.0 112.1,648.0 118.3,636.3 127.5,625.2 138.5,614.8 130.1,602.1 123.6,589.2 120.2,576.5 120.8,564.3 125.5,553.1 134.1,543.1 145.6,534.3 158.7,526.6 153.3,512.4 149.8,498.4 149.3,485.2 152.6,473.4 159.7,463.5 170.3,455.7 183.5,449.7 197.9,445.1 195.8,430.0 195.5,415.6 198.0,402.6 203.8,391.9 213.0,383.9 225.1,378.5 239.2,375.6 254.3,374.3 255.6,359.2 258.5,345.1 263.9,333.0 271.9,323.8 282.6,318.0 295.6,315.5 310.0,315.8 325.1,317.9 329.7,303.5 335.7,290.3 343.5,279.7 353.4,272.6 365.2,269.3 378.4,269.8 392.4,273.3 406.6,278.7 414.3,265.6 423.1,254.1 433.1,245.5 444.3,240.8 456.5,240.2 469.2,243.6 482.1,250.1 494.8,258.5 505.2,247.5 516.3,238.3 528.0,232.1 540.0,230.0 552.0,232.1 563.7,238.3 574.8,247.5 585.2,258.5 597.9,250.1 610.8,243.6 623.5,240.2 635.7,240.8 646.9,245.5 656.9,254.1 665.7,265.6 673.4,278.7 687.6,273.3 701.6,269.8 714.8,269.3 726.6,272.6 736.5,279.7 744.3,290.3 750.3,303.5 754.9,317.9 770.0,315.8 784.4,315.5 797.4,318.0 808.1,323.8 816.1,333.0 821.5,345.1 824.4,359.2 825.7,374.3 840.8,375.6 854.9,378.5 867.0,383.9 876.2,391.9 882.0,402.6 884.5,415.6 884.2,430.0 882.1,445.1 896.5,449.7 909.7,455.7 920.3,463.5 927.4,473.4 930.7,485.2 930.2,498.4 926.7,512.4 921.3,526.6 934.4,534.3 945.9,543.1 954.5,553.1 959.2,564.3 959.8,576.5 956.4,589.2 949.9,602.1 941.5,614.8 952.5,625.2 961.7,636.3 967.9,648.0" fill="{{C3}}" stroke="{{INK}}" stroke-width="10" stroke-linejoin="round"/>
+<circle cx="540" cy="660" r="370" fill="#FFFFFF" stroke="{{INK}}" stroke-width="9"/>
+<circle cx="540" cy="660" r="370" fill="url(#c2dot)"/>
+<circle cx="540" cy="660" r="340" fill="none" stroke="{{INK}}" stroke-width="6" stroke-dasharray="18 14"/>
+<polygon points="540,660 906.0,660.0 899.0,731.4" fill="{{C2}}" opacity="1"/>
+<polygon points="540,660 798.8,918.8 743.3,964.3" fill="{{C2}}" opacity="1"/>
+<polygon points="540,660 540.0,1026.0 468.6,1019.0" fill="{{C2}}" opacity="1"/>
+<polygon points="540,660 281.2,918.8 235.7,863.3" fill="{{C2}}" opacity="1"/>
+<polygon points="540,660 174.0,660.0 181.0,588.6" fill="{{C2}}" opacity="1"/>
+<polygon points="540,660 281.2,401.2 336.7,355.7" fill="{{C2}}" opacity="1"/>
+<polygon points="540,660 540.0,294.0 611.4,301.0" fill="{{C2}}" opacity="1"/>
+<polygon points="540,660 798.8,401.2 844.3,456.7" fill="{{C2}}" opacity="1"/>
+<circle cx="540" cy="660" r="370" fill="none" stroke="{{INK}}" stroke-width="9"/>
+<ellipse cx="566" cy="1086" rx="380" ry="66" fill="{{INK}}"/>
+<ellipse cx="540" cy="1070" rx="380" ry="66" fill="{{C1}}" stroke="{{INK}}" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="540" cy="1056" rx="340" ry="46" fill="#FFFFFF" stroke="{{INK}}" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="540" cy="1056" rx="340" ry="46" fill="url(#c1dot)" opacity="0.55"/>
+<path d="M270,1045 L270,610 Q270,470 540,470 Q810,470 810,610 L830,930 L830,1045 Z" fill="{{INK}}" transform="translate(24,0)"/>
+<path d="M280,965 L800,965 L800,1010 Q800,1045 760,1045 L320,1045 Q280,1045 280,1010 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M680,975 L792,975 L792,1010 Q792,1036 760,1036 L680,1036 Z" fill="url(#ink)"/>
+<path d="M250,930 L830,930 L830,961 Q797.8,997 765.6,961 Q733.3,997 701.1,961 Q668.9,997 636.7,961 Q604.4,997 572.2,961 Q540.0,997 507.8,961 Q475.6,997 443.3,961 Q411.1,997 378.9,961 Q346.7,997 314.4,961 Q282.2,997 250.0,961 Z" fill="{{C3}}" stroke="{{INK}}" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M282,940 Q292,955 286,970" fill="none" stroke="{{INK}}" stroke-width="5" stroke-linecap="round"/>
+<path d="M346,940 Q356,955 350,970" fill="none" stroke="{{INK}}" stroke-width="5" stroke-linecap="round"/>
+<path d="M410,940 Q420,955 414,970" fill="none" stroke="{{INK}}" stroke-width="5" stroke-linecap="round"/>
+<path d="M474,940 Q484,955 478,970" fill="none" stroke="{{INK}}" stroke-width="5" stroke-linecap="round"/>
+<path d="M538,940 Q548,955 542,970" fill="none" stroke="{{INK}}" stroke-width="5" stroke-linecap="round"/>
+<path d="M602,940 Q612,955 606,970" fill="none" stroke="{{INK}}" stroke-width="5" stroke-linecap="round"/>
+<path d="M666,940 Q676,955 670,970" fill="none" stroke="{{INK}}" stroke-width="5" stroke-linecap="round"/>
+<path d="M730,940 Q740,955 734,970" fill="none" stroke="{{INK}}" stroke-width="5" stroke-linecap="round"/>
+<path d="M794,940 Q804,955 798,970" fill="none" stroke="{{INK}}" stroke-width="5" stroke-linecap="round"/>
+<rect x="300" y="888" width="160" height="48" rx="24" fill="{{C1}}" stroke="{{INK}}" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="380" cy="912" rx="52" ry="11" fill="#FFFFFF" stroke="{{INK}}" stroke-width="5"/>
+<ellipse cx="352" cy="912" rx="7" ry="4" fill="{{C2}}"/>
+<ellipse cx="380" cy="912" rx="7" ry="4" fill="{{C2}}"/>
+<ellipse cx="408" cy="912" rx="7" ry="4" fill="{{C2}}"/>
+<rect x="470" y="888" width="160" height="48" rx="24" fill="{{C1}}" stroke="{{INK}}" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="550" cy="912" rx="52" ry="11" fill="#FFFFFF" stroke="{{INK}}" stroke-width="5"/>
+<ellipse cx="522" cy="912" rx="7" ry="4" fill="{{C2}}"/>
+<ellipse cx="550" cy="912" rx="7" ry="4" fill="{{C2}}"/>
+<ellipse cx="578" cy="912" rx="7" ry="4" fill="{{C2}}"/>
+<rect x="640" y="888" width="160" height="48" rx="24" fill="{{C1}}" stroke="{{INK}}" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="720" cy="912" rx="52" ry="11" fill="#FFFFFF" stroke="{{INK}}" stroke-width="5"/>
+<ellipse cx="692" cy="912" rx="7" ry="4" fill="{{C2}}"/>
+<ellipse cx="720" cy="912" rx="7" ry="4" fill="{{C2}}"/>
+<ellipse cx="748" cy="912" rx="7" ry="4" fill="{{C2}}"/>
+<path d="M262,858 L818,858 L838,890 L760,890 L760,950 Q760,972 742,972 Q724,972 724,950 L724,890 L560,890 L560,1000 Q560,1024 538,1024 Q516,1024 516,1000 L516,890 L380,890 L380,935 Q380,955 362,955 Q344,955 344,935 L344,890 L242,890 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M262,858 L818,858 L838,890 L242,890 Z" fill="url(#c2dot)"/>
+<path d="M262,858 L818,858 L838,890 L760,890 L760,950 Q760,972 742,972 Q724,972 724,950 L724,890 L560,890 L560,1000 Q560,1024 538,1024 Q516,1024 516,1000 L516,890 L380,890 L380,935 Q380,955 362,955 Q344,955 344,935 L344,890 L242,890 Z" fill="none" stroke="{{INK}}" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="286" y="790" width="508" height="70" rx="22" fill="{{C2}}" stroke="{{INK}}" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="680" y="798" width="106" height="54" rx="14" fill="url(#ink)"/>
+<path d="M268,760 Q294.6,740 321.2,760 Q347.8,780 374.4,760 Q401.0,740 427.6,760 Q454.2,780 480.8,760 Q507.4,740 534.0,760 Q560.6,780 587.2,760 Q613.8,740 640.4,760 Q667.0,780 693.6,760 Q720.2,740 746.8,760 Q773.4,780 800.0,760 L800,800 L268,800 Z" fill="{{C1}}" stroke="{{INK}}" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M268,760 Q294.6,740 321.2,760 Q347.8,780 374.4,760 Q401.0,740 427.6,760 Q454.2,780 480.8,760 Q507.4,740 534.0,760 Q560.6,780 587.2,760 Q613.8,740 640.4,760 Q667.0,780 693.6,760 Q720.2,740 746.8,760 Q773.4,780 800.0,760 L800,800 L268,800 Z" fill="url(#wdot)" opacity="0.85"/>
+<path d="M268,760 Q294.6,740 321.2,760 Q347.8,780 374.4,760 Q401.0,740 427.6,760 Q454.2,780 480.8,760 Q507.4,740 534.0,760 Q560.6,780 587.2,760 Q613.8,740 640.4,760 Q667.0,780 693.6,760 Q720.2,740 746.8,760 Q773.4,780 800.0,760 L800,800 L268,800 Z" fill="none" stroke="{{INK}}" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M262,712 L818,712 L818,738 Q783.2,774 748.5,738 Q713.8,774 679.0,738 Q644.2,774 609.5,738 Q574.8,774 540.0,738 Q505.2,774 470.5,738 Q435.8,774 401.0,738 Q366.2,774 331.5,738 Q296.8,774 262.0,738 Z" fill="{{C3}}" stroke="{{INK}}" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M270,720 L270,610 Q270,470 540,470 Q810,470 810,610 L810,720 Q810,738 790,738 L290,738 Q270,738 270,720 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M640,500 Q790,530 798,620 L798,726 L700,726 Q760,640 640,500 Z" fill="url(#ink)"/>
+<path d="M330,610 Q340,525 440,505" fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round"/>
+<circle cx="318" cy="652" r="10" fill="#FFFFFF"/>
+<g transform="translate(400 560) rotate(-30)"><path d="M0,-16 Q10,0 0,14 Q-10,0 0,-16 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="4"/></g>
+<g transform="translate(470 520) rotate(10)"><path d="M0,-16 Q10,0 0,14 Q-10,0 0,-16 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="4"/></g>
+<g transform="translate(540 555) rotate(-10)"><path d="M0,-16 Q10,0 0,14 Q-10,0 0,-16 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="4"/></g>
+<g transform="translate(610 515) rotate(25)"><path d="M0,-16 Q10,0 0,14 Q-10,0 0,-16 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="4"/></g>
+<g transform="translate(680 560) rotate(40)"><path d="M0,-16 Q10,0 0,14 Q-10,0 0,-16 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="4"/></g>
+<g transform="translate(450 620) rotate(-50)"><path d="M0,-16 Q10,0 0,14 Q-10,0 0,-16 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="4"/></g>
+<g transform="translate(560 620) rotate(15)"><path d="M0,-16 Q10,0 0,14 Q-10,0 0,-16 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="4"/></g>
+<g transform="translate(660 640) rotate(-25)"><path d="M0,-16 Q10,0 0,14 Q-10,0 0,-16 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="4"/></g>
+<g transform="translate(380 680) rotate(30)"><path d="M0,-16 Q10,0 0,14 Q-10,0 0,-16 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="4"/></g>
+<g transform="translate(740 600) rotate(-40)"><path d="M0,-16 Q10,0 0,14 Q-10,0 0,-16 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="4"/></g>
+<g transform="translate(510 670) rotate(60)"><path d="M0,-16 Q10,0 0,14 Q-10,0 0,-16 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="4"/></g>
+<g transform="translate(620 690) rotate(-15)"><path d="M0,-16 Q10,0 0,14 Q-10,0 0,-16 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="4"/></g>
+<line x1="540" y1="500" x2="540" y2="300" stroke="{{INK}}" stroke-width="20" stroke-linecap="round"/>
+<line x1="540" y1="500" x2="540" y2="300" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+<g transform="translate(540 280) rotate(-14)"><ellipse cx="0" cy="0" rx="87" ry="23" fill="none" stroke="{{INK}}" stroke-width="25"/><ellipse cx="0" cy="0" rx="87" ry="23" fill="none" stroke="{{C1}}" stroke-width="17"/><circle cx="0" cy="0" r="46" fill="{{C3}}" stroke="{{INK}}" stroke-width="9"/><circle cx="14" cy="5" r="15" fill="{{C1}}" stroke="{{INK}}" stroke-width="5"/><circle cx="-18" cy="-21" r="7" fill="#FFFFFF"/><path d="M-87,0 A87,23 0 0 0 87,0" fill="none" stroke="{{INK}}" stroke-width="25"/><path d="M-87,0 A87,23 0 0 0 87,0" fill="none" stroke="{{C1}}" stroke-width="17"/></g>
+<g transform="translate(190 400) rotate(20)"><circle cx="10" cy="10" r="66" fill="{{INK}}"/><circle cx="0" cy="0" r="66" fill="{{C1}}" stroke="{{INK}}" stroke-width="9"/><circle cx="0" cy="0" r="52" fill="#FFFFFF" stroke="{{INK}}" stroke-width="5"/><path d="M0,0 L52.0,0.0" stroke="{{C1}}" stroke-width="7"/><ellipse cx="29.1" cy="21.2" rx="7" ry="4" transform="rotate(36 29.1 21.2)" fill="{{C2}}" stroke="{{INK}}" stroke-width="2.5"/><path d="M0,0 L16.1,49.5" stroke="{{C1}}" stroke-width="7"/><ellipse cx="-11.1" cy="34.2" rx="7" ry="4" transform="rotate(108 -11.1 34.2)" fill="{{C2}}" stroke="{{INK}}" stroke-width="2.5"/><path d="M0,0 L-42.1,30.6" stroke="{{C1}}" stroke-width="7"/><ellipse cx="-36.0" cy="0.0" rx="7" ry="4" transform="rotate(180 -36.0 0.0)" fill="{{C2}}" stroke="{{INK}}" stroke-width="2.5"/><path d="M0,0 L-42.1,-30.6" stroke="{{C1}}" stroke-width="7"/><ellipse cx="-11.1" cy="-34.2" rx="7" ry="4" transform="rotate(252 -11.1 -34.2)" fill="{{C2}}" stroke="{{INK}}" stroke-width="2.5"/><path d="M0,0 L16.1,-49.5" stroke="{{C1}}" stroke-width="7"/><ellipse cx="29.1" cy="-21.2" rx="7" ry="4" transform="rotate(324 29.1 -21.2)" fill="{{C2}}" stroke="{{INK}}" stroke-width="2.5"/><circle cx="0" cy="0" r="8" fill="{{C1}}"/></g>
+<g transform="translate(905 905) rotate(-15)"><circle cx="10" cy="10" r="52" fill="{{INK}}"/><circle cx="0" cy="0" r="52" fill="{{C1}}" stroke="{{INK}}" stroke-width="9"/><circle cx="0" cy="0" r="38" fill="#FFFFFF" stroke="{{INK}}" stroke-width="5"/><path d="M0,0 L38.0,0.0" stroke="{{C1}}" stroke-width="7"/><ellipse cx="17.8" cy="12.9" rx="7" ry="4" transform="rotate(36 17.8 12.9)" fill="{{C2}}" stroke="{{INK}}" stroke-width="2.5"/><path d="M0,0 L11.7,36.1" stroke="{{C1}}" stroke-width="7"/><ellipse cx="-6.8" cy="20.9" rx="7" ry="4" transform="rotate(108 -6.8 20.9)" fill="{{C2}}" stroke="{{INK}}" stroke-width="2.5"/><path d="M0,0 L-30.7,22.3" stroke="{{C1}}" stroke-width="7"/><ellipse cx="-22.0" cy="0.0" rx="7" ry="4" transform="rotate(180 -22.0 0.0)" fill="{{C2}}" stroke="{{INK}}" stroke-width="2.5"/><path d="M0,0 L-30.7,-22.3" stroke="{{C1}}" stroke-width="7"/><ellipse cx="-6.8" cy="-20.9" rx="7" ry="4" transform="rotate(252 -6.8 -20.9)" fill="{{C2}}" stroke="{{INK}}" stroke-width="2.5"/><path d="M0,0 L11.7,-36.1" stroke="{{C1}}" stroke-width="7"/><ellipse cx="17.8" cy="-12.9" rx="7" ry="4" transform="rotate(324 17.8 -12.9)" fill="{{C2}}" stroke="{{INK}}" stroke-width="2.5"/><circle cx="0" cy="0" r="8" fill="{{C1}}"/></g>
+<line x1="269" y1="479" x2="290" y2="515" stroke="{{INK}}" stroke-width="8" stroke-linecap="round"/><line x1="250" y1="490" x2="280" y2="542" stroke="{{INK}}" stroke-width="8" stroke-linecap="round"/><line x1="231" y1="501" x2="252" y2="537" stroke="{{INK}}" stroke-width="8" stroke-linecap="round"/>
+<line x1="879" y1="1001" x2="858" y2="1037" stroke="{{INK}}" stroke-width="8" stroke-linecap="round"/><line x1="860" y1="990" x2="830" y2="1042" stroke="{{INK}}" stroke-width="8" stroke-linecap="round"/><line x1="841" y1="979" x2="820" y2="1015" stroke="{{INK}}" stroke-width="8" stroke-linecap="round"/>
+<g transform="translate(890 380) rotate(18)"><ellipse cx="0" cy="0" rx="57" ry="15" fill="none" stroke="{{INK}}" stroke-width="19"/><ellipse cx="0" cy="0" rx="57" ry="15" fill="none" stroke="{{C2}}" stroke-width="11"/><circle cx="0" cy="0" r="30" fill="{{C3}}" stroke="{{INK}}" stroke-width="9"/><circle cx="9" cy="3" r="10" fill="{{C1}}" stroke="{{INK}}" stroke-width="5"/><circle cx="-12" cy="-14" r="5" fill="#FFFFFF"/><path d="M-57,0 A57,15 0 0 0 57,0" fill="none" stroke="{{INK}}" stroke-width="19"/><path d="M-57,0 A57,15 0 0 0 57,0" fill="none" stroke="{{C2}}" stroke-width="11"/></g>
+<line x1="847" y1="454" x2="826" y2="479" stroke="{{INK}}" stroke-width="8" stroke-linecap="round"/><line x1="830" y1="440" x2="798" y2="478" stroke="{{INK}}" stroke-width="8" stroke-linecap="round"/><line x1="813" y1="426" x2="793" y2="450" stroke="{{INK}}" stroke-width="8" stroke-linecap="round"/>
+<g transform="translate(170 900) rotate(-25)"><path d="M0,-70 Q60,-40 50,10 Q40,60 0,80 Q-40,60 -50,10 Q-60,-40 0,-70 Z" fill="{{INK}}" transform="translate(9 9)"/><path d="M0,-70 Q60,-40 50,10 Q40,60 0,80 Q-40,60 -50,10 Q-60,-40 0,-70 Z" fill="{{C3}}" stroke="{{INK}}" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/><path d="M0,-55 L0,70 M0,-10 L28,-30 M0,20 L-28,0 M0,40 L26,25" fill="none" stroke="{{INK}}" stroke-width="5" stroke-linecap="round"/></g>
+<line x1="206" y1="804" x2="219" y2="781" stroke="{{INK}}" stroke-width="8" stroke-linecap="round"/><line x1="225" y1="815" x2="248" y2="776" stroke="{{INK}}" stroke-width="8" stroke-linecap="round"/><line x1="244" y1="826" x2="258" y2="803" stroke="{{INK}}" stroke-width="8" stroke-linecap="round"/>
+<g transform="translate(150 640) scale(1.2)"><path d="M0,-30 Q22,0 18,14 Q12,32 0,32 Q-12,32 -18,14 Q-22,0 0,-30 Z" fill="{{C1}}" stroke="{{INK}}" stroke-width="5.0"/><ellipse cx="-6" cy="10" rx="4" ry="7" fill="#FFFFFF"/></g>
+<g transform="translate(930 640) scale(1.0)"><path d="M0,-30 Q22,0 18,14 Q12,32 0,32 Q-12,32 -18,14 Q-22,0 0,-30 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="6.0"/><ellipse cx="-6" cy="10" rx="4" ry="7" fill="#FFFFFF"/></g>
+<g transform="translate(870 1180) scale(1.1)"><path d="M0,-30 Q22,0 18,14 Q12,32 0,32 Q-12,32 -18,14 Q-22,0 0,-30 Z" fill="{{C1}}" stroke="{{INK}}" stroke-width="5.5"/><ellipse cx="-6" cy="10" rx="4" ry="7" fill="#FFFFFF"/></g>
+<g transform="translate(220 1180) scale(0.9)"><path d="M0,-30 Q22,0 18,14 Q12,32 0,32 Q-12,32 -18,14 Q-22,0 0,-30 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="6.7"/><ellipse cx="-6" cy="10" rx="4" ry="7" fill="#FFFFFF"/></g>
+<g transform="translate(760 250) scale(0.8)"><path d="M0,-30 Q22,0 18,14 Q12,32 0,32 Q-12,32 -18,14 Q-22,0 0,-30 Z" fill="{{C1}}" stroke="{{INK}}" stroke-width="7.5"/><ellipse cx="-6" cy="10" rx="4" ry="7" fill="#FFFFFF"/></g>
+<g transform="translate(330 260) scale(0.9)"><path d="M0,-30 Q22,0 18,14 Q12,32 0,32 Q-12,32 -18,14 Q-22,0 0,-30 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="6.7"/><ellipse cx="-6" cy="10" rx="4" ry="7" fill="#FFFFFF"/></g>
+<path d="M120,216 Q129.52,240.48 154,250 Q129.52,259.52 120,284 Q110.48,259.52 86,250 Q110.48,240.48 120,216 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6" stroke-linejoin="round"/>
+<path d="M960,210 Q968.4,231.6 990,240 Q968.4,248.4 960,270 Q951.6,248.4 930,240 Q951.6,231.6 960,210 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="6" stroke-linejoin="round"/>
+<path d="M410,148 Q416.16,163.84 432,170 Q416.16,176.16 410,192 Q403.84,176.16 388,170 Q403.84,163.84 410,148 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6" stroke-linejoin="round"/>
+<path d="M700,124 Q707.28,142.72 726,150 Q707.28,157.28 700,176 Q692.72,157.28 674,150 Q692.72,142.72 700,124 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="6" stroke-linejoin="round"/>
+<path d="M960,1062 Q967.84,1082.16 988,1090 Q967.84,1097.84 960,1118 Q952.16,1097.84 932,1090 Q952.16,1082.16 960,1062 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6" stroke-linejoin="round"/>
+<path d="M110,1034 Q117.28,1052.72 136,1060 Q117.28,1067.28 110,1086 Q102.72,1067.28 84,1060 Q102.72,1052.72 110,1034 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6" stroke-linejoin="round"/>
+<path d="M540,1180 Q548.4,1201.6 570,1210 Q548.4,1218.4 540,1240 Q531.6,1218.4 510,1210 Q531.6,1201.6 540,1180 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="6" stroke-linejoin="round"/>
+<path d="M330,1222 Q335.04,1234.96 348,1240 Q335.04,1245.04 330,1258 Q324.96,1245.04 312,1240 Q324.96,1234.96 330,1222 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6" stroke-linejoin="round"/>
+<path d="M760,1230 Q765.6,1244.4 780,1250 Q765.6,1255.6 760,1270 Q754.4,1255.6 740,1250 Q754.4,1244.4 760,1230 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6" stroke-linejoin="round"/>
+<path d="M110,740 Q115.6,754.4 130,760 Q115.6,765.6 110,780 Q104.4,765.6 90,760 Q104.4,754.4 110,740 Z" fill="{{C2}}" stroke="{{INK}}" stroke-width="6" stroke-linejoin="round"/>
+<path d="M970,758 Q976.16,773.84 992,780 Q976.16,786.16 970,802 Q963.84,786.16 948,780 Q963.84,773.84 970,758 Z" fill="#FFFFFF" stroke="{{INK}}" stroke-width="6" stroke-linejoin="round"/>
+</svg>
