@@ -4,9 +4,35 @@
   "rubric": "In cucina",
   "style": "classica",
   "palettes": [
-    {"BG": "#FFF4D6", "DOT": "#FFC9A8", "C1": "#F23A3A", "C2": "#FFB81F", "C3": "#2DBE6C", "INK": "#15121C"},
-    {"BG": "#120A2E", "DOT": "#3A1A7A", "C1": "#FF2E9A", "C2": "#FFE53B", "C3": "#22E6D2", "INK": "#05020F"},
-    {"BG": "#FF8A5B", "DOT": "#C8336B", "C1": "#7A2BA8", "C2": "#FFD45C", "C3": "#2F8FE0", "INK": "#2A0A1E"}
+    {
+      "BG": "#FFF4D6",
+      "DOT": "#FFC9A8",
+      "C1": "#F23A3A",
+      "C2": "#FFB81F",
+      "C3": "#2DBE6C",
+      "INK": "#15121C"
+    },
+    {
+      "BG": "#120A2E",
+      "DOT": "#3A1A7A",
+      "C1": "#FF2E9A",
+      "C2": "#FFE53B",
+      "C3": "#22E6D2",
+      "INK": "#05020F"
+    },
+    {
+      "BG": "#FF8A5B",
+      "DOT": "#C8336B",
+      "C1": "#7A2BA8",
+      "C2": "#FFD45C",
+      "C3": "#2F8FE0",
+      "INK": "#2A0A1E"
+    }
   ],
-  "caption": "In questa cucina il panino non si ferma al secondo piano: sale come una torre, strato dopo strato, sopra un tagliere tondo. Lattuga a festone, pomodori a ruota e un formaggio che cola in gocce lente reggono una cupola di pane coperta di semi. In cima uno stecchino infilza un'oliva che ha deciso di diventare un pianeta, con tanto di anello. Intorno gli ingredienti scappano in volo tra schizzi di salsa e stelle.\n\nTre visioni dello stesso panino: pranzo al sole, spuntino di mezzanotte al neon, merenda al tramonto.\n\n#popart #popartitaliana #illustrazione #panino #incucina"
+  "caption": "In questa cucina il panino non si ferma al secondo piano: sale come una torre, strato dopo strato, sopra un tagliere tondo. Lattuga a festone, pomodori a ruota e un formaggio che cola in gocce lente reggono una cupola di pane coperta di semi. In cima uno stecchino infilza un'oliva che ha deciso di diventare un pianeta, con tanto di anello. Intorno gli ingredienti scappano in volo tra schizzi di salsa e stelle.\n\nTre visioni dello stesso panino: pranzo al sole, spuntino di mezzanotte al neon, merenda al tramonto.\n\n#popart #popartitaliana #illustrazione #panino #incucina",
+  "published": {
+    "at": "2026-11-12T18:37:10+01:00",
+    "reel_execution": "d0c52d0a632e4143907985a8f52f22d0",
+    "make_execution": "be94f127c7014d2fa5117c724fcdf50e"
+  }
 }
