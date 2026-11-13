@@ -4,9 +4,35 @@
   "rubric": "Oggetti non reali e vintage",
   "style": "pois",
   "palettes": [
-    {"BG": "#FFE14D", "DOT": "#FF3B7F", "C1": "#FF5A1F", "C2": "#1FA6FF", "C3": "#FFF6E0", "INK": "#141018"},
-    {"BG": "#120A3A", "DOT": "#00F0FF", "C1": "#FF2BD6", "C2": "#7A2BFF", "C3": "#1E1060", "INK": "#000000"},
-    {"BG": "#FF7A3D", "DOT": "#6A1B4D", "C1": "#FFD23F", "C2": "#D7263D", "C3": "#FFC9A8", "INK": "#2A0E1F"}
+    {
+      "BG": "#FFE14D",
+      "DOT": "#FF3B7F",
+      "C1": "#FF5A1F",
+      "C2": "#1FA6FF",
+      "C3": "#FFF6E0",
+      "INK": "#141018"
+    },
+    {
+      "BG": "#120A3A",
+      "DOT": "#00F0FF",
+      "C1": "#FF2BD6",
+      "C2": "#7A2BFF",
+      "C3": "#1E1060",
+      "INK": "#000000"
+    },
+    {
+      "BG": "#FF7A3D",
+      "DOT": "#6A1B4D",
+      "C1": "#FFD23F",
+      "C2": "#D7263D",
+      "C3": "#FFC9A8",
+      "INK": "#2A0E1F"
+    }
   ],
-  "caption": "In un salotto che non è mai esistito, una vecchia radio a cupola si è svegliata da sola. Si regge su due zampe ricurve, posata su un centrino di nonna, e muove le sue tre manopole come occhi curiosi. Dall'altoparlante non escono voci ma pois: onde di punti che si allargano, crescono e si perdono oltre la stanza. L'antenna a molla vibra e lancia scintille nell'aria.\n\nTre visioni della stessa trasmissione: mattino di sole, notte neon in onda, tramonto in sintonia.\n\n#popart #popartitaliana #illustrazione #vintage #radio"
+  "caption": "In un salotto che non è mai esistito, una vecchia radio a cupola si è svegliata da sola. Si regge su due zampe ricurve, posata su un centrino di nonna, e muove le sue tre manopole come occhi curiosi. Dall'altoparlante non escono voci ma pois: onde di punti che si allargano, crescono e si perdono oltre la stanza. L'antenna a molla vibra e lancia scintille nell'aria.\n\nTre visioni della stessa trasmissione: mattino di sole, notte neon in onda, tramonto in sintonia.\n\n#popart #popartitaliana #illustrazione #vintage #radio",
+  "published": {
+    "at": "2026-11-13T18:34:29+01:00",
+    "reel_execution": "b099920b410b45949e8a509d8044d384",
+    "make_execution": "efdb7ba417da484b9f1e08fcf4c25f89"
+  }
 }
