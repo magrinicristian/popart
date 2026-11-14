@@ -4,9 +4,35 @@
   "rubric": "In viaggio",
   "style": "classica",
   "palettes": [
-    {"BG": "#7FD3FF", "DOT": "#B8E8FF", "C1": "#FF3347", "C2": "#FFD92E", "C3": "#2A6DE0", "INK": "#121018"},
-    {"BG": "#170B3F", "DOT": "#2D1773", "C1": "#FF2EB8", "C2": "#C6FF2E", "C3": "#14D9E6", "INK": "#05020F"},
-    {"BG": "#FF8C5A", "DOT": "#FFB27A", "C1": "#6A1FA3", "C2": "#FFE55C", "C3": "#D8295E", "INK": "#2B0A1A"}
+    {
+      "BG": "#7FD3FF",
+      "DOT": "#B8E8FF",
+      "C1": "#FF3347",
+      "C2": "#FFD92E",
+      "C3": "#2A6DE0",
+      "INK": "#121018"
+    },
+    {
+      "BG": "#170B3F",
+      "DOT": "#2D1773",
+      "C1": "#FF2EB8",
+      "C2": "#C6FF2E",
+      "C3": "#14D9E6",
+      "INK": "#05020F"
+    },
+    {
+      "BG": "#FF8C5A",
+      "DOT": "#FFB27A",
+      "C1": "#6A1FA3",
+      "C2": "#FFE55C",
+      "C3": "#D8295E",
+      "INK": "#2B0A1A"
+    }
   ],
-  "caption": "Oggi si parte in funivia, ma non una qualsiasi: la cabina è un uovo rosso con tre oblò tondi e due alette a ventaglio, sospeso a un doppio cavo tra due vette aguzze. Dietro di lei sorge un sole enorme che apre il cielo a raggi, mentre una cabina gemella più piccola scivola verso l'altra stazione. Sotto, quattro colline si rincorrono a onde fino all'orizzonte, ognuna punteggiata dal suo retino. Dalle nuvole cadono gocce, tra le stelle brillano scintille: il viaggio è tutto sospeso a un filo.\n\nTre visioni della stessa traversata: mattino azzurro, notte al neon, tramonto arancio.\n\n#popart #popartitaliana #illustrazione #funivia #inviaggio"
+  "caption": "Oggi si parte in funivia, ma non una qualsiasi: la cabina è un uovo rosso con tre oblò tondi e due alette a ventaglio, sospeso a un doppio cavo tra due vette aguzze. Dietro di lei sorge un sole enorme che apre il cielo a raggi, mentre una cabina gemella più piccola scivola verso l'altra stazione. Sotto, quattro colline si rincorrono a onde fino all'orizzonte, ognuna punteggiata dal suo retino. Dalle nuvole cadono gocce, tra le stelle brillano scintille: il viaggio è tutto sospeso a un filo.\n\nTre visioni della stessa traversata: mattino azzurro, notte al neon, tramonto arancio.\n\n#popart #popartitaliana #illustrazione #funivia #inviaggio",
+  "published": {
+    "at": "2026-11-14T18:34:16+01:00",
+    "reel_execution": "218d6fd48a304b18b273fea2c121f6b3",
+    "make_execution": "a709d2ff6aaf4d9bb6e0cdde88e20766"
+  }
 }
