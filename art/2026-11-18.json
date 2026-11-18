@@ -4,9 +4,35 @@
   "rubric": "Stagione e ricorrenze",
   "style": "pois",
   "palettes": [
-    {"BG": "#DDF3FF", "DOT": "#4F8DFF", "C1": "#FF7A00", "C2": "#FFE14D", "C3": "#1FA35B", "INK": "#141018"},
-    {"BG": "#0E0730", "DOT": "#7A2CFF", "C1": "#FF3D8B", "C2": "#22F2FF", "C3": "#C6FF1A", "INK": "#04020C"},
-    {"BG": "#FFC79E", "DOT": "#D8345F", "C1": "#FF8C1A", "C2": "#FFF06A", "C3": "#3E7D3A", "INK": "#2A0A18"}
+    {
+      "BG": "#DDF3FF",
+      "DOT": "#4F8DFF",
+      "C1": "#FF7A00",
+      "C2": "#FFE14D",
+      "C3": "#1FA35B",
+      "INK": "#141018"
+    },
+    {
+      "BG": "#0E0730",
+      "DOT": "#7A2CFF",
+      "C1": "#FF3D8B",
+      "C2": "#22F2FF",
+      "C3": "#C6FF1A",
+      "INK": "#04020C"
+    },
+    {
+      "BG": "#FFC79E",
+      "DOT": "#D8345F",
+      "C1": "#FF8C1A",
+      "C2": "#FFF06A",
+      "C3": "#3E7D3A",
+      "INK": "#2A0A18"
+    }
   ],
-  "caption": "Quando novembre si fa freddo, nel cielo nevica a pois e un mandarino resta sospeso come un piccolo sole d'inverno. La sua buccia si srotola piano, una lunga spirale che scende fino a perdersi nella nebbia dei campi. Tre spicchi si sono staccati e gli girano intorno come lune, mentre la prima brina accende qualche stella. Profuma già di stufa accesa e di sere lunghe.\n\nTre visioni dello stesso freddo: mattino di brina, notte al neon, tramonto nella nebbia.\n\n#popart #popartitaliana #illustrazione #mandarini #autunno"
+  "caption": "Quando novembre si fa freddo, nel cielo nevica a pois e un mandarino resta sospeso come un piccolo sole d'inverno. La sua buccia si srotola piano, una lunga spirale che scende fino a perdersi nella nebbia dei campi. Tre spicchi si sono staccati e gli girano intorno come lune, mentre la prima brina accende qualche stella. Profuma già di stufa accesa e di sere lunghe.\n\nTre visioni dello stesso freddo: mattino di brina, notte al neon, tramonto nella nebbia.\n\n#popart #popartitaliana #illustrazione #mandarini #autunno",
+  "published": {
+    "at": "2026-11-18T18:34:00+01:00",
+    "reel_execution": "6037a16ccedf414495fcc2cf08a08b20",
+    "make_execution": "b7bc32d0e8414566a114475e5a331790"
+  }
 }
