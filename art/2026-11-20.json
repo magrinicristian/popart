@@ -4,9 +4,35 @@
   "rubric": "Oggetti non reali e vintage",
   "style": "pois",
   "palettes": [
-    {"BG": "#7FE0FF", "DOT": "#FF3D8B", "C1": "#FFD233", "C2": "#1E7BFF", "C3": "#FFF7E6", "INK": "#121018"},
-    {"BG": "#0B0630", "DOT": "#39FF88", "C1": "#FF2BD6", "C2": "#3A1A8A", "C3": "#14A8FF", "INK": "#000000"},
-    {"BG": "#FF8A3D", "DOT": "#7A1240", "C1": "#FFE066", "C2": "#C81D3A", "C3": "#FFD9B8", "INK": "#2A0C18"}
+    {
+      "BG": "#7FE0FF",
+      "DOT": "#FF3D8B",
+      "C1": "#FFD233",
+      "C2": "#1E7BFF",
+      "C3": "#FFF7E6",
+      "INK": "#121018"
+    },
+    {
+      "BG": "#0B0630",
+      "DOT": "#39FF88",
+      "C1": "#FF2BD6",
+      "C2": "#3A1A8A",
+      "C3": "#14A8FF",
+      "INK": "#000000"
+    },
+    {
+      "BG": "#FF8A3D",
+      "DOT": "#7A1240",
+      "C1": "#FFE066",
+      "C2": "#C81D3A",
+      "C3": "#FFD9B8",
+      "INK": "#2A0C18"
+    }
   ],
-  "caption": "In un pomeriggio che non è in nessun calendario, un vecchio ventilatore da tavolo si è messo a girare da solo. Le sue tre pale sono petali, la gabbia è una raggiera orlata di sfere colorate e il collo si allunga a fisarmonica sopra una cupola con tre manopole. Non soffia aria ma pois: scie bianche che si gonfiano, si sciolgono e trascinano con sé tutta la stanza. Persino lo sfondo ondeggia nel suo vento.\n\nTre visioni della stessa brezza: mattino d'estate, notte neon, tramonto rovente.\n\n#popart #popartitaliana #illustrazione #vintage #ventilatore"
+  "caption": "In un pomeriggio che non è in nessun calendario, un vecchio ventilatore da tavolo si è messo a girare da solo. Le sue tre pale sono petali, la gabbia è una raggiera orlata di sfere colorate e il collo si allunga a fisarmonica sopra una cupola con tre manopole. Non soffia aria ma pois: scie bianche che si gonfiano, si sciolgono e trascinano con sé tutta la stanza. Persino lo sfondo ondeggia nel suo vento.\n\nTre visioni della stessa brezza: mattino d'estate, notte neon, tramonto rovente.\n\n#popart #popartitaliana #illustrazione #vintage #ventilatore",
+  "published": {
+    "at": "2026-11-20T18:35:19+01:00",
+    "reel_execution": "3df2df0cd6d74971b665122a5a80299c",
+    "make_execution": "52b257d34c744082a38b94d346098134"
+  }
 }
