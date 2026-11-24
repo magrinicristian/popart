@@ -4,9 +4,35 @@
  "rubric": "Animali non reali",
  "style": "classica",
  "palettes": [
-  {"BG": "#FFF4D6", "DOT": "#3BB8F2", "C1": "#2F6BFF", "C2": "#FFD21F", "C3": "#FF5E7A", "INK": "#141022"},
-  {"BG": "#140B3C", "DOT": "#FF2E9A", "C1": "#1FE0C0", "C2": "#FFE53B", "C3": "#8A5BFF", "INK": "#05030F"},
-  {"BG": "#FFB86B", "DOT": "#E8395C", "C1": "#5A3FD0", "C2": "#FFF06A", "C3": "#19B7A6", "INK": "#2A0E1E"}
+  {
+   "BG": "#FFF4D6",
+   "DOT": "#3BB8F2",
+   "C1": "#2F6BFF",
+   "C2": "#FFD21F",
+   "C3": "#FF5E7A",
+   "INK": "#141022"
+  },
+  {
+   "BG": "#140B3C",
+   "DOT": "#FF2E9A",
+   "C1": "#1FE0C0",
+   "C2": "#FFE53B",
+   "C3": "#8A5BFF",
+   "INK": "#05030F"
+  },
+  {
+   "BG": "#FFB86B",
+   "DOT": "#E8395C",
+   "C1": "#5A3FD0",
+   "C2": "#FFF06A",
+   "C3": "#19B7A6",
+   "INK": "#2A0E1E"
+  }
  ],
- "caption": "Non nuota: vola. È una balena che nessun mare ha mai visto, con un'ala piumata sul dorso e la coda alzata come un saluto. Dallo sfiatatoio non esce acqua ma una fontana di gocce e stelle che ricadono nel cielo. Passa lenta davanti a una luna enorme, sopra un oceano d'aria fatto di scaglie d'onda che non finisce mai.\n\nTre visioni dello stesso volo: mattino crema e azzurro, notte al neon, tramonto pesca e viola.\n\n#popart #popartitaliana #illustrazione #animaliimmaginari #balena"
+ "caption": "Non nuota: vola. È una balena che nessun mare ha mai visto, con un'ala piumata sul dorso e la coda alzata come un saluto. Dallo sfiatatoio non esce acqua ma una fontana di gocce e stelle che ricadono nel cielo. Passa lenta davanti a una luna enorme, sopra un oceano d'aria fatto di scaglie d'onda che non finisce mai.\n\nTre visioni dello stesso volo: mattino crema e azzurro, notte al neon, tramonto pesca e viola.\n\n#popart #popartitaliana #illustrazione #animaliimmaginari #balena",
+ "published": {
+  "at": "2026-11-24T18:37:50+01:00",
+  "reel_execution": "45ab438549094a8bb8ff1e8ecbf46162",
+  "make_execution": "69f8d36c9c7d4e94981b89caaacd39d4"
+ }
 }
