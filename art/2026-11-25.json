@@ -4,9 +4,35 @@
   "rubric": "Stagione e ricorrenze",
   "style": "pois",
   "palettes": [
-    {"BG": "#E6F5FF", "DOT": "#3D7BFF", "C1": "#FF3358", "C2": "#FFD23F", "C3": "#7FDCCB", "INK": "#15121E"},
-    {"BG": "#0B0628", "DOT": "#6B2CFF", "C1": "#FF2E9A", "C2": "#22F0FF", "C3": "#3A1CA8", "INK": "#020108"},
-    {"BG": "#FFD6AE", "DOT": "#E2466B", "C1": "#7A2BD6", "C2": "#FF8A1F", "C3": "#F7B733", "INK": "#2A0B1A"}
+    {
+      "BG": "#E6F5FF",
+      "DOT": "#3D7BFF",
+      "C1": "#FF3358",
+      "C2": "#FFD23F",
+      "C3": "#7FDCCB",
+      "INK": "#15121E"
+    },
+    {
+      "BG": "#0B0628",
+      "DOT": "#6B2CFF",
+      "C1": "#FF2E9A",
+      "C2": "#22F0FF",
+      "C3": "#3A1CA8",
+      "INK": "#020108"
+    },
+    {
+      "BG": "#FFD6AE",
+      "DOT": "#E2466B",
+      "C1": "#7A2BD6",
+      "C2": "#FF8A1F",
+      "C3": "#F7B733",
+      "INK": "#2A0B1A"
+    }
   ],
-  "caption": "A fine novembre la pioggia arriva a pois e un ombrello si apre tre volte, una cupola sopra l'altra come una piccola pagoda. Da ogni punta pende una goccia che aspetta il suo turno per cadere. Sotto, il manico a uncino sfiora una pozzanghera che si allarga in cerchi, mentre due foglie gli ultimi colori dell'autunno se li portano via danzando. Anche il cielo grigio, visto da qui sotto, sembra una festa.\n\nTre visioni dello stesso acquazzone: mattino lavato, notte al neon, tramonto dopo la pioggia.\n\n#popart #popartitaliana #illustrazione #pioggia #autunno"
+  "caption": "A fine novembre la pioggia arriva a pois e un ombrello si apre tre volte, una cupola sopra l'altra come una piccola pagoda. Da ogni punta pende una goccia che aspetta il suo turno per cadere. Sotto, il manico a uncino sfiora una pozzanghera che si allarga in cerchi, mentre due foglie gli ultimi colori dell'autunno se li portano via danzando. Anche il cielo grigio, visto da qui sotto, sembra una festa.\n\nTre visioni dello stesso acquazzone: mattino lavato, notte al neon, tramonto dopo la pioggia.\n\n#popart #popartitaliana #illustrazione #pioggia #autunno",
+  "published": {
+    "at": "2026-11-25T18:35:26+01:00",
+    "reel_execution": "c02fa53899e0459a9b4635f339920e8a",
+    "make_execution": "aa95e864a73543958c7052a70408a718"
+  }
 }
