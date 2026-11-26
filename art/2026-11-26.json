@@ -4,9 +4,35 @@
   "rubric": "In cucina",
   "style": "classica",
   "palettes": [
-    {"BG": "#FFF4D6", "DOT": "#8FD3F4", "C1": "#E63946", "C2": "#FFC233", "C3": "#3DBE7A", "INK": "#16121C"},
-    {"BG": "#0B0B26", "DOT": "#2D1E7A", "C1": "#FF2E93", "C2": "#FFE94A", "C3": "#21E6C1", "INK": "#03030C"},
-    {"BG": "#FFB26B", "DOT": "#C9417A", "C1": "#7A1FA2", "C2": "#FFE38A", "C3": "#1F8A70", "INK": "#2A0A18"}
+    {
+      "BG": "#FFF4D6",
+      "DOT": "#8FD3F4",
+      "C1": "#E63946",
+      "C2": "#FFC233",
+      "C3": "#3DBE7A",
+      "INK": "#16121C"
+    },
+    {
+      "BG": "#0B0B26",
+      "DOT": "#2D1E7A",
+      "C1": "#FF2E93",
+      "C2": "#FFE94A",
+      "C3": "#21E6C1",
+      "INK": "#03030C"
+    },
+    {
+      "BG": "#FFB26B",
+      "DOT": "#C9417A",
+      "C1": "#7A1FA2",
+      "C2": "#FFE38A",
+      "C3": "#1F8A70",
+      "INK": "#2A0A18"
+    }
   ],
-  "caption": "In questa cucina lo spiedino ha perso ogni misura ed è diventato una torre. Su un solo stecco convivono una meringa a nuvola, una polpetta che gira a spirale, un raviolo a forma di stella e il cappello a pois di un fungo che non cresce in nessun bosco. In fondo, un pomodorino ha scelto di essere un cubo perfetto e lascia cadere gocce di salsa nel piatto. Dietro, le piastrelle di maiolica brillano di stelle.\n\nTre visioni dello stesso spiedino: pranzo al sole, cena di mezzanotte al neon, aperitivo al tramonto.\n\n#popart #popartitaliana #illustrazione #spiedino #incucina"
+  "caption": "In questa cucina lo spiedino ha perso ogni misura ed è diventato una torre. Su un solo stecco convivono una meringa a nuvola, una polpetta che gira a spirale, un raviolo a forma di stella e il cappello a pois di un fungo che non cresce in nessun bosco. In fondo, un pomodorino ha scelto di essere un cubo perfetto e lascia cadere gocce di salsa nel piatto. Dietro, le piastrelle di maiolica brillano di stelle.\n\nTre visioni dello stesso spiedino: pranzo al sole, cena di mezzanotte al neon, aperitivo al tramonto.\n\n#popart #popartitaliana #illustrazione #spiedino #incucina",
+  "published": {
+    "at": "2026-11-26T18:34:56+01:00",
+    "reel_execution": "a915e2957b4b4554aa4a797758b3df4d",
+    "make_execution": "cd3cdeed4a96455eaf69bb2a99f8b1e2"
+  }
 }
